@@ -81,13 +81,7 @@
     } else if ($(".mobile-nav, .mobile-nav-toggle").length) {
       $(".mobile-nav, .mobile-nav-toggle").hide();
     }
-  
-    // Stick the header at top on scroll
-    $("#header").sticky({
-      topSpacing: 0,
-      zIndex: '50'
-    });
-  
+    
     // Real view height for mobile devices
     if (window.matchMedia("(max-width: 767px)").matches) {
       $('#hero').css({

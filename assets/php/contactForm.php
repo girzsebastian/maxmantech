@@ -30,16 +30,14 @@ if(isset($_POST['name']) && isset($_POST['email'])) {
 
     if (!$mail->send()) {
         echo "Message has been sent";
-        echo ("<script LANGUAGE='JavaScript'>
+        echo ("<script>
     window.alert('Mesajul tau nu s-a putut inregistra, incearca mai tarziu!');
-    window.location.href='http://atp-utilaje.ro';
     </script>");
         exit;
     }
 
-    echo ("<script LANGUAGE='JavaScript'>
+    echo ("<script>
     window.alert('Mesajul tau a fost trimis!');
-    window.location.href='http://atp-utilaje.ro';
     </script>");
 }
 ?>

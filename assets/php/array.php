@@ -38,16 +38,16 @@ return [
                 'cod' => '#133722',
                 'greutate' => '3800 kg',
                 'putere' => '51 CP',
-                'image' => 'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1.jpeg',
+                'image' => 'assets/img/products/Buldoexcavatoare/buldoexcavatoare-2.jpeg',
                 'images' => [
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-0.jpg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-1.jpeg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-2.jpeg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-3.jpeg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-4.jpeg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-5.jpeg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-6.jpeg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-7.jpeg'
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-0.jpg',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-1.jpeg',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-2.jpeg',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-3.jpeg',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-4.jpeg',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-5.jpeg',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-6.jpeg',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-7.jpeg'
                 ],
                 'descriere' => [
                     'Specificatii Tehnice' =>[
@@ -67,16 +67,16 @@ return [
                 'cod' => '#356975',
                 'greutate' => '8200 kg',
                 'putere' => '100 CP',
-                'image' => 'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1.jpeg',
+                'image' => 'assets/img/products/Buldoexcavatoare/buldoexcavatoare-3.jpeg',
                 'images' => [
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-0.jpg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-1.jpeg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-2.jpeg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-3.jpeg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-4.jpeg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-5.jpeg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-6.jpeg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-7.jpeg'
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-3-0.jpg',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-3-1.jpeg',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-3-2.jpeg',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-3-3.jpeg',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-3-4.jpeg',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-3-5.jpeg',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-3-6.jpeg',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-3-7.jpeg'
                 ],
                 'descriere' => [
                     'Specificatii Tehnice' =>[
@@ -96,16 +96,16 @@ return [
                 'cod' => '#320853',
                 'greutate' => '8500 kg',
                 'putere' => '94 CP',
-                'image' => 'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1.jpeg',
+                'image' => 'assets/img/products/Buldoexcavatoare/buldoexcavatoare-4.jpeg',
                 'images' => [
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-0.jpg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-1.jpeg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-2.jpeg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-3.jpeg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-4.jpeg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-5.jpeg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-6.jpeg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-7.jpeg'
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-4-0.jpg',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-4-1.jpeg',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-4-2.jpeg',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-4-3.jpeg',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-4-4.jpeg',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-4-5.jpeg',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-4-6.jpeg',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-4-7.jpeg'
                 ],
                 'descriere' => [
                     'Specificatii Tehnice' =>[
@@ -125,16 +125,16 @@ return [
                 'cod' => '#189440',
                 'greutate' => '8750 kg',
                 'putere' => '100 CP',
-                'image' => 'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1.jpeg',
+                'image' => 'assets/img/products/Buldoexcavatoare/buldoexcavatoare-5.jpeg',
                 'images' => [
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-0.jpg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-1.jpeg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-2.jpeg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-3.jpeg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-4.jpeg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-5.jpeg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-6.jpeg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-7.jpeg'
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-5-0.jpg',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-5-1.jpeg',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-5-2.jpeg',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-5-3.jpeg',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-5-4.jpeg',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-5-5.jpeg',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-5-6.jpeg',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-5-7.jpeg'
                 ],
                 'descriere' => [
                     'Specificatii Tehnice' =>[
@@ -184,16 +184,16 @@ return [
                     'cod' => '#133722',
                     'greutate' => '3800 kg',
                     'putere' => '51 CP',
-                    'image' => 'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1.jpeg',
+                    'image' => 'assets/img/products/Buldoexcavatoare/buldoexcavatoare-2.jpeg',
                     'images' => [
-                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-0.jpg',
-                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-1.jpeg',
-                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-2.jpeg',
-                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-3.jpeg',
-                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-4.jpeg',
-                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-5.jpeg',
-                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-6.jpeg',
-                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-7.jpeg'
+                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-0.jpg',
+                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-1.jpeg',
+                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-2.jpeg',
+                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-3.jpeg',
+                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-4.jpeg',
+                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-5.jpeg',
+                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-6.jpeg',
+                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-7.jpeg'
                     ],
                     'descriere' => [
                         'Specificatii Tehnice' =>[
@@ -213,16 +213,16 @@ return [
                     'cod' => '#356975',
                     'greutate' => '8200 kg',
                     'putere' => '100 CP',
-                    'image' => 'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1.jpeg',
+                    'image' => 'assets/img/products/Buldoexcavatoare/buldoexcavatoare-3.jpeg',
                     'images' => [
-                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-0.jpg',
-                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-1.jpeg',
-                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-2.jpeg',
-                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-3.jpeg',
-                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-4.jpeg',
-                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-5.jpeg',
-                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-6.jpeg',
-                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-7.jpeg'
+                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-3-0.jpg',
+                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-3-1.jpeg',
+                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-3-2.jpeg',
+                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-3-3.jpeg',
+                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-3-4.jpeg',
+                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-3-5.jpeg',
+                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-3-6.jpeg',
+                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-3-7.jpeg'
                     ],
                     'descriere' => [
                         'Specificatii Tehnice' =>[
@@ -242,16 +242,16 @@ return [
                     'cod' => '#320853',
                     'greutate' => '8500 kg',
                     'putere' => '94 CP',
-                    'image' => 'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1.jpeg',
+                    'image' => 'assets/img/products/Buldoexcavatoare/buldoexcavatoare-4.jpeg',
                     'images' => [
-                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-0.jpg',
-                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-1.jpeg',
-                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-2.jpeg',
-                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-3.jpeg',
-                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-4.jpeg',
-                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-5.jpeg',
-                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-6.jpeg',
-                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-7.jpeg'
+                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-4-0.jpg',
+                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-4-1.jpeg',
+                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-4-2.jpeg',
+                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-4-3.jpeg',
+                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-4-4.jpeg',
+                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-4-5.jpeg',
+                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-4-6.jpeg',
+                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-4-7.jpeg'
                     ],
                     'descriere' => [
                         'Specificatii Tehnice' =>[
@@ -271,16 +271,16 @@ return [
                     'cod' => '#189440',
                     'greutate' => '8750 kg',
                     'putere' => '100 CP',
-                    'image' => 'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1.jpeg',
+                    'image' => 'assets/img/products/Buldoexcavatoare/buldoexcavatoare-5.jpeg',
                     'images' => [
-                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-0.jpg',
-                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-1.jpeg',
-                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-2.jpeg',
-                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-3.jpeg',
-                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-4.jpeg',
-                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-5.jpeg',
-                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-6.jpeg',
-                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-7.jpeg'
+                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-5-0.jpg',
+                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-5-1.jpeg',
+                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-5-2.jpeg',
+                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-5-3.jpeg',
+                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-5-4.jpeg',
+                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-5-5.jpeg',
+                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-5-6.jpeg',
+                        'assets/img/products/Buldoexcavatoare/buldoexcavatoare-5-7.jpeg'
                     ],
                     'descriere' => [
                         'Specificatii Tehnice' =>[

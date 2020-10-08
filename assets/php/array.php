@@ -19,7 +19,7 @@ return [
                     'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-5.jpeg',
                     'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-6.jpeg',
                     'assets/img/products/Buldoexcavatoare/buldoexcavatoare-1-7.jpeg'
-                    ],
+                ],
                 'descriere' => [
                     'Specificatii Tehnice' =>[
                         'Motor' => 'Perkins Tier IVF',
@@ -41,13 +41,13 @@ return [
                 'image' => 'assets/img/products/Buldoexcavatoare/buldoexcavatoare-2.jpg',
                 'images' => [
                     'assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-0.jpg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-1.jpeg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-2.jpeg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-3.jpeg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-4.jpeg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-5.jpeg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-6.jpeg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-7.jpeg'
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-1.jpg',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-2.jpg',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-3.jpg',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-4.jpg',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-5.jpg',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-6.jpg',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-7.jpg'
                 ],
                 'descriere' => [
                     'Specificatii Tehnice' =>[
@@ -70,13 +70,13 @@ return [
                 'image' => 'assets/img/products/Buldoexcavatoare/buldoexcavatoare-3.jpg',
                 'images' => [
                     'assets/img/products/Buldoexcavatoare/buldoexcavatoare-3-0.jpg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-3-1.jpeg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-3-2.jpeg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-3-3.jpeg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-3-4.jpeg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-3-5.jpeg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-3-6.jpeg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-3-7.jpeg'
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-3-1.jpg',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-3-2.jpg',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-3-3.jpg',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-3-4.jpg',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-3-5.jpg',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-3-6.jpg',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-3-7.jpg'
                 ],
                 'descriere' => [
                     'Specificatii Tehnice' =>[
@@ -98,14 +98,14 @@ return [
                 'putere' => '94 CP',
                 'image' => 'assets/img/products/Buldoexcavatoare/buldoexcavatoare-4.jpg',
                 'images' => [
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-4-0.jpg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-4-1.jpeg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-4-2.jpeg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-4-3.jpeg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-4-4.jpeg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-4-5.jpeg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-4-6.jpeg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-4-7.jpeg'
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-4-0.png',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-4-1.jpg',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-4-2.jpg',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-4-3.jpg',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-4-4.jpg',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-4-5.jpg',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-4-6.jpg',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-4-7.jpg'
                 ],
                 'descriere' => [
                     'Specificatii Tehnice' =>[
@@ -128,13 +128,13 @@ return [
                 'image' => 'assets/img/products/Buldoexcavatoare/buldoexcavatoare-5.jpg',
                 'images' => [
                     'assets/img/products/Buldoexcavatoare/buldoexcavatoare-5-0.jpg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-5-1.jpeg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-5-2.jpeg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-5-3.jpeg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-5-4.jpeg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-5-5.jpeg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-5-6.jpeg',
-                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-5-7.jpeg'
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-5-1.jpg',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-5-2.jpg',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-5-3.jpg',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-5-4.jpg',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-5-5.jpg',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-5-6.jpg',
+                    'assets/img/products/Buldoexcavatoare/buldoexcavatoare-5-7.jpg'
                 ],
                 'descriere' => [
                     'Specificatii Tehnice' =>[

@@ -1,85 +1,42 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>HOME | MAXMANTECH</title>
-    <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i%7CRaleway:300,300i,400,400i,500,500i,600,600i,700,700i%7CPoppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
-    <!-- Vendor CSS Files -->
-    <link href="../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link href="../vendor/icofont/icofont.min.css" rel="stylesheet">
-    <link href="../vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-    <link href="../vendor/animate.css/animate.min.css" rel="stylesheet">
-    <link href="../vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
-    <link href="../vendor/venobox/venobox.css" rel="stylesheet">
-    <link href="../css/style.css" rel="stylesheet">
-</head>
-<body>
-
-<div class="container-fluid col-lg-6 p-0 mb-5 product-grid">
+<div class="container-fluid col-lg-8 col-md-8 col-sm-10 p-0 mb-5 product-grid">
     <div class="row">
-        <div class="col-lg-4 container-img-product">
+        <div class="col-lg-3 col-md-12 co-sm-12 container-img-product">
             <a href="">
-                <img src="../../exemplu.jpeg" alt="schimba">
+                <img src="{{ image }}" alt="schimba">
             </a>
         </div>
-        <div class="col-lg-8 d-flex p-0">
-            <div class="col-lg-9 p-0">
+        <div class="col-lg-9 col-md-12 col-sm-12 d-flex container-product-info">
+            <div class="col-lg-8 col-md-8 col-sm-8 p-0">
                 <div class="row">
                     <div class="product-title-div">
-                        <h3 class="product-title">Titlu Produs</h3>
+                        <h3 class="product-title">{{ title }}</h3>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-lg-6">
+                    <div class="col-lg-8 col-md-8 col-sm-12">
                         <div class="row border-bottom m-2">
-                            <div class="col-lg-6">Cod</div>
-                            <div class="col-lg-6">#exemplu</div>
+                            <div class="col-lg-6 col-md-6 col-sm-6">Cod</div>
+                            <div class="col-lg-6 col-md-6 col-sm-6 text-right">{{ cod }}</div>
                         </div>
                         <div class="row border-bottom m-2">
-                            <div class="col-lg-6">Greutate</div>
-                            <div class="col-lg-6">#exemplu</div>
+                            <div class="col-lg-6 col-md-6 col-sm-6">Greutate</div>
+                            <div class="col-lg-6 col-md-6 col-sm-6 text-right">{{ greutate }}</div>
                         </div>
                         <div class="row border-bottom m-2">
-                            <div class="col-lg-6">Putere</div>
-                            <div class="col-lg-6">#exemplu</div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6">
-                        <div class="row border-bottom m-2">
-                            <div class="col-lg-6">An</div>
-                            <div class="col-lg-6">#exemplu</div>
-                        </div>
-                        <div class="row border-bottom m-2">
-                            <div class="col-lg-6">Ore</div>
-                            <div class="col-lg-6">#exemplu</div>
+                            <div class="col-lg-6 col-md-6 col-sm-6">Putere</div>
+                            <div class="col-lg-6 col-md-6 col-sm-6 text-right">{{ putere }}</div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3">
+            <div class="col-lg-4 col-md-4 col-sm-4">
                 <div class="row justify-content-center price">
-                    <h4 class="price-text">price $</h4>
+                    <h4 class="price-text">PRET LA CERERE</h4>
                 </div>
                 <div class="row justify-content-center price-grid">
-                    <a class="product-link-button" href="#">Vezi Detalii</a>
+                    <a class="product-link-button" href="viewProduct.php?product={{ id }}">Vezi Detalii</a>
                 </div>
             </div>
         </div>
     </div>
 </div>
-
-<!-- Vendor JS Files -->
-<script src="../vendor/jquery/jquery.min.js"></script>
-<script src="../vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-<script src="../vendor/jquery.easing/jquery.easing.min.js"></script>
-<script src="../vendor/php-email-form/validate.js"></script>
-<script src="../vendor/jquery-sticky/jquery.sticky.js"></script>
-<script src="../vendor/owl.carousel/owl.carousel.min.js"></script>
-<script src="../vendor/waypoints/jquery.waypoints.min.js"></script>
-<script src="../vendor/counterup/counterup.min.js"></script>
-<script src="../vendor/isotope-layout/isotope.pkgd.min.js"></script>
-<script src="../vendor/venobox/venobox.min.js"></script>
-<script src="../js/main.js"></script>
-</body>
-</html>

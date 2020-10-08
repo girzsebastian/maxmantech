@@ -20,7 +20,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40917f06-c353-4fcb-8bc0-8fd23f27752c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-3-0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-3-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-3-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-3-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-3-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-3-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-3-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-4-0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-4-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-4-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-4-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-4-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-4-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-4-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-4-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-5-0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-5-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/viewProduct.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/html/viewProduct.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/html/viewProduct.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/php/array.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/php/array.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/php/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/php/functions.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,12 +101,12 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare" />
       <recent name="$PROJECT_DIR$/html" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -117,9 +152,13 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2598" y="273" width="561" height="568" key="NewPhpClassDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1602144413776" />
-    <state x="2675" y="479" width="399" height="156" key="NewPhpFileDialog" timestamp="1602143862801">
+    <state x="2675" y="479" width="399" height="156" key="NewPhpFileDialog" timestamp="1602152325185">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2675" y="479" width="399" height="156" key="NewPhpFileDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1602143862801" />
+    <state x="2675" y="479" width="399" height="156" key="NewPhpFileDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1602152325185" />
+    <state x="2645" y="237" width="460" height="640" key="RollbackChangesDialog" timestamp="1602152934186">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2645" y="237" width="460" height="640" key="RollbackChangesDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1602152934186" />
   </component>
 </project>

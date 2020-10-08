@@ -31,3 +31,6 @@
         $file = str_replace('{{ title }}', $category, $file);
         return $file;
     }
+    function getProductById($product, $array){
+        return '';
+    }

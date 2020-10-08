@@ -38,7 +38,7 @@ return [
                 'cod' => '#133722',
                 'greutate' => '3800 kg',
                 'putere' => '51 CP',
-                'image' => 'assets/img/products/Buldoexcavatoare/buldoexcavatoare-2.jpeg',
+                'image' => 'assets/img/products/Buldoexcavatoare/buldoexcavatoare-2.jpg',
                 'images' => [
                     'assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-0.jpg',
                     'assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-1.jpeg',
@@ -67,7 +67,7 @@ return [
                 'cod' => '#356975',
                 'greutate' => '8200 kg',
                 'putere' => '100 CP',
-                'image' => 'assets/img/products/Buldoexcavatoare/buldoexcavatoare-3.jpeg',
+                'image' => 'assets/img/products/Buldoexcavatoare/buldoexcavatoare-3.jpg',
                 'images' => [
                     'assets/img/products/Buldoexcavatoare/buldoexcavatoare-3-0.jpg',
                     'assets/img/products/Buldoexcavatoare/buldoexcavatoare-3-1.jpeg',
@@ -96,7 +96,7 @@ return [
                 'cod' => '#320853',
                 'greutate' => '8500 kg',
                 'putere' => '94 CP',
-                'image' => 'assets/img/products/Buldoexcavatoare/buldoexcavatoare-4.jpeg',
+                'image' => 'assets/img/products/Buldoexcavatoare/buldoexcavatoare-4.jpg',
                 'images' => [
                     'assets/img/products/Buldoexcavatoare/buldoexcavatoare-4-0.jpg',
                     'assets/img/products/Buldoexcavatoare/buldoexcavatoare-4-1.jpeg',
@@ -125,7 +125,7 @@ return [
                 'cod' => '#189440',
                 'greutate' => '8750 kg',
                 'putere' => '100 CP',
-                'image' => 'assets/img/products/Buldoexcavatoare/buldoexcavatoare-5.jpeg',
+                'image' => 'assets/img/products/Buldoexcavatoare/buldoexcavatoare-5.jpg',
                 'images' => [
                     'assets/img/products/Buldoexcavatoare/buldoexcavatoare-5-0.jpg',
                     'assets/img/products/Buldoexcavatoare/buldoexcavatoare-5-1.jpeg',

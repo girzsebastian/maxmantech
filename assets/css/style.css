@@ -1126,7 +1126,7 @@ section {
 }
 
  /*--------------------------------------------------------------
-#  Product grid
+#  Product card
 --------------------------------------------------------------*/
 
 .product-grid{
@@ -1200,4 +1200,18 @@ section {
     border-bottom-right-radius: 15px;
     border-top-right-radius: 15px;
   }
+}
+
+/*--------------------------------------------------------------
+#  Product view
+--------------------------------------------------------------*/
+.container-img-product-view img{
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: fill;
+}
+
+.image-product .owl-item img {
+  width: auto;
+  height: 100px;
 }

@@ -1,9 +1,29 @@
-/**
- * Template Name: Eterna - v2.1.0
- * Template URL: https://bootstrapmade.com/eterna-free-multipurpose-bootstrap-template/
- * Author: BootstrapMade.com
- * License: https://bootstrapmade.com/license/
- */
+function modalImage(item){
+    document.getElementById('modal-body').innerHTML = '';
+    let img = item.getAttribute('src');
+    const imgElement = document.createElement("img");
+    imgElement.setAttribute('src', img);
+    imgElement.setAttribute('alt', 'image');
+    imgElement.setAttribute('style', 'width: 100%;display: flex; justify-content: center:');
+    document.getElementById('modal-body').appendChild(imgElement);
+}
+
+function contact(){
+    location.replace("https://www.maxmantech.ro/contact.php")
+}
+function suna(item){
+    const parent = item.parentNode;
+    let text = parent.children[0].textContent;
+    let id = item.getAttribute('id');
+    if (id === '0'){
+        parent.children[0].textContent = '+40 771 466 ' +
+            '461';
+        item.setAttribute('id', '1');
+    }else{
+        parent.children[0].textContent = 'Suna-ne';
+        item.setAttribute('id', '0')
+    }
+}
 !(function($) {
     "use strict";
 
@@ -146,6 +166,31 @@
             },
             900: {
                 items: 6
+            }
+        }
+    });
+
+    // Clients carousel (uses the Owl Carousel library)
+    $(".image-product").owlCarousel({
+        dots: false,
+        loop: true,
+        nav: false,
+        margin: 20,
+        responsive: {
+            0: {
+                items: 3
+            },
+            768: {
+                items: 4
+            },
+            900: {
+                items: 4
+            },
+            1091: {
+                items: 3
+            },
+            1360: {
+                items: 4
             }
         }
     });

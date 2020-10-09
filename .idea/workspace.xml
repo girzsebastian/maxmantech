@@ -20,21 +20,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40917f06-c353-4fcb-8bc0-8fd23f27752c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/html/breadcrumbsProductUtilaje.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/html/carousel.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/html/descriereProduct.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/html/image.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/html/productBody.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-2-9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-3-0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-3-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-3-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-3-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-3-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-3-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-3-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-4-0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-4-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-4-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-4-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-4-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-4-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-4-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-4-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-5-0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-5-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/viewProduct.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/html/productCard.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/html/productCard.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/html/viewProduct.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/html/viewProduct.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/php/array.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/php/array.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/php/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/php/functions.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/viewProduct.php" beforeDir="false" afterPath="$PROJECT_DIR$/viewProduct.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,8 +89,9 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -88,7 +110,10 @@
       <recent name="$PROJECT_DIR$/html" />
     </key>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="40917f06-c353-4fcb-8bc0-8fd23f27752c" name="Default Changelist" comment="" />
@@ -111,7 +136,7 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">

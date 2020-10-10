@@ -166,8 +166,11 @@ function getArrayMetaCategory($categoryArray)
 
 function buildMeta($productArray)
 {
-    $metaArray = $productArray['meta'];
-    $file = file_get_contents('assets/html/meta.html');
-    $file = str_replace(['{{ title }}', '{{ url }}', '{{ description }}'], [$metaArray['title'], $metaArray['url'], $metaArray['description']], $file);
-    return $file;
+    if (array_key_exists("meta", $productArray)){
+        $metaArray = $productArray['meta'];
+        $file = file_get_contents('assets/html/meta.html');
+        $file = str_replace(['{{ title }}', '{{ url }}', '{{ description }}'], [$metaArray['title'], $metaArray['url'], $metaArray['description']], $file);
+        return $file;
+    }
+    return null;
 }

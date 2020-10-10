@@ -7,7 +7,6 @@ if(!empty($product)){
     $descriptionArray = getProductDescriptionById($product, $array);
     $productFinal = buildProductByName($productArray, $descriptionArray);
     $metaArray = getArrayMetaProduct($productArray);
-    var_dump($metaArray);exit();
 
     $html = file_get_contents('assets/html/viewProduct.html');
     $topBar = file_get_contents('assets/html/topBar.html');

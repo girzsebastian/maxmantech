@@ -174,7 +174,6 @@ function getArrayMetaProduct($productArray)
 {
     if (is_array($productArray) || is_object($productArray)) {
         foreach ($productArray as $key => $value) {
-            var_dump($value);
             if (array_key_exists("meta", $value)) {
                 $resultSet['meta'] = $value['meta'];
             }

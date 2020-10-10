@@ -389,8 +389,14 @@ return [
                  <td height="20" class="xl65" style="height:15.0pt"><p><u>Echipare standard:</u></p><p>- Cupa multifunctionala&nbsp;&nbsp;</p><p>- Brat telescopic</p><p>- Instalatie hidraulica pentru picon&nbsp;</p><p>- CD player</p><p>&nbsp;- Cabina inchisa ROPS/FOPS cu incalzire</p><p>- Control mecanic cu leviere pt incarcator si brat excavare</p><p>- Utilaj marcat CE&nbsp;</p></td>
                  <td></td>
                 </tr>
-                <tr height="20" style="height:15.0pt">
-                 <td height="20" class="xl65" style="height:15.0pt;border-top:none"></td><td></td></tr></tbody></table>
+                <tr height="20" style="height:15.0pt">ev_herte
+25
+ 
+      <chang
+                 <td height="20" class="xl65" style="height:15.ev_herte
+25
+ 
+      <chang0pt;border-top:none"></td><td></td></tr></tbody></table>
                 ',
                 'descriereText' => [
                     'Utilaj multifunctional' => 'Çukurova 883 este un buldoexcavator fiabil și capabil, robust și puternic, apreciat la scară largă datorită unui set de trăsături specifice. Este genul de utilaj bun la toate, ce se adaptează oricăror condiții și oricărui tip de muncă. Este versatil și eficient. Buldoexcavatorul Çukurova 883 este combinația ideală dintre forță și siguranță în muncă, precum și confort în operare.',
@@ -399,6 +405,11 @@ return [
                     'Performanta' => 'Bordul secundar este de mari dimensiuni, astfel încât informațiile afișate să fie ușor de citit. Printre acestea, indicatori de mentenanță, timp de lucru, nivelul combustibilului, temperatura uleiului și altele. Totodată, coloana de direcție este reglabilă, astfel încât operatorul să poată seta volanul în orice poziție și să aibă o vizibilitate maximă.'
                 ]
             ],
+            'meta' => [
+                'title' => 'Buldoexcavatore | MAXMANTECH',
+                'url' => 'https://maxmantech.ro/category.php?category=Buldoexcavatoare',
+                'description' => 'Buldoexcavatoare, MAXMANTECH va ofera buldoexcavatoare noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
+            ]
         ],
         'Excavatoare' => [
             'Excavator Industrial MINELLI M20.83 PRO' => [
@@ -409,7 +420,10 @@ return [
                 'greutate' => '20000 kg',
                 'putere' => '119 CP',
                 'image' => 'assets/img/products/Excavatoare/Excavator-1.jpg',
-                'images' => [
+                'images' => [ev_herte
+25
+ 
+      <chang
                     'assets/img/products/Excavatoare/Excavator-1-0.jpg',
                     'assets/img/products/Excavatoare/Excavator-1-1.jpg',
                     'assets/img/products/Excavatoare/Excavator-1-2.jpg',
@@ -430,7 +444,10 @@ return [
                 ]
             ],
             'Excavator Industrial MINELLI M18.8 SG' => [
-                'id' => '20201',
+                'id' => '20201',ev_herte
+25
+ 
+      <chang
                 'category' => 'Excavatoare',
                 'title' => 'Excavator Industrial MINELLI M18.8 SG',
                 'cod' => '#134998',
@@ -525,6 +542,11 @@ return [
                   'Standard de înaltă securitate ' => 'Gamă largă de dispozitive de siguranță standard în conformitate cu cele mai înalte criterii de evaluare a riscurilor.'
                 ]
             ],
+            'meta' => [
+                'title' => 'Excavatore | MAXMANTECH',
+                'url' => 'https://maxmantech.ro/category.php?category=Excavatore',
+                'description' => 'Excavatore, MAXMANTECH va ofera excavatore noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
+            ]
         ],
         'Miniexcavatoare' => [
             'Miniexcavator Sunward SWE 20F' => [
@@ -567,7 +589,10 @@ return [
                 'images' => [
                     'assets/img/products/Miniexcavatoare/Miniexcavator-2-0.jpg',
                     'assets/img/products/Miniexcavatoare/Miniexcavator-2-1.jpg',
-                    'assets/img/products/Miniexcavatoare/Miniexcavator-2-2.jpg',
+                    'assets/img/products/Miniexcavatoare/Miniexev_herte
+25
+ 
+      <changcavator-2-2.jpg',
                     'assets/img/products/Miniexcavatoare/Miniexcavator-2-3.jpg',
                     'assets/img/products/Miniexcavatoare/Miniexcavator-2-4.jpg',
                     'assets/img/products/Miniexcavatoare/Miniexcavator-2-5.jpg',
@@ -654,6 +679,11 @@ return [
                   'Usor de intretinut' => 'Spatiu de intretinere mare, convenabil pentru intretinerea periodica a diferitelor componente.',
                   'Design Deosebit' => 'Design optimizat, linii clare, aspect neted si frumos.'
                 ]
+            ],
+            'meta' => [
+                'title' => 'Miniexcavatore | MAXMANTECH',
+                'url' => 'https://maxmantech.ro/category.php?category=Miniexcavatore',
+                'description' => 'Miniexcavatore, MAXMANTECH va ofera miniexcavatore noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
             ]
         ]
     ]

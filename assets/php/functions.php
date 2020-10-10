@@ -76,6 +76,7 @@ function getProductById(string $product, array $array)
                                     $resultSet['images'] = $value2['images'];
                                     $resultSet['descriere'] = $value2['descriere'];
                                     $resultSet['descriereText'] = $value2['descriereText'];
+                                    $resultSet['meta'] = $value2['meta'];
                                     return $resultSet;
                                 }
                             }
@@ -169,7 +170,20 @@ function getArrayMetaCategory($categoryArray)
     return $metaArray;
 }
 
-function buildMetaCategory($metaArray)
+function getArrayMetaProduct($productArray)
+{
+    if (is_array($productArray) || is_object($productArray)) {
+        foreach ($productArray as $key => $value) {
+            var_dump($value);
+            if (array_key_exists("meta", $value)) {
+                $resultSet['meta'] = $value['meta'];
+            }
+        }
+    }
+    return $resultSet;
+}
+
+function buildMeta($metaArray)
 {
     $file = file_get_contents('assets/html/meta.html');
     $file = str_replace(['{{ title }}', '{{ url }}', '{{ description }}'], [$metaArray['title'], $metaArray['url'], $metaArray['description']], $file);

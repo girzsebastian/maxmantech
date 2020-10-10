@@ -127,16 +127,10 @@ function images(array $productArray)
 {
     $images = [];
     if (is_array($productArray) || is_object($productArray)) {
-        foreach ($productArray as $innerArray) {
-            if (is_array($innerArray) || is_object($innerArray)) {
-                foreach ($innerArray as $key => $value) {
-                    if (array_key_exists("title", $innerArray)) {
-                        $img = file_get_contents('assets/html/image.html');
-                        $img = str_replace(['{{ image }}', '{{ title }}'], [$value, $innerArray['title']], $img);
-                        $images[$key] = $img;
-                    }
-                }
-            }
+        foreach ($productArray['images'] as $value){
+                $img = file_get_contents('assets/html/image.html');
+                $img = str_replace(['{{ image }}', '{{ title }}'], [$value, $productArray['title']], $img);
+                $images[] = $img;
         }
     }
     return implode('', $images);
@@ -170,20 +164,9 @@ function getArrayMetaCategory($categoryArray)
     return $metaArray;
 }
 
-function getArrayMetaProduct($productArray)
+function buildMeta($productArray)
 {
-    if (is_array($productArray) || is_object($productArray)) {
-        foreach ($productArray as $key => $value) {
-            if (array_key_exists("meta", $value)) {
-                $resultSet['meta'] = $value['meta'];
-            }
-        }
-    }
-    return $resultSet;
-}
-
-function buildMeta($metaArray)
-{
+    $metaArray = $productArray['meta'];
     $file = file_get_contents('assets/html/meta.html');
     $file = str_replace(['{{ title }}', '{{ url }}', '{{ description }}'], [$metaArray['title'], $metaArray['url'], $metaArray['description']], $file);
     return $file;

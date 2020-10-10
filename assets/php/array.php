@@ -30,6 +30,11 @@ return [
                     'Spatiu generos' => 'Multumita spatiului generos din cabina utilajului (fiind cea mai mare din categ. sa), 2 usi, sistem de incalzire, controlul comenzilor se face cu joystick, volan reglabil si multe altele, asigura confortul garantat operatorului eficientizand productivitatea.',
                     'Usor de intretinut' => 'Este usor de intretinut datorita pozitionarii numeroaselor consumabile ce sunt concentrate sub capota motorului, iar rezervoarele de combustibil si de ulei hidraulic sunt pozitionate in proximitatea cabinei, impreuna cu bateria intr-un spatiu sigur. ',
                     'Performanta' => 'Forta de rupere și capacitate de ridicare, precum și o adâncime de excavare excelenta, disponibil și în versiunea telescopică. Unghiul de rotatie a cadrului din spate este disponibil atât la 180 ° cât și la 240 ° (patentat de Palazzani).',
+                ],
+                'meta' => [
+                    'title' => 'Buldoexcavator CUKUROVA 888 | MAXMANTECH',
+                    'url' => 'https://maxmantech.ro/viewProduct.php?product=20100',
+                    'description' => 'Buldoexcavatoare, MAXMANTECH va ofera buldoexcavatoare noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
                 ]
             ],
             'Buldoexcavator Palazzani PB 130' => [

@@ -143,6 +143,11 @@ return [
                     ]
                 ]
             ],
+            'meta' => [
+                'title' => 'Buldoexcavatore | MAXMANTECH',
+                'url' => 'https://maxmantech.ro/category.php?category=Buldoexcavatoare',
+                'description' => 'Buldoexcavatoare, MAXMANTECH va ofera buldoexcavatoare noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
+            ]
         ],
         'Excavatoare' => [
             'Excavator Industrial MINELLI M20.83 PRO' => [
@@ -271,6 +276,11 @@ return [
                         'Racirea' => 'Radiator cu racire pe apa'
                     ]
                 ]
+            ],
+            'meta' => [
+                'title' => 'Excavatore | MAXMANTECH',
+                'url' => 'https://maxmantech.ro/category.php?category=Excavatore',
+                'description' => 'Excavatore, MAXMANTECH va ofera excavatore noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
             ]
         ],
         'Miniexcavatoare' => [
@@ -400,6 +410,11 @@ return [
                         'Racirea' => 'Radiator cu racire pe apa'
                     ]
                 ]
+            ],
+            'meta' => [
+                'title' => 'Miniexcavatore | MAXMANTECH',
+                'url' => 'https://maxmantech.ro/category.php?category=Miniexcavatore',
+                'description' => 'Miniexcavatore, MAXMANTECH va ofera miniexcavatore noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
             ]
         ]
     ]

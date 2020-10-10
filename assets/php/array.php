@@ -63,7 +63,12 @@ return [
                     'Transmisie hidrostatica' => 'Multumita transmisiei hidrostatice si pompei hidraulice care gestioneaza un flux cu un debit mare hidraulic, utilizarea atasamentelor asigura echilibrul perfect in raport viteza/putere.',
                     'Spatiu generos' => 'Multumita spatiului generos din cabina utilajului (fiind cea mai mare din categ. sa), 2 usi, sistem de incalzire, controlul comenzilor se face cu joystick, volan reglabil si multe altele, asigura confortul garantat operatorului eficientizand productivitatea.',
                     'Performanta' => 'Forta de rupere și capacitate de ridicare, precum și o adâncime de excavare excelenta, disponibil și în versiunea telescopică. Unghiul de rotatie a cadrului din spate este disponibil atât la 180 ° cât și la 240 ° (patentat de Palazzani).'
-                    ]
+                    ],
+                'meta' => [
+                    'title' => 'Buldoexcavator Palazzani PB 130 | MAXMANTECH',
+                    'url' => 'https://maxmantech.ro/viewProduct.php?product=20101',
+                    'description' => 'Buldoexcavatoare, MAXMANTECH va ofera buldoexcavatoare noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
+                ]
             ],
             'Buldoexcavator FORLOAD FL388' => [
                 'id' => '20102',
@@ -88,6 +93,11 @@ return [
                 'descriereText' => [
                     'Performanta' => 'Forta de rupere și capacitate de ridicare, precum și o adâncime de excavare excelenta, disponibil și în versiunea telescopică. Unghiul de rotatie a cadrului din spate este disponibil atât la 180 ° cât și la 240 ° (patentat de Palazzani).',
                     'Utilaj multifunctional' => 'Buldoexcavatorul poate fi echipat cu o diversitate de atasamnete ce pot fi folosite in diferite proiecte. Aceste atasamente sunt usor de schimbat datorita cuplei mecanice din dotarea utilajului.'
+                ],
+                'meta' => [
+                    'title' => 'Buldoexcavator FORLOAD FL388 | MAXMANTECH',
+                    'url' => 'https://maxmantech.ro/viewProduct.php?product=20102',
+                    'description' => 'Buldoexcavatoare, MAXMANTECH va ofera buldoexcavatoare noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
                 ]
             ],
             'Buldoexcavator CUKUROVA 880' => [
@@ -114,6 +124,11 @@ return [
                 'descriereText' => [
                     'Transmisie hidrostatica' => 'Multumita transmisiei hidrostatice si pompei hidraulice care gestioneaza un flux cu un debit mare hidraulic, utilizarea atasamentelor asigura echilibrul perfect in raport viteza/putere.',
                     'Spatiu generos' => 'Multumita spatiului generos din cabina utilajului (fiind cea mai mare din categ. sa), 2 usi, sistem de incalzire, controlul comenzilor se face cu joystick, volan reglabil si multe altele, asigura confortul garantat operatorului eficientizand productivitatea.'
+                ],
+                'meta' => [
+                    'title' => 'Buldoexcavator CUKUROVA 880 | MAXMANTECH',
+                    'url' => 'https://maxmantech.ro/viewProduct.php?product=20103',
+                    'description' => 'Buldoexcavatoare, MAXMANTECH va ofera buldoexcavatoare noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
                 ]
             ],
             'Buldoexcavator CUKUROVA 883' => [
@@ -129,279 +144,284 @@ return [
                     'assets/img/products/Buldoexcavatoare/buldoexcavatoare-5-1.jpg'
                 ],
                 'descriere' => '
-                <table border="0" cellpadding="0" cellspacing="0" width="541" style="width: 406pt;">
- <colgroup><col width="396" style="mso-width-source:userset;mso-width-alt:14482;width:297pt">
-</colgroup> <colgroup><col width="145" style="mso-width-source:userset;mso-width-alt:5302;width:109pt">
-</colgroup> <tbody><tr height="31" style="height:23.25pt">
-  <td colspan="2" height="31" class="xl74" width="541" style="height:23.25pt;
-<br></td>  width:406pt">Specificatii Tehnice&nbsp;</td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" class="xl66" style="height:15.0pt;border-top:none">Motor</td>
-  <td class="xl66" style="border-top:none">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<br>  Perkins</td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" class="xl68" style="height:15.0pt;border-top:none">&nbsp;</td>
-  <td class="xl70" style="border-left:none">Stage- TIER IV</td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" class="xl69" style="height:15.0pt;border-top:none">Model</td>
-  <td class="xl71" style="border-top:none;border-left:none">1204F-E44TA</td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" class="xl68" style="height:15.0pt">Putere</td>
-  <td class="xl71" style="border-left:none">100 CP/ 74.5 kW</td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" class="xl70" style="height:15.0pt">Cilindree</td>
-  <td class="xl72">&nbsp;4,4 L</td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" class="xl66" style="height:15.0pt;border-top:none">Numar de
-<br>  cilindri</td>
-  <td class="xl67">&nbsp;4</td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" class="xl68" style="height:15.0pt;border-top:none">Momentul maxim</td>
-  <td class="xl73" style="border-left:none">450 Nm</td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" class="xl66" style="height:15.0pt;border-top:none">Racirea</td>
-  <td class="xl66">Radiator racit cu apa</td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" style="height:15.0pt"></td>
-  <td></td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" class="xl65" style="height:15.0pt">Sistemul hidraulic</td>
-  <td></td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" class="xl65" style="height:15.0pt;border-top:none">Pompa
-<br>  hidraulica</td>
-  <td class="xl65" style="border-left:none">In tandem</td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" class="xl65" style="height:15.0pt;border-top:none">Debitul maxim</td>
-  <td class="xl65" style="border-top:none;border-left:none">90+64 l/min</td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" class="xl65" style="height:15.0pt;border-top:none">Presiunea
-<br>  maxima</td>
-  <td class="xl65" style="border-top:none;border-left:none">220 bar</td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" style="height:15.0pt"></td>
-  <td></td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" class="xl65" style="height:15.0pt">Sistemul de rulare/transmisia</td>
-  <td></td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" class="xl65" style="height:15.0pt;border-top:none">Marca</td>
-  <td class="xl65" style="border-left:none">ZF</td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" class="xl65" style="height:15.0pt;border-top:none">Tip</td>
-  <td class="xl65" style="border-top:none;border-left:none"><b>Powershift&nbsp;</b></td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" style="height:15.0pt"></td>
-  <td></td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" class="xl65" style="height:15.0pt">Viteze de&nbsp; deplasare 4 cu 3 trepte</td>
-  <td></td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" class="xl65" style="height:15.0pt;border-top:none">Prima viteza
-<br>  (fata/spate)</td>
-  <td class="xl65" style="border-left:none">6.5 / 7 km/h</td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" class="xl65" style="height:15.0pt;border-top:none">A doua viteza
-<br>  (fata/spate)</td>
-  <td class="xl65" style="border-top:none;border-left:none">11 / 12 km/h</td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" class="xl65" style="height:15.0pt;border-top:none">A treia viteza
-<br>  (fata/spate)</td>
-  <td class="xl65" style="border-top:none;border-left:none">26 / 30 km/h</td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" class="xl65" style="height:15.0pt;border-top:none">A patra viteza
-<br>  (fata/spate)</td>
-  <td class="xl65" style="border-top:none;border-left:none">40 / - km/h</td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" style="height:15.0pt"></td>
-  <td></td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" class="xl68" style="height:15.0pt">Capactitate cupa
-<br>  multifunctionala</td>
-  <td class="xl68" style="border-left:none">1.1&nbsp; m3</td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" class="xl68" style="height:15.0pt;border-top:none">Forta de
-<br>  ridicare</td>
-  <td class="xl68" style="border-top:none;border-left:none">60.5 kN</td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" class="xl68" style="height:15.0pt;border-top:none">Forta de
-<br>  rupere</td>
-  <td class="xl68" style="border-top:none;border-left:none">81.5 kN</td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" class="xl68" style="height:15.0pt;border-top:none">Latimea cupei</td>
-  <td class="xl68" style="border-top:none;border-left:none">2280 mm</td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" class="xl68" style="height:15.0pt;border-top:none">Capacitatea de
-<br>  ridicare la dimensiunea maxima</td>
-  <td class="xl68" style="border-top:none;border-left:none">3500 Kg</td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" style="height:15.0pt"></td>
-  <td></td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" class="xl65" style="height:15.0pt"><br></td><td class="xl65" style="border-left:none"></td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" class="xl65" style="height:15.0pt;border-top:none">Maximul fortei
-<br>  de rupere&nbsp;</td>
-  <td class="xl65" style="border-top:none;border-left:none">59.1 kN</td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" class="xl65" style="height:15.0pt;border-top:none">Forta de
-<br>  rupere (brat pliat)</td>
-  <td class="xl65" style="border-top:none;border-left:none">31.8 kN</td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" class="xl65" style="height:15.0pt;border-top:none">Forta de rupere (brat extins)</td>
-  <td class="xl65" style="border-top:none;border-left:none">22.4 kN</td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" style="height:15.0pt"></td>
-  <td></td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" class="xl65" style="height:15.0pt"><b>TRACTIUNE&nbsp;</b></td>
-  <td class="xl65" style="border-left:none"><b>4 WD (4x4)</b></td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" class="xl65" style="height:15.0pt;border-top:none">Anvelope fata</td>
-  <td class="xl65" style="border-top:none;border-left:none">12.5/ 18</td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" class="xl65" style="height:15.0pt;border-top:none">Anvelope spate</td>
-  <td class="xl65" style="border-top:none;border-left:none">16,9-28</td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" style="height:15.0pt"></td>
-  <td></td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" class="xl65" style="height:15.0pt">Greutate de operare</td>
-  <td class="xl65" style="border-left:none">7800-8750 Kg</td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" style="height:15.0pt"></td>
-  <td></td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" class="xl65" style="height:15.0pt">Capacitate</td>
-  <td class="xl65" style="border-left:none">(l)</td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" class="xl65" style="height:15.0pt;border-top:none">Rezervor
-<br>  combustibil</td>
-  <td class="xl65" align="right" style="border-top:none;border-left:none"><p style="text-align: left; "><span style="background-color: transparent;">140</span><br></p></td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" class="xl65" style="height:15.0pt;border-top:none">Rezervor
-<br>  hidraulic</td>
-  <td class="xl65" align="right" style="text-align: left; border-top: none; border-left: none;">75</td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" class="xl65" style="height:15.0pt;border-top:none">Sistem
-<br>  hidraulic</td>
-  <td class="xl65" align="right" style="text-align: left; border-top: none; border-left: none;">130</td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" style="height:15.0pt"></td>
-  <td></td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" class="xl65" style="height:15.0pt">Dimensiuni buldoexcavator</td>
-  <td></td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" class="xl65" style="height:15.0pt;border-top:none">Lungime</td>
-  <td class="xl65" style="border-left:none">6130 mm</td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" class="xl65" style="height:15.0pt;border-top:none">Inaltimea
-<br>  cabinei</td>
-  <td class="xl65" style="border-top:none;border-left:none">2900 mm</td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" class="xl65" style="height:15.0pt;border-top:none">Inaltimea
-<br>  maxima</td>
-  <td class="xl65" style="border-top:none;border-left:none">3900 mm</td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" class="xl65" style="height:15.0pt;border-top:none">Latime</td>
-  <td class="xl65" style="border-top:none;border-left:none">2280 mm</td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" style="height:15.0pt"></td>
-  <td></td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" class="xl65" style="height:15.0pt">Dimensiuni&nbsp; de lucru</td>
-  <td class="xl65" style="border-left:none">Brat Extins</td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" class="xl65" style="height:15.0pt;border-top:none">Adancimea
-<br>  maxima de sapare&nbsp;</td>
-  <td class="xl65" style="border-top:none;border-left:none">5800 mm</td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" class="xl65" style="height:15.0pt;border-top:none">Intinderea
-<br>  maxima de la centrul axei spate&nbsp;</td>
-  <td class="xl65" style="border-top:none;border-left:none">8100 mm</td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" class="xl65" style="height:15.0pt;border-top:none">Intinderea
-<br>  maxima a bratului de la centrul de rotire</td>
-  <td class="xl65" style="border-top:none;border-left:none">6800 mm</td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" class="xl65" style="height:15.0pt;border-top:none">Inaltimea
-<br>  maxima de sapare&nbsp;</td>
-  <td class="xl65" style="border-top:none;border-left:none">6450 mm</td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" class="xl65" style="height:15.0pt;border-top:none">&nbsp;</td><td class="xl65" style="border-top:none;border-left:none"></td></tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" style="height:15.0pt"></td><td></td></tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" class="xl65" style="height:15.0pt"><p><u>Echipare standard:</u></p><p>- Cupa multifunctionala&nbsp;&nbsp;</p><p>- Brat telescopic</p><p>- Instalatie hidraulica pentru picon&nbsp;</p><p>- CD player</p><p>&nbsp;- Cabina inchisa ROPS/FOPS cu incalzire</p><p>- Control mecanic cu leviere pt incarcator si brat excavare</p><p>- Utilaj marcat CE&nbsp;</p></td>
-  <td></td>
- </tr>
- <tr height="20" style="height:15.0pt">
-  <td height="20" class="xl65" style="height:15.0pt;border-top:none"></td><td></td></tr></tbody></table>
+                    <table border="0" cellpadding="0" cellspacing="0" width="541" style="width: 406pt;">
+                     <colgroup><col width="396" style="mso-width-source:userset;mso-width-alt:14482;width:297pt">
+                    </colgroup> <colgroup><col width="145" style="mso-width-source:userset;mso-width-alt:5302;width:109pt">
+                    </colgroup> <tbody><tr height="31" style="height:23.25pt">
+                      <td colspan="2" height="31" class="xl74" width="541" style="height:23.25pt;
+                    <br></td>  width:406pt">Specificatii Tehnice&nbsp;</td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" class="xl66" style="height:15.0pt;border-top:none">Motor</td>
+                      <td class="xl66" style="border-top:none">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <br>  Perkins</td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" class="xl68" style="height:15.0pt;border-top:none">&nbsp;</td>
+                      <td class="xl70" style="border-left:none">Stage- TIER IV</td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" class="xl69" style="height:15.0pt;border-top:none">Model</td>
+                      <td class="xl71" style="border-top:none;border-left:none">1204F-E44TA</td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" class="xl68" style="height:15.0pt">Putere</td>
+                      <td class="xl71" style="border-left:none">100 CP/ 74.5 kW</td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" class="xl70" style="height:15.0pt">Cilindree</td>
+                      <td class="xl72">&nbsp;4,4 L</td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" class="xl66" style="height:15.0pt;border-top:none">Numar de
+                    <br>  cilindri</td>
+                      <td class="xl67">&nbsp;4</td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" class="xl68" style="height:15.0pt;border-top:none">Momentul maxim</td>
+                      <td class="xl73" style="border-left:none">450 Nm</td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" class="xl66" style="height:15.0pt;border-top:none">Racirea</td>
+                      <td class="xl66">Radiator racit cu apa</td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" style="height:15.0pt"></td>
+                      <td></td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" class="xl65" style="height:15.0pt">Sistemul hidraulic</td>
+                      <td></td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" class="xl65" style="height:15.0pt;border-top:none">Pompa
+                    <br>  hidraulica</td>
+                      <td class="xl65" style="border-left:none">In tandem</td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" class="xl65" style="height:15.0pt;border-top:none">Debitul maxim</td>
+                      <td class="xl65" style="border-top:none;border-left:none">90+64 l/min</td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" class="xl65" style="height:15.0pt;border-top:none">Presiunea
+                    <br>  maxima</td>
+                      <td class="xl65" style="border-top:none;border-left:none">220 bar</td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" style="height:15.0pt"></td>
+                      <td></td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" class="xl65" style="height:15.0pt">Sistemul de rulare/transmisia</td>
+                      <td></td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" class="xl65" style="height:15.0pt;border-top:none">Marca</td>
+                      <td class="xl65" style="border-left:none">ZF</td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" class="xl65" style="height:15.0pt;border-top:none">Tip</td>
+                      <td class="xl65" style="border-top:none;border-left:none"><b>Powershift&nbsp;</b></td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" style="height:15.0pt"></td>
+                      <td></td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" class="xl65" style="height:15.0pt">Viteze de&nbsp; deplasare 4 cu 3 trepte</td>
+                      <td></td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" class="xl65" style="height:15.0pt;border-top:none">Prima viteza
+                    <br>  (fata/spate)</td>
+                      <td class="xl65" style="border-left:none">6.5 / 7 km/h</td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" class="xl65" style="height:15.0pt;border-top:none">A doua viteza
+                    <br>  (fata/spate)</td>
+                      <td class="xl65" style="border-top:none;border-left:none">11 / 12 km/h</td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" class="xl65" style="height:15.0pt;border-top:none">A treia viteza
+                    <br>  (fata/spate)</td>
+                      <td class="xl65" style="border-top:none;border-left:none">26 / 30 km/h</td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" class="xl65" style="height:15.0pt;border-top:none">A patra viteza
+                    <br>  (fata/spate)</td>
+                      <td class="xl65" style="border-top:none;border-left:none">40 / - km/h</td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" style="height:15.0pt"></td>
+                      <td></td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" class="xl68" style="height:15.0pt">Capactitate cupa
+                    <br>  multifunctionala</td>
+                      <td class="xl68" style="border-left:none">1.1&nbsp; m3</td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" class="xl68" style="height:15.0pt;border-top:none">Forta de
+                    <br>  ridicare</td>
+                      <td class="xl68" style="border-top:none;border-left:none">60.5 kN</td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" class="xl68" style="height:15.0pt;border-top:none">Forta de
+                    <br>  rupere</td>
+                      <td class="xl68" style="border-top:none;border-left:none">81.5 kN</td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" class="xl68" style="height:15.0pt;border-top:none">Latimea cupei</td>
+                      <td class="xl68" style="border-top:none;border-left:none">2280 mm</td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" class="xl68" style="height:15.0pt;border-top:none">Capacitatea de
+                    <br>  ridicare la dimensiunea maxima</td>
+                      <td class="xl68" style="border-top:none;border-left:none">3500 Kg</td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" style="height:15.0pt"></td>
+                      <td></td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" class="xl65" style="height:15.0pt"><br></td><td class="xl65" style="border-left:none"></td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" class="xl65" style="height:15.0pt;border-top:none">Maximul fortei
+                    <br>  de rupere&nbsp;</td>
+                      <td class="xl65" style="border-top:none;border-left:none">59.1 kN</td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" class="xl65" style="height:15.0pt;border-top:none">Forta de
+                    <br>  rupere (brat pliat)</td>
+                      <td class="xl65" style="border-top:none;border-left:none">31.8 kN</td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" class="xl65" style="height:15.0pt;border-top:none">Forta de rupere (brat extins)</td>
+                      <td class="xl65" style="border-top:none;border-left:none">22.4 kN</td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" style="height:15.0pt"></td>
+                      <td></td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" class="xl65" style="height:15.0pt"><b>TRACTIUNE&nbsp;</b></td>
+                      <td class="xl65" style="border-left:none"><b>4 WD (4x4)</b></td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" class="xl65" style="height:15.0pt;border-top:none">Anvelope fata</td>
+                      <td class="xl65" style="border-top:none;border-left:none">12.5/ 18</td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" class="xl65" style="height:15.0pt;border-top:none">Anvelope spate</td>
+                      <td class="xl65" style="border-top:none;border-left:none">16,9-28</td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" style="height:15.0pt"></td>
+                      <td></td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" class="xl65" style="height:15.0pt">Greutate de operare</td>
+                      <td class="xl65" style="border-left:none">7800-8750 Kg</td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" style="height:15.0pt"></td>
+                      <td></td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" class="xl65" style="height:15.0pt">Capacitate</td>
+                      <td class="xl65" style="border-left:none">(l)</td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" class="xl65" style="height:15.0pt;border-top:none">Rezervor
+                    <br>  combustibil</td>
+                      <td class="xl65" align="right" style="border-top:none;border-left:none"><p style="text-align: left; "><span style="background-color: transparent;">140</span><br></p></td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" class="xl65" style="height:15.0pt;border-top:none">Rezervor
+                    <br>  hidraulic</td>
+                      <td class="xl65" align="right" style="text-align: left; border-top: none; border-left: none;">75</td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" class="xl65" style="height:15.0pt;border-top:none">Sistem
+                    <br>  hidraulic</td>
+                      <td class="xl65" align="right" style="text-align: left; border-top: none; border-left: none;">130</td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" style="height:15.0pt"></td>
+                      <td></td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" class="xl65" style="height:15.0pt">Dimensiuni buldoexcavator</td>
+                      <td></td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" class="xl65" style="height:15.0pt;border-top:none">Lungime</td>
+                      <td class="xl65" style="border-left:none">6130 mm</td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" class="xl65" style="height:15.0pt;border-top:none">Inaltimea
+                    <br>  cabinei</td>
+                      <td class="xl65" style="border-top:none;border-left:none">2900 mm</td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" class="xl65" style="height:15.0pt;border-top:none">Inaltimea
+                    <br>  maxima</td>
+                      <td class="xl65" style="border-top:none;border-left:none">3900 mm</td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" class="xl65" style="height:15.0pt;border-top:none">Latime</td>
+                      <td class="xl65" style="border-top:none;border-left:none">2280 mm</td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" style="height:15.0pt"></td>
+                      <td></td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" class="xl65" style="height:15.0pt">Dimensiuni&nbsp; de lucru</td>
+                      <td class="xl65" style="border-left:none">Brat Extins</td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" class="xl65" style="height:15.0pt;border-top:none">Adancimea
+                    <br>  maxima de sapare&nbsp;</td>
+                      <td class="xl65" style="border-top:none;border-left:none">5800 mm</td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" class="xl65" style="height:15.0pt;border-top:none">Intinderea
+                    <br>  maxima de la centrul axei spate&nbsp;</td>
+                      <td class="xl65" style="border-top:none;border-left:none">8100 mm</td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" class="xl65" style="height:15.0pt;border-top:none">Intinderea
+                    <br>  maxima a bratului de la centrul de rotire</td>
+                      <td class="xl65" style="border-top:none;border-left:none">6800 mm</td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" class="xl65" style="height:15.0pt;border-top:none">Inaltimea
+                    <br>  maxima de sapare&nbsp;</td>
+                      <td class="xl65" style="border-top:none;border-left:none">6450 mm</td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" class="xl65" style="height:15.0pt;border-top:none">&nbsp;</td><td class="xl65" style="border-top:none;border-left:none"></td></tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" style="height:15.0pt"></td><td></td></tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" class="xl65" style="height:15.0pt"><p><u>Echipare standard:</u></p><p>- Cupa multifunctionala&nbsp;&nbsp;</p><p>- Brat telescopic</p><p>- Instalatie hidraulica pentru picon&nbsp;</p><p>- CD player</p><p>&nbsp;- Cabina inchisa ROPS/FOPS cu incalzire</p><p>- Control mecanic cu leviere pt incarcator si brat excavare</p><p>- Utilaj marcat CE&nbsp;</p></td>
+                      <td></td>
+                     </tr>
+                     <tr height="20" style="height:15.0pt">
+                      <td height="20" class="xl65" style="height:15.0pt;border-top:none"></td><td></td></tr></tbody></table>
                 ',
                 'descriereText' => [
                     'Utilaj multifunctional' => 'Çukurova 883 este un buldoexcavator fiabil și capabil, robust și puternic, apreciat la scară largă datorită unui set de trăsături specifice. Este genul de utilaj bun la toate, ce se adaptează oricăror condiții și oricărui tip de muncă. Este versatil și eficient. Buldoexcavatorul Çukurova 883 este combinația ideală dintre forță și siguranță în muncă, precum și confort în operare.',
                     'Transmisie hidrostatica' => 'Buldoexcavatorul Çukurova 883 este echipat cu un motor diesel Perkins dotat cu turbină, care conferă performanță de top și se supune tuturor normelor de mediu în vigoare. Această nouă generație este proiectată astfel încât greutatea utilajului să fie distribuită în mod optim. Asta înseamnă că buldoexcavatorul Çukurova este ușor de manevrat și de operat, iar operațiunile de săpare și de încărcare/descărcare se fac în condiții de maximă stabilitate.',
                     'Spatiu generos' => 'A sta pe scaunul de operator al unui buldoexcavator Çukurova 883 este ca și cum ai fi la volanul propriei mașini. Totul pare natural și la locul lui. Bordul principal este rabatabil și aduce toate comenzile și butoanele la îndemâna operatorului, fără să fie nevoie să te întinzi după ele sau să depui un efort suplimentar. ',
                     'Performanta' => 'Bordul secundar este de mari dimensiuni, astfel încât informațiile afișate să fie ușor de citit. Printre acestea, indicatori de mentenanță, timp de lucru, nivelul combustibilului, temperatura uleiului și altele. Totodată, coloana de direcție este reglabilă, astfel încât operatorul să poată seta volanul în orice poziție și să aibă o vizibilitate maximă.'
+                ],
+                'meta' => [
+                    'title' => 'Buldoexcavator CUKUROVA 883 | MAXMANTECH',
+                    'url' => 'https://maxmantech.ro/viewProduct.php?product=20104',
+                    'description' => 'Buldoexcavatoare, MAXMANTECH va ofera buldoexcavatoare noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
                 ]
             ],
             'meta' => [
@@ -437,7 +457,13 @@ return [
                     'Costuri reduse de întreținere' => 'Componente ușor de găsit, accesorii comune, intervale de întreținere prelungite.',
                     'Standard de înaltă securitate' => 'Gamă largă de dispozitive de siguranță standard în conformitate cu cele mai înalte criterii de evaluare a riscurilor.',
                     'Încredere' => 'Experiența acumulată în peste 60 de ani, iar utilizarea unor componente de calitate superioară, ne permit sa oferim un produs bine conceput și durabil de-a lungul anilor.'
+                ],
+                'meta' => [
+                    'title' => 'Excavator Industrial MINELLI M20.83 PRO | MAXMANTECH',
+                    'url' => 'https://maxmantech.ro/viewProduct.php?product=20200',
+                    'description' => 'Excavator, MAXMANTECH va ofera Excavatoare noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
                 ]
+
             ],
             'Excavator Industrial MINELLI M18.8 SG' => [
                 'id' => '20201',
@@ -462,6 +488,11 @@ return [
                     'Costuri reduse de întreținere' => 'Componente ușor de găsit, accesorii comune, intervale de întreținere prelungite.',
                     'Standard de înaltă securitate' => 'Gamă largă de dispozitive de siguranță standard în conformitate cu cele mai înalte criterii de evaluare a riscurilor.',
                     'Încredere' => 'Experiența acumulată în peste 60 de ani, iar utilizarea unor componente de calitate superioară, ne permit sa oferim un produs bine conceput și durabil de-a lungul anilor.'
+                ],
+                'meta' => [
+                    'title' => 'Excavator Industrial MINELLI M18.8 SG | MAXMANTECH',
+                    'url' => 'https://maxmantech.ro/viewProduct.php?product=20201',
+                    'description' => 'Excavator, MAXMANTECH va ofera Excavatoare noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
                 ]
             ],
             'Excavator Industrial MINELLI M25.85' => [
@@ -487,6 +518,11 @@ return [
                   'Diagnosticarea ușoară' => 'Noul dispozitiv electronic cu ecran color de 7 ", care permite citirea imediată a celor mai importanți parametri de operare.',
                   'Costuri reduse de întreținere' => 'Componente ușor de găsit, accesorii comune, intervale de întreținere prelungite.',
                   'Standard de înaltă securitate ' => 'Gamă largă de dispozitive de siguranță standard în conformitate cu cele mai înalte criterii de evaluare a riscurilor.'
+                ],
+                'meta' => [
+                    'title' => 'Excavator Industrial MINELLI M25.85 | MAXMANTECH',
+                    'url' => 'https://maxmantech.ro/viewProduct.php?product=20202',
+                    'description' => 'Excavator, MAXMANTECH va ofera Excavatoare noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
                 ]
             ],
             'Excavator Industrial MINELLI M 40.16' => [
@@ -510,6 +546,11 @@ return [
                   'Diagnosticarea ușoară' => 'Noul dispozitiv electronic cu ecran color de 7 ", care permite citirea imediată a celor mai importanți parametri de operare.',
                   'Costuri reduse de întreținere' => 'Componente ușor de găsit, accesorii comune, intervale de întreținere prelungite.',
                   'Standard de înaltă securitate' => 'Gamă largă de dispozitive de siguranță standard în conformitate cu cele mai înalte criterii de evaluare a riscurilor.'
+                ],
+                'meta' => [
+                    'title' => 'Excavator Industrial MINELLI M 40.16 | MAXMANTECH',
+                    'url' => 'https://maxmantech.ro/viewProduct.php?product=20203',
+                    'description' => 'Excavator, MAXMANTECH va ofera Excavatoare noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
                 ]
             ],
             'Excavator Industrial MINELLI M30' => [
@@ -534,6 +575,11 @@ return [
                   'Costuri reduse de întreținere' => 'Componente ușor de găsit, accesorii comune, intervale de întreținere prelungite.',
                   'Standard de înaltă securitate ' => 'Gamă largă de dispozitive de siguranță standard în conformitate cu cele mai înalte criterii de evaluare a riscurilor.'
                 ],
+                'meta' => [
+                    'title' => 'Excavator Industrial MINELLI M30 | MAXMANTECH',
+                    'url' => 'https://maxmantech.ro/viewProduct.php?product=20204',
+                    'description' => 'Excavator, MAXMANTECH va ofera Excavatoare noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
+                ]
             ],
             'meta' => [
                 'title' => 'Excavatore | MAXMANTECH',
@@ -568,6 +614,11 @@ return [
                   'Schimbare automata a vitezei in timpul deplasarii' => 'Transmisie automată rapida si cu viteza redusa –  in caz de obstacole in timpul calatoriei de mare viteza, acesta trecerea la treapta de viteza redusa a cuplului ridicat;',
                   'Cabina confortabila' => 'Cabina confortabila',
                   'Usor de intretinut' => 'Spatiu de intretinere mare, convenabil pentru intretinerea periodica a diferitelor parti.'
+                ],
+                'meta' => [
+                    'title' => 'Miniexcavator Sunward SWE 20F | MAXMANTECH',
+                    'url' => 'https://maxmantech.ro/viewProduct.php?product=20300',
+                    'description' => 'Miniexcavatoare, MAXMANTECH va ofera miniexcavatoare noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
                 ]
             ],
             'Miniexcavator Sunward SWE 25 F' => [
@@ -592,6 +643,11 @@ return [
                     <table xmlns="http://www.w3.org/1999/xhtml" cellspacing="0" cellpadding="0" dir="ltr" style="table-layout: fixed; font-size: 10pt; font-family: Arial; width: 0px;"><colgroup><col width="423"><col width="304"></colgroup><tbody><tr style="height: 25px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Tip cabina&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0);">Tip cabina</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Cabina inchisa&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0); text-align: right;">Cabina inchisa</td></tr><tr style="height: 25px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Greutate operationala&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0);">Greutate operationala</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2640 Kg&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0); text-align: right;">2640 Kg</td></tr><tr style="height: 25px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Capacitate cupa standard&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0);">Capacitate cupa standard</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;0.066 m3&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0); text-align: right;">0.066 m3</td></tr><tr style="height: 25px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lungime/Latime/ Inaltime&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0);">Lungime/Latime/ Inaltime</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;4262x1500x2400 mm&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0); text-align: right;">4262x1500x2400 mm</td></tr><tr style="height: 25px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Garda la sol minim&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0);">Garda la sol minim</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;280 mm&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0); text-align: right;">280 mm</td></tr><tr style="height: 25px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Motor&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 14pt; font-weight: bold; color: rgb(0, 0, 0);">Motor</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Diesel&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0); text-align: right;">Diesel</td></tr><tr style="height: 25px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Brand&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0);">Brand</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;YANMAR&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0); text-align: right;">YANMAR</td></tr><tr style="height: 25px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Model&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0);">Model</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;3TNV80F-SPSU&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0); text-align: right;">3TNV80F-SPSU</td></tr><tr style="height: 25px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Capacitate cilindirica&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0);">Capacitate cilindirica</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1.267 L&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0); text-align: right;">1.267 L</td></tr><tr style="height: 25px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Putere max&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0);">Putere max</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;14.6/2400 KW/rpm&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0); text-align: right;">14.6/2400 KW/rpm</td></tr><tr style="height: 25px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Inaltime maxima de taiere&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0);">Inaltime maxima de taiere</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;4445 mm&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0); text-align: right;">4445 mm</td></tr><tr style="height: 25px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Inaltimea maxima de descarcare&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0);">Inaltimea maxima de descarcare</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;3110 mm&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0); text-align: right;">3110 mm</td></tr><tr style="height: 25px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Inaltime maxima de excavare&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0);">Inaltime maxima de excavare</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2812 mm&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0); text-align: right;">2812 mm</td></tr><tr style="height: 25px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Adancime maxima excavare&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0);">Adancime maxima excavare</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2705 mm&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0); text-align: right;">2705 mm</td></tr><tr style="height: 25px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Adancimea maxima de excavare verticala&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0);">Adancimea maxima de excavare verticala</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2745 mm&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0); text-align: right;">2745 mm</td></tr><tr style="height: 25px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Excavare maxima de atins&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0);">Excavare maxima de atins</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2575 mm&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0); text-align: right;">2575 mm</td></tr><tr style="height: 25px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Intinderea maxima a bratului (pe orizontala)&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0);">Intinderea maxima a bratului (pe orizontala)</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;4845 mm&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0); text-align: right;">4845 mm</td></tr><tr style="height: 25px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Unghiul de rotire al bratului (stanga dreapta)&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0);">Unghiul de rotire al bratului (stanga dreapta)</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;66/54 Grade&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0); text-align: right;">66/54 Grade</td></tr><tr style="height: 25px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Forta brat sapare&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0);">Forta brat sapare</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;14 KN&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0); text-align: right;">14 KN</td></tr><tr style="height: 25px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Forta maxima cupa&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0);">Forta maxima cupa</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;24 KN&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0); text-align: right;">24 KN</td></tr><tr style="height: 25px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Tip Senile&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0);">Tip Senile</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Cauciuc&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0); text-align: right;">Cauciuc</td></tr><tr style="height: 25px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Latime standard senile&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0);">Latime standard senile</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;300 mm&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0); text-align: right;">300 mm</td></tr><tr style="height: 25px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lungime senile&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0);">Lungime senile</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1990 mm&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0); text-align: right;">1990 mm</td></tr><tr style="height: 25px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lungimea la centrul rolelor&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0);">Lungimea la centrul rolelor</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1560 mm&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0); text-align: right;">1560 mm</td></tr><tr style="height: 25px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Viteza deplasare max/min .&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0);">Viteza deplasare max/min .</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;4.4/2.6 Km/h&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0); text-align: right;">4.4/2.6 Km/h</td></tr><tr style="height: 25px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Greadibilitate maxima *&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0);">Greadibilitate maxima *</td><td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:30}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0); text-align: right;">30</td></tr><tr style="height: 25px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Viteza intoarcere&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0);">Viteza intoarcere</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;10 rpm&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0); text-align: right;">10 rpm</td></tr><tr style="height: 25px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Presiune la sol&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0);">Presiune la sol</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;25 Kpa&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0); text-align: right;">25 Kpa</td></tr><tr style="height: 25px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Latime lama&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0);">Latime lama</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1500 mm&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0); text-align: right;">1500 mm</td></tr><tr style="height: 25px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Inaltime lama&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0);">Inaltime lama</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;325 mm&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0); text-align: right;">325 mm</td></tr><tr style="height: 25px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Capacitate de ridicare lama Sus/jos&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0);">Capacitate de ridicare lama Sus/jos</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;330/320 mm&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0); text-align: right;">330/320 mm</td></tr><tr style="height: 25px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Pompa Principala- Tip&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0);">Pompa Principala- Tip</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2 pompe variabile, 1 pompa mecanica&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0); text-align: right;">2 pompe variabile, 1 pompa mecanica</td></tr><tr style="height: 25px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Debit&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0);">Debit</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2*28.8+19.2+6.5 L/min&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0); text-align: right;">2*28.8+19.2+6.5 L/min</td></tr><tr style="height: 25px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Capacitate rezervor&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0);">Capacitate rezervor</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;42.5 L&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0); text-align: right;">42.5 L</td></tr><tr style="height: 25px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Rezervorul hidraulic de ulei&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0);">Rezervorul hidraulic de ulei</td><td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:30}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0); text-align: right;">30</td></tr><tr style="height: 25px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Cupla rapida mecanica&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0);">Cupla rapida mecanica</td><td style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243);"></td></tr><tr style="height: 25px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Instalatie hidraulica pentru picon&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0);">Instalatie hidraulica pentru picon</td><td style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom;"></td></tr><tr style="height: 25px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Instalatie hidraulica suplimentara&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0);">Instalatie hidraulica suplimentara</td><td style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243);"></td></tr><tr style="height: 25px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lumini de lucru&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0);">Lumini de lucru</td><td style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom;"></td></tr><tr style="height: 25px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Radio AM/FM&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0);">Radio AM/FM</td><td style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243);"></td></tr><tr style="height: 25px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Suport pentru pahar&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0);">Suport pentru pahar</td><td style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom;"></td></tr><tr style="height: 25px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Scaun pneumatic&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0);">Scaun pneumatic</td><td style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243);"></td></tr><tr style="height: 25px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Incalzire&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0);">Incalzire</td><td style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom;"></td></tr><tr style="height: 25px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Centura de siguranta&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0);">Centura de siguranta</td><td style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243);"></td></tr><tr style="height: 25px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Cabina FOPS/TOPS&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0);">Cabina FOPS/TOPS</td><td style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom;"></td></tr><tr style="height: 25px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Stergatoare pentru parbriz&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0);">Stergatoare pentru parbriz</td><td style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243);"></td></tr><tr style="height: 25px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Oglinzi retrovizoare&quot;}" style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom; font-family: Lato; font-size: 12pt; color: rgb(0, 0, 0);">Oglinzi retrovizoare</td><td style="padding-right: 3px; padding-left: 3px; overflow: hidden; vertical-align: bottom;"></td></tr><tr style="height: 20px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Bricheta&quot;}" style="padding-right: 3px; padding-left: 3px; color: rgb(0, 0, 0); overflow: hidden; vertical-align: bottom; background-color: rgb(243, 243, 243); font-family: Lato; font-size: 12pt;">Bricheta</td></tr></tbody></table>                ',
                 'descriereText' => [
                   'Sunward' => 'Sunward iti ofera performante superioare, costuri mici de intretinere si comfort, toate la preturi foarte accesibile. Distribuit din Belgia, atat utilajele cat si piesele ajung in cel mai scurt timp in Romania. Gama Sunward de utilaje este foarte complexa, de la miniexcavatoare la excavatoare mari. Toate caracteristicile sunt concepute pentru a veni in intampinarea nevoilor clientilor. Comfortul si intretinerea impreuna cu performantele de inalta calitate si asigurea unui serviciu de garantie complex fac combinatia perfecta pentru orice cumparator!',
+                ],
+                'meta' => [
+                    'title' => 'Miniexcavator Sunward SWE 25 F | MAXMANTECH',
+                    'url' => 'https://maxmantech.ro/viewProduct.php?product=20301',
+                    'description' => 'Miniexcavatoare, MAXMANTECH va ofera miniexcavatoare noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
                 ]
             ],
             'Miniexcavator Sunward SWE 25 UF' => [
@@ -612,6 +668,11 @@ return [
                   'Cabina Zero Tail' => 'Cabina se roteste fara a iesi din latimea senilelor, facand foarte usoara manevrare in spatiile inguste si greu accesibile',
                   'Cabina confortabila' => 'Spatiu si vedere panoramica mai largi datorita parbrizului marit. In plus, scaunul este de inalta calitate si utilajul vine dotat cu radio, suport pentru pahar .',
                   'Usor de intretinut' => 'Spatiu de intretinere mare, convenabil pentru intretinerea periodica a diferitelor parti.'
+                ],
+                'meta' => [
+                    'title' => 'Miniexcavator Sunward SWE 25 UF | MAXMANTECH',
+                    'url' => 'https://maxmantech.ro/viewProduct.php?product=20302',
+                    'description' => 'Miniexcavatoare, MAXMANTECH va ofera miniexcavatoare noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
                 ]
             ],
             'Miniexcavator Sunward SWE 40 UB' => [
@@ -633,7 +694,13 @@ return [
                   'Aer conditionat' => 'Standard cu aer conditionat, sistem de racire sau incalzire puternic in jurul operatorului oferind un confort total.',
                   'Usor de intretinut' => 'Spatiu de intretinere mare, convenabil pentru intretinerea periodica a diferitelor componente.',
                   'Design Deosebit' => 'Design optimizat, linii clare, aspect neted si frumos.'
+                ],
+                'meta' => [
+                    'title' => 'Miniexcavator Sunward SWE 40 UB | MAXMANTECH',
+                    'url' => 'https://maxmantech.ro/viewProduct.php?product=20303',
+                    'description' => 'Miniexcavatoare, MAXMANTECH va ofera miniexcavatoare noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
                 ]
+
             ],
             'Miniexcavator Sunward SWE 40UB' => [
                 'id' => '20304',
@@ -661,6 +728,11 @@ return [
                   'Aer conditionat' => 'Standard cu aer conditionat, sistem de racire sau incalzire puternic in jurul operatorului oferind un confort total.',
                   'Usor de intretinut' => 'Spatiu de intretinere mare, convenabil pentru intretinerea periodica a diferitelor componente.',
                   'Design Deosebit' => 'Design optimizat, linii clare, aspect neted si frumos.'
+                ],
+                'meta' => [
+                    'title' => 'Miniexcavator Sunward SWE 40UB | MAXMANTECH',
+                    'url' => 'https://maxmantech.ro/viewProduct.php?product=20304',
+                    'description' => 'Miniexcavatoare, MAXMANTECH va ofera miniexcavatoare noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
                 ]
             ],
             'meta' => [

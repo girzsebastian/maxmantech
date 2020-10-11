@@ -1,11 +1,11 @@
 <?php
-$array = require_once "assets/php/array.php";
+$array = require_once "assets/php/arrayEchipamente.php";
 require_once "assets/php/functions.php";
 $product= $_GET['product'];
 if(!empty($product)){
-    $productArray = getProductById($product, $array);
+    $productArray = getProductEchipamenteById($product, $array);
     $descriptionArray = getProductDescriptionById($product, $array);
-    $productFinal = buildProductByName($productArray, $descriptionArray);
+    $productFinal = buildProductEchipamenteByName($productArray, $descriptionArray);
 
     $html = file_get_contents('assets/html/viewProduct.html');
     $topBar = file_get_contents('assets/html/topBar.html');
@@ -15,7 +15,7 @@ if(!empty($product)){
     $html = str_replace("{{ meta }}", buildMeta($productArray), $html);
     $html = str_replace("{{ topBar }}", $topBar, $html);
     $html = str_replace("{{ header }}", $header, $html);
-    $html = str_replace("{{ breadcrumbs }}", buildUtilajeProductBreadcrumbs($productArray), $html);
+    $html = str_replace("{{ breadcrumbs }}", buildEchipamenteProductBreadcrumbs($productArray), $html);
     $html = str_replace("{{ body }}", $productFinal, $html);
     $html = str_replace("{{ footer }}", $footer, $html);
 

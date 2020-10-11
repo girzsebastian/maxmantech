@@ -8,6 +8,7 @@ return [
                 'category' => 'Generatoare',
                 'title' => 'Generator de curent Panzer SPG1500, 3 CP',
                 'image' => 'assets/img/products/Generatoare/Generator-1.jpg',
+                'price' => '834.90 lei',
                 'images' => [
                     'assets/img/products/Generatoare/Generator-1-0.jpg',
                     'assets/img/products/Generatoare/Generator-1-1.jpg',
@@ -32,6 +33,7 @@ return [
                 'category' => 'Generatoare',
                 'title' => 'Generator de curent Panzer SPG2500, 5.5 CP',
                 'image' => 'assets/img/products/Generatoare/Generator-2.jpg',
+                'price' => '1,159.90 lei',
                 'images' => [
                     'assets/img/products/Generatoare/Generator-2-0.jpg',
                     'assets/img/products/Generatoare/Generator-2-1.jpg',
@@ -58,6 +60,7 @@ return [
                 'category' => 'Generatoare',
                 'title' => 'Generator de curent, Stanley SG 3100, monofazic, 2.9 kW',
                 'image' => 'assets/img/products/Generatoare/Generator-3.jpg',
+                'price' => '1,802.90 lei',
                 'images' => [
                     'assets/img/products/Generatoare/Generator-3-0.jpg',
                     'descriere' => '
@@ -77,23 +80,24 @@ return [
                     'url' => 'https://maxmantech.ro/category.php?category=Generatoare',
                     'description' => 'Generatoare, MAXMANTECH va ofera generatoare noi cu garantie.',
                 ]
-            ],
-            'Masini-de-gaurit' => [
-                'Masina de gaurit / insurubat Panzer CD-1213-U1' => [
-                    'id' => '40100',
-                    'category' => 'Masini de gaurit',
-                    'title' => 'Masina de gaurit / insurubat Panzer CD-1213-U1',
-                    'image' => 'assets/img/products/Masini-de-gaurit/Masina-de-gaurit-1.jpg',
-                    'images' => [
-                        'assets/img/products/Masini-de-gaurit/Masina-de-gaurit-1-0.jpg',
-                        'assets/img/products/Masini-de-gaurit/Masina-de-gaurit-1-1.jpg',
-                        'assets/img/products/Masini-de-gaurit/Masina-de-gaurit-1-2.jpg',
-                        'assets/img/products/Masini-de-gaurit/Masina-de-gaurit-1-3.jpg',
-                    ],
-                    'descriere' => '<table class="table-specification"><tbody><tr><td class="semibold">Brand</td><td><div>Panzer</div></td></tr><tr><td class="semibold">Garantie Persoana Fizica (luni)</td><td><div>24</div></td></tr><tr><td class="semibold">Garantie Persoana Juridica (luni)</td><td><div>6</div></td></tr><tr><td class="semibold">Destinatie recomandata </td><td><div>hobby</div></td></tr><tr><td class="semibold">Tensiune alimentare (V)</td><td><div>12</div></td></tr><tr><td class="semibold">Capacitate (Ah)</td><td><div>1.3</div></td></tr><tr><td class="semibold">Turatia nominala (rot/min)</td><td><div>1350</div></td></tr><tr><td class="semibold">Model</td><td><div>CD-1213-U1</div></td></tr><tr><td class="semibold">Acumulator tip</td><td><div>Li-Ion</div></td></tr><tr><td class="semibold">Tipul mandrinei</td><td><div>rapida</div></td></tr></tbody></table>',
-                    'descriereText' => [
-                        '' => 'Masina de gaurit Panzer CD-1213-U1 este conceputa pentru perforarea in lemn, metal, ceramica si plastic. Aceasta este prevazuta cu control electronic al vitezei si rotatie stanga / dreapta. Unealta este potrivita si pentru infiletare.',
-                    ],
+            ]
+        ],
+        'Masini-de-gaurit' => [
+            'Masina de gaurit / insurubat Panzer CD-1213-U1' => [
+                'id' => '40100',
+                'category' => 'Masini de gaurit',
+                'title' => 'Masina de gaurit / insurubat Panzer CD-1213-U1',
+                'image' => 'assets/img/products/Masini-de-gaurit/Masina-de-gaurit-1.jpg',
+                'price' => '238.90 lei',
+                'images' => [
+                    'assets/img/products/Masini-de-gaurit/Masina-de-gaurit-1-0.jpg',
+                    'assets/img/products/Masini-de-gaurit/Masina-de-gaurit-1-1.jpg',
+                    'assets/img/products/Masini-de-gaurit/Masina-de-gaurit-1-2.jpg',
+                    'assets/img/products/Masini-de-gaurit/Masina-de-gaurit-1-3.jpg',
+                ],
+                'descriere' => '<table class="table-specification"><tbody><tr><td class="semibold">Brand</td><td><div>Panzer</div></td></tr><tr><td class="semibold">Garantie Persoana Fizica (luni)</td><td><div>24</div></td></tr><tr><td class="semibold">Garantie Persoana Juridica (luni)</td><td><div>6</div></td></tr><tr><td class="semibold">Destinatie recomandata </td><td><div>hobby</div></td></tr><tr><td class="semibold">Tensiune alimentare (V)</td><td><div>12</div></td></tr><tr><td class="semibold">Capacitate (Ah)</td><td><div>1.3</div></td></tr><tr><td class="semibold">Turatia nominala (rot/min)</td><td><div>1350</div></td></tr><tr><td class="semibold">Model</td><td><div>CD-1213-U1</div></td></tr><tr><td class="semibold">Acumulator tip</td><td><div>Li-Ion</div></td></tr><tr><td class="semibold">Tipul mandrinei</td><td><div>rapida</div></td></tr></tbody></table>',
+                'descriereText' => [
+                    '' => 'Masina de gaurit Panzer CD-1213-U1 este conceputa pentru perforarea in lemn, metal, ceramica si plastic. Aceasta este prevazuta cu control electronic al vitezei si rotatie stanga / dreapta. Unealta este potrivita si pentru infiletare.',
                 ],
                 'meta' => [
                     'title' => 'Masina de gaurit / insurubat Panzer CD-1213-U1 | MAXMANTECH',
@@ -106,6 +110,7 @@ return [
                 'category' => 'Masini de gaurit',
                 'title' => 'Masina de gaurit / insurubat Bosch EasyDrill 1200',
                 'image' => 'assets/img/products/Masini-de-gaurit/Masina-de-gaurit-2.jpg',
+                'price' => '346.90 lei',
                 'images' => [
                     'assets/img/products/Masini-de-gaurit/Masina-de-gaurit-2-0.jpg',
                     'assets/img/products/Masini-de-gaurit/Masina-de-gaurit-2-1.jpg',
@@ -126,6 +131,7 @@ return [
                 'category' => 'Masini de gaurit',
                 'title' => 'Masina de gaurit / insurubat Black&Decker BDCDC 18',
                 'image' => 'assets/img/products/Masini-de-gaurit/Masina-de-gaurit-3.jpg',
+                'price' => '291.90 lei',
                 'images' => [
                     'assets/img/products/Masini-de-gaurit/Masina-de-gaurit-3-0.jpg',
                     'assets/img/products/Masini-de-gaurit/Masina-de-gaurit-3-1.jpg',
@@ -153,6 +159,7 @@ return [
                 'category' => 'Picamare',
                 'title' => 'Ciocan demolator, Hikoki H41MB2, 950 W',
                 'image' => 'assets/img/products/Picamare/Picamar-1.jpg',
+                'price' => '1,845.90 lei',
                 'images' => [
                 ],
                 'descriere' => '<table class="table-specification"><tbody><tr><td class="semibold">Brand</td><td><div>Hikoki</div></td></tr><tr><td class="semibold">Garantie Persoana Fizica (luni)</td><td><div>24</div></td></tr><tr><td class="semibold">Garantie Persoana Juridica (luni)</td><td><div>12</div></td></tr><tr><td class="semibold">Destinatie recomandata </td><td><div>profesional</div></td></tr><tr><td class="semibold">Model</td><td><div>H41MB2</div></td></tr><tr><td class="semibold">Putere nominala (W)</td><td><div>950</div></td></tr><tr><td class="semibold">Sistem percutie</td><td><div>electropneumatica</div></td></tr><tr><td class="semibold">Numar percutii</td><td><div>3000</div></td></tr><tr><td class="semibold">Felul prinderii</td><td><div>SDS Max</div></td></tr><tr><td class="semibold">Greutate (kg)</td><td><div>5.1</div></td></tr></tbody></table>   
@@ -171,6 +178,7 @@ return [
                 'category' => 'Picamare',
                 'title' => 'Ciocan demolator Bosch GSH16-28 1750 W',
                 'image' => 'assets/img/products/Picamare/Picamar-2.jpg',
+                'price' => '6,367.90 lei',
                 'images' => [
                 ],
                 'descriere' => '<table class="table-specification"><tbody><tr><td class="semibold">Brand</td><td><div>Bosch</div></td></tr><tr><td class="semibold">Garantie Persoana Fizica (luni)</td><td><div>24</div></td></tr><tr><td class="semibold">Garantie Persoana Juridica (luni)</td><td><div>12</div></td></tr><tr><td class="semibold">Destinatie recomandata </td><td><div>profesional</div></td></tr><tr><td class="semibold">Putere nominala (W)</td><td><div>1750</div></td></tr><tr><td class="semibold">Turatia nominala (rot/min)</td><td><div>1300</div></td></tr><tr><td class="semibold">Energie de percutie (J)</td><td><div>45</div></td></tr></tbody></table>   
@@ -197,6 +205,7 @@ return [
                 'category' => 'Betoniere',
                 'title' => 'Betoniera Hobbyst 140L 550W',
                 'image' => 'assets/img/products/Betoniere/Betionera-1.jpg',
+                'price' => '830.90 lei',
                 'images' => [
                     'assets/img/products/Betoniere/Betionera-1-0.jpg',
                     'assets/img/products/Betoniere/Betionera-1-1.jpg',
@@ -221,6 +230,7 @@ return [
                 'id' => '60200',
                 'category' => 'Betoniere',
                 'title' => 'Betoniera 120L 500W 74512',
+                'price' => '665.90 lei',
                 'image' => 'assets/img/products/Betoniere/Betionera-2.jpg',
                 'images' => [
                     'assets/img/products/Betoniere/Betionera-2-0.jpg',
@@ -247,6 +257,7 @@ return [
                 'category' => 'Betoniere',
                 'title' => 'Betoniera Evo II 350L 1500W',
                 'image' => 'assets/img/products/Betoniere/Betionera-3.jpg',
+                'price' => '4564.90 lei',
                 'images' => [
                     'assets/img/products/Betoniere/Betionera-3-0.jpg',
                     'assets/img/products/Betoniere/Betionera-3-1.jpg',

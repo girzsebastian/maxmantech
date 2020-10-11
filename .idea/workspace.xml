@@ -20,9 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40917f06-c353-4fcb-8bc0-8fd23f27752c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/viewproduct.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/html/breadcrumbsEchipamente.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/html/breadcrumbsProductEchipamente.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/html/descriereProduct3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/html/productBody3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/html/productCard3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/categoryEchipamente.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/php/arrayEchipamente.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/php/arrayEchipamente.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/php/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/php/functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/viewproduct.php" beforeDir="false" afterPath="$PROJECT_DIR$/viewproduct.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +65,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/html" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -76,8 +83,8 @@
       <recent name="$PROJECT_DIR$/html" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/assets/html" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare" />
     </key>
   </component>
@@ -107,7 +114,7 @@
       <workItem from="1602341865529" duration="105000" />
       <workItem from="1602342229460" duration="267000" />
       <workItem from="1602274298204" duration="10057000" />
-      <workItem from="1602406637878" duration="20939000" />
+      <workItem from="1602406637878" duration="22959000" />
     </task>
     <servers />
   </component>

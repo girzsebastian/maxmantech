@@ -45,6 +45,29 @@ function buildCategoryByName(array $categoryArray)
     return implode('', $category);
 }
 
+function buildCategoryEchipamenteByName(array $categoryArray)
+{
+    $category = [];
+    if (is_array($categoryArray) || is_object($categoryArray)) {
+        foreach ($categoryArray as $innerArray) {
+            if (!empty($innerArray)) {
+                foreach ($innerArray as $key => $value) {
+                    if (array_key_exists("image", $value) &&
+                        array_key_exists("title", $value) &&
+                        array_key_exists("id", $value)) {
+                        $file = file_get_contents('assets/html/productCard3.html');
+                        $file = str_replace(
+                            ['{{ image }}', '{{ title }}', '{{ id }}', '{{ price }}'],
+                            [$value['image'], $value['title'], $value['id'], $value['price']], $file);
+                        $category[$key] = $file;
+                    }
+                }
+            }
+        }
+    }
+    return implode('', $category);
+}
+
 function buildUtilajeBreadcrumbs(string $category)
 {
     $file = file_get_contents('assets/html/breadcrumbsUtilaje.html');
@@ -52,9 +75,23 @@ function buildUtilajeBreadcrumbs(string $category)
     return $file;
 }
 
+function buildEchipamenteBreadcrumbs(string $category)
+{
+    $file = file_get_contents('assets/html/breadcrumbsEchipamente.html');
+    $file = str_replace('{{ title }}', $category, $file);
+    return $file;
+}
+
 function buildUtilajeProductBreadcrumbs(array $productArray)
 {
     $file = file_get_contents('assets/html/breadcrumbsProductUtilaje.html');
+    $file = str_replace(['{{ category }}', '{{ title }}'], [$productArray['category'], $productArray['title']], $file);
+    return $file;
+}
+
+function buildEchipamenteProductBreadcrumbs(array $productArray)
+{
+    $file = file_get_contents('assets/html/breadcrumbsProductEchipamente.html');
     $file = str_replace(['{{ category }}', '{{ title }}'], [$productArray['category'], $productArray['title']], $file);
     return $file;
 }
@@ -115,6 +152,41 @@ function getProductById(string $product, array $array)
     return null;
 }
 
+function getProductEchipamenteById(string $product, array $array)
+{
+    $resultSet = [];
+    if (is_array($array) || is_object($array)) {
+        foreach ($array as $val) {
+            if (is_array($val) || is_object($val)) {
+                foreach ($val as $value) {
+                    if (is_array($value) || is_object($value)) {
+                        foreach ($value as $value2) {
+                            if (array_key_exists("id", $value2) &&
+                                array_key_exists("category", $value2) &&
+                                array_key_exists("title", $value2) &&
+                                array_key_exists("descriereText", $value2)) {
+                                if ($product == $value2['id']) {
+                                    $resultSet['id'] = $value2['id'];
+                                    $resultSet['category'] = $value2['category'];
+                                    $resultSet['title'] = $value2['title'];
+                                    $resultSet['price'] = $value2['price'];
+                                    $resultSet['image'] = $value2['image'];
+                                    $resultSet['images'] = $value2['images'];
+                                    $resultSet['descriere'] = $value2['descriere'];
+                                    $resultSet['descriereText'] = $value2['descriereText'];
+                                    $resultSet['meta'] = $value2['meta'];
+                                    return $resultSet;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+    return null;
+}
+
 function getProductDescriptionById(string $product, $array)
 {
     if (is_array($array) || is_object($array)) {
@@ -148,7 +220,7 @@ function buildProductByName(array $productArray, array $descriptionArray)
             [$productArray['image'], $productArray['title'], $productArray['cod'], $productArray['greutate'], $productArray['inaltime'], $productArray['latime'], $productArray['lungime'], $productArray['descriere'], $descriere2, $images], $file);
         $product[] = $file;
         return implode('', $product);
-    }else{
+    } else {
         $product = [];
         $file = file_get_contents('assets/html/productBody.html');
         $descriere = descriere($descriptionArray);
@@ -159,6 +231,19 @@ function buildProductByName(array $productArray, array $descriptionArray)
         $product[] = $file;
         return implode('', $product);
     }
+}
+
+function buildProductEchipamenteByName(array $productArray, array $descriptionArray)
+{
+    $product = [];
+    $file = file_get_contents('assets/html/productBody3.html');
+    $descriere = descriere3($descriptionArray);
+    $images = images($productArray);
+    $file = str_replace(
+        ['{{ image }}', '{{ title }}', '{{ price }}', '{{ descriere }}', '{{ descriereText }}', '{{ images }}'],
+        [$productArray['image'], $productArray['title'], $productArray['price'], $productArray['descriere'], $descriere, $images], $file);
+    $product[] = $file;
+    return implode('', $product);
 }
 
 function images(array $productArray)
@@ -191,6 +276,23 @@ function descriere(array $descriptionArray)
     return implode('', $descriere);
 }
 
+function descriere3(array $descriptionArray)
+{
+    $descriere = [];
+    if (is_array($descriptionArray) || is_object($descriptionArray)) {
+        foreach ($descriptionArray as $innerArray) {
+            if (is_array($innerArray) || is_object($innerArray)) {
+                foreach ($innerArray as $key => $value) {
+                    $file = file_get_contents('assets/html/descriereProduct3.html');
+                    $file = str_replace('{{ descriere }}', $value, $file);
+                    $descriere[$key] = $file;
+                }
+            }
+        }
+    }
+    return implode('', $descriere);
+}
+
 function descriere2(array $descriptionArray)
 {
     $descriere = [];
@@ -214,7 +316,9 @@ function getArrayMetaCategory($categoryArray)
     $metaArray = [];
     if (is_array($categoryArray) || is_object($categoryArray)) {
         foreach ($categoryArray as $key => $value) {
-            $metaArray = $value['meta'];
+            if (array_key_exists("meta", $value)){
+                $metaArray = $value['meta'];
+            }
         }
     }
     return $metaArray;

@@ -25,6 +25,8 @@
       <change beforePath="$PROJECT_DIR$/assets/html/formContact.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/html/formContact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/html/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/html/productBody3.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/html/productBody3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/php/arrayEchipamente.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/php/arrayEchipamente.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,6 +113,7 @@
       <workItem from="1602274298204" duration="10057000" />
       <workItem from="1602406637878" duration="24670000" />
       <workItem from="1602437271522" duration="5281000" />
+      <workItem from="1602406637878" duration="29839000" />
     </task>
     <servers />
   </component>

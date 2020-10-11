@@ -124,6 +124,17 @@ function getProductDescriptionById(string $product, $array)
 
 function buildProductByName(array $productArray, array $descriptionArray)
 {
+    if ($productArray['category'] == 'Banda Transportatoare' || $productArray['category'] == 'Malaxor') {
+        $product = [];
+        $file = file_get_contents('assets/html/productBody2.html');
+        $descriere = descriere($descriptionArray);
+        $images = images($productArray);
+        $file = str_replace(
+            ['{{ image }}', '{{ title }}', '{{ cod }}', '{{ greutate }}', '{{ inaltime }}', '{{ latime }}', '{{ lugime }}', '{{ descriere }}', '{{ descriereText }}', '{{ images }}'],
+            [$productArray['image'], $productArray['title'], $productArray['cod'], $productArray['greutate'], $productArray['inaltime'], $productArray['latime'], $productArray['lugime'], $productArray['descriere'], $descriere, $images], $file);
+        $product[] = $file;
+        return implode('', $product);
+    }
     $product = [];
     $file = file_get_contents('assets/html/productBody.html');
     $descriere = descriere($descriptionArray);

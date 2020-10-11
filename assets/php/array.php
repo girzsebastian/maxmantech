@@ -484,37 +484,138 @@ return [
                 'category' => 'Banda Transportatoare',
                 'title' => 'Banda Transportoare cu racleti 5m',
                 'cod' => '#150028',
-                'greutate' => '50   kg',
-                'putere' => '31   CP',
-                'image' => 'assets/img/products/Miniexcavatoare/Miniexcavator-5.jpg',
+                'greutate' => '100 kg',
+                'inaltime' => '2000mm',
+                'latime' => '420mm',
+                'lungime' => '7,5m',
+                'image' => 'assets/img/products/Banda-transportatoare/Banda-transportatoare-1.jpg',
                 'images' => [
-                    'assets/img/products/Miniexcavatoare/Miniexcavator-5-0.jpg',
-                    'assets/img/products/Miniexcavatoare/Miniexcavator-5-1.jpg',
-                    'assets/img/products/Miniexcavatoare/Miniexcavator-5-2.jpg',
-                    'assets/img/products/Miniexcavatoare/Miniexcavator-5-3.jpg',
-                    'assets/img/products/Miniexcavatoare/Miniexcavator-5-4.jpg',
-                    'assets/img/products/Miniexcavatoare/Miniexcavator-5-5.jpg',
-                    'assets/img/products/Miniexcavatoare/Miniexcavator-5-6.jpg',
-                    'assets/img/products/Miniexcavatoare/Miniexcavator-5-7.jpg'
+                    'assets/img/products/Banda-transportatoare/Banda-transportatoare-1-0.jpg'
                 ],
                 'descriere' => '
                 ',
                 'descriereText' => [
-                    'Fiabilitate ridicata si un motor puternic' => 'Motorul Kubota si sistemul hidraulic reprezinta avantajele care ajuta excavatoarele compacte Sunward sa fie foarte cautate de catre clienti.',
-                    'Aer conditionat' => 'Standard cu aer conditionat, sistem de racire sau incalzire puternic in jurul operatorului oferind un confort total.',
-                    'Usor de intretinut' => 'Spatiu de intretinere mare, convenabil pentru intretinerea periodica a diferitelor componente.',
-                    'Design Deosebit' => 'Design optimizat, linii clare, aspect neted si frumos.'
+                    'Specificatii tehnice' => 'Benzi transportoare cu racleti pentru transportul de paie, lemn, rumegus, peleti, cereale, concentate etc, lungimi 5m si 7,5m.',
+                    'Eficienta' => 'Motoare cu reductor de 220V, 380V si hidraulice pentru tractor.
+                    Latime banda cu racleti 100mm si 200mm, latime totala 420mm.',
+                    'Specificatii' => 'HaBa5TB/1, 380V, 0,37 kW, latime banda 100mm, latime totala 420mm, lungime 5m = 2000 Euro incl. Transport',
                 ],
                 'meta' => [
-                    'title' => 'Miniexcavator Sunward SWE 40UB | MAXMANTECH',
-                    'url' => 'https://maxmantech.ro/viewProduct.php?product=20304',
-                    'description' => 'Miniexcavatoare, MAXMANTECH va ofera miniexcavatoare noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
+                    'title' => 'Banda Transportoare cu racleti 5m | MAXMANTECH',
+                    'url' => 'https://maxmantech.ro/viewProduct.php?product=20400',
+                    'description' => 'Banda transportatoare, MAXMANTECH va ofera benzi transportatoare noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
+                ]
+            ],
+            'Banda transportatoare LK 5-0,5' => [
+                'id' => '20401',
+                'category' => 'Banda Transportatoare',
+                'title' => 'Banda transportatoare LK 5-0,5',
+                'cod' => '#150029',
+                'greutate' => '370 kg',
+                'inaltime' => '2000m',
+                'latime' => '919mm',
+                'lungime' => '4872mm',
+                'image' => 'assets/img/products/Banda-transportatoare/Banda-transportatoare-2.jpg',
+                'images' => [
+                    'assets/img/products/Banda-transportatoare/Banda-transportatoare-2-0.jpg',
+                    'assets/img/products/Banda-transportatoare/Banda-transportatoare-2-1.jpg',
+                    'assets/img/products/Banda-transportatoare/Banda-transportatoare-2-2.jpg',
+                    'assets/img/products/Banda-transportatoare/Banda-transportatoare-2-3.jpg',
+                ],
+                'descriere' => '
+                ',
+                'descriereText' => [
+                    'Lungimea transportorului' => '5000mm',
+                    'Latimea benzii transportoare' => '500mm',
+                    'Putere instalata' => '2.2 kW',
+                    'Viteza centurii' => '0.58 m/s',
+                    'Productivitate' => '55 tone\ora',
+                    'Unghiul de instalare al transportorului' => '0...30 grade',
+                    'Tip jgheab' => 'forma de V',
+                    'Inaltimea de descarcare' => '50...3000mm',
+                    'Tensiunea de alimentare' => '50V\380Hz',
+                ],
+                'meta' => [
+                    'title' => 'Banda transportatoare LK 5-0,5 | MAXMANTECH',
+                    'url' => 'https://maxmantech.ro/viewProduct.php?product=20401',
+                    'description' => 'Banda transportatoare, MAXMANTECH va ofera benzi transportatoare noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
                 ]
             ],
             'meta' => [
                 'title' => 'Banda transportatoare | MAXMANTECH',
                 'url' => 'https://maxmantech.ro/category.php?category=Banda-transportatoare',
-                'description' => 'Banda transportatoare, MAXMANTECH va ofera banda transportatoare noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
+                'description' => 'Banda transportatoare, MAXMANTECH va ofera benzi transportatoare noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
+            ]
+         ],
+        'Malaxor' => [
+            'Malaxor beton MX 300' => [
+            'id' => '20500',
+            'category' => 'Malaxor',
+            'title' => 'Malaxor beton MX 300',
+            'cod' => '#150078',
+            'greutate' => '5500 kg',
+            'image' => 'assets/img/products/Malaxoare/Malaxor-1.jpg',
+            'images' => [
+                'assets/img/products/Malaxoare/Malaxor-1.0.jpg',
+                'assets/img/products/Malaxoare/Malaxor-1.1.jpg',
+            ],
+            'descriere' => 'Malaxoarele cu ax vertical, datorita productivitatii lor si a constructiei robuste, sunt echipamente indispensabile pentru prepararea betonului semiumed necesar productiei de elemente din beton vibropresate! ',
+            'descriereText' => [
+                '' => 'Cuva captusita cu manta interschimbabila din tabla hardox 4mm',
+                '' => 'Fundul captusit cu elemente de uzura detasabile (10mm)',
+                '' => 'Sape malaxare interschimbabile din tabla hardox',
+                'Beton fluid' => '300 litri',
+                'Beton semiumed' => '200 litri',
+                'Productivitate' => '2, 4 mc beton semiumed/ora',
+                'Masa neta' => '550 kg',
+                'Dimensiuni de gabarit' => '1,40 x 1,40 x 1,40 m',
+                'Motor electric' => '5,5 kW (380V)',
+            ],
+            'meta' => [
+                'title' => 'Malaxor beton MX 300 | MAXMANTECH',
+                'url' => 'https://maxmantech.ro/viewProduct.php?product=20500',
+                'description' => 'Malaxor, MAXMANTECH va ofera malaxoare noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
+                ]
+            ],
+             'Malaxor BP-1G-300' => [
+            'id' => '20501',
+            'category' => 'Malaxor',
+            'title' => 'Malaxor BP-1G-300',
+            'cod' => '#150079',
+            'greutate' => '5500 kg',
+            'image' => 'assets/img/products/Malaxoare/Malaxor-2.jpg',
+            'images' => [
+                'assets/img/products/Malaxoare/Malaxor-2.0.jpg',
+                'assets/img/products/Malaxoare/Malaxor-2.1.jpg',
+                'assets/img/products/Malaxoare/Malaxor-2.2.jpg',
+                'assets/img/products/Malaxoare/Malaxor-2.3.jpg',
+                'assets/img/products/Malaxoare/Malaxor-2.4.jpg',
+            ],
+            'descriere' => 'Malaxoarele cu ax vertical, datorita productivitatii lor si a constructiei robuste, sunt echipamente indispensabile pentru prepararea betonului semiumed necesar productiei de elemente din beton vibropresate! ',
+            'descriereText' => [
+                'greutate' => '600kg',
+                'inaltime' => '1685mm',
+                'latime' => '962',
+                'lungime' => '1866mm',
+                'Volumul de incarcare' => '300 litri',
+                'Volumul amestecului gata pentru beton' => '200 l',
+                'Volumul lotului finit pentru solutie' => '240 l',
+                'Productivitate' => '4, 6 mc beton semiumed/ora',
+                'Timp de amestecare' => '90...180 secunde',
+                'Dimensiunea agregatului' => '70mm',
+                'Frecventa de rotatie a arborelui' => '40 rpm',
+                'Tensiunea de alimentare' => '380Hz\50V',
+                'Puterea totala instalata' => '5.5 kW',
+            ],
+            'meta' => [
+                'title' => 'Malaxor BP-1G-300 | MAXMANTECH',
+                'url' => 'https://maxmantech.ro/viewProduct.php?product=20501',
+                'description' => 'Malaxor, MAXMANTECH va ofera malaxoare noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
+            ],
+            'meta' => [
+                'title' => 'Malaxor | MAXMANTECH',
+                'url' => 'https://maxmantech.ro/category.php?category=Malaxor',
+                'description' => 'Malaxoare, MAXMANTECH va ofera malaxoare noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
             ]
         ]
     ]

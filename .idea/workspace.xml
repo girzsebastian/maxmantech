@@ -20,8 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40917f06-c353-4fcb-8bc0-8fd23f27752c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/html/productBody2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/html/productBody2.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/html/productBody2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/php/array.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/php/array.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/php/arrayEchipamente.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/php/arrayEchipamente.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/php/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/php/functions.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -107,7 +109,7 @@
       <workItem from="1602341865529" duration="105000" />
       <workItem from="1602342229460" duration="267000" />
       <workItem from="1602274298204" duration="10057000" />
-      <workItem from="1602406637878" duration="11982000" />
+      <workItem from="1602406637878" duration="14842000" />
     </task>
     <servers />
   </component>
@@ -149,10 +151,10 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2598" y="273" width="561" height="568" key="NewPhpClassDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1602144413776" />
-    <state x="2675" y="479" width="399" height="156" key="NewPhpFileDialog" timestamp="1602152325185">
+    <state x="2675" y="479" width="399" height="156" key="NewPhpFileDialog" timestamp="1602420647431">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2675" y="479" width="399" height="156" key="NewPhpFileDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1602152325185" />
+    <state x="2675" y="479" width="399" height="156" key="NewPhpFileDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1602420647431" />
     <state x="2645" y="237" width="460" height="640" key="RollbackChangesDialog" timestamp="1602152934186">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>

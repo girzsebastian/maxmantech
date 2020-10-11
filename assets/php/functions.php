@@ -22,26 +22,21 @@ function buildCategoryByName(array $categoryArray)
                     if (array_key_exists("image", $value) &&
                         array_key_exists("title", $value) &&
                         array_key_exists("cod", $value) &&
-                        array_key_exists("putere", $value) &&
                         array_key_exists("greutate", $value) &&
-                        array_key_exists("id", $value) &&
-                        array_key_exists("category", $value)) {
-                        if ($value['category'] == 'Banda Transportatoare' || $value['category'] == 'Malaxor') {
-                            if (array_key_exists("inaltime", $value) &&
-                                array_key_exists("lungime", $value) &&
-                                array_key_exists("latime", $value)) {
+                        array_key_exists("id", $value)) {
+                        if ($value['category'] == 'Banda transportatoare') {
                                 $file = file_get_contents('assets/html/productCard2.html');
                                 $file = str_replace(
                                     ['{{ image }}', '{{ title }}', '{{ cod }}', '{{ inaltime }}', '{{ lungime }}', '{{ latime }}', '{{ greutate }}', '{{ id }}'],
                                     [$value['image'], $value['title'], $value['cod'], $value['inaltime'], $value['lungime'], $value['latime'], $value['greutate'], $value['id']], $file);
                                 $category[$key] = $file;
-                            }
+                        }else{
+                            $file = file_get_contents('assets/html/productCard.html');
+                            $file = str_replace(
+                                ['{{ image }}', '{{ title }}', '{{ cod }}', '{{ putere }}', '{{ greutate }}', '{{ id }}'],
+                                [$value['image'], $value['title'], $value['cod'], $value['putere'], $value['greutate'], $value['id']], $file);
+                            $category[$key] = $file;
                         }
-                        $file = file_get_contents('assets/html/productCard.html');
-                        $file = str_replace(
-                            ['{{ image }}', '{{ title }}', '{{ cod }}', '{{ putere }}', '{{ greutate }}', '{{ id }}'],
-                            [$value['image'], $value['title'], $value['cod'], $value['putere'], $value['greutate'], $value['id']], $file);
-                        $category[$key] = $file;
                     }
                 }
             }
@@ -77,19 +72,38 @@ function getProductById(string $product, array $array)
                                 array_key_exists("category", $value2) &&
                                 array_key_exists("title", $value2) &&
                                 array_key_exists("descriereText", $value2)) {
-                                if ($product == $value2['id']) {
-                                    $resultSet['id'] = $value2['id'];
-                                    $resultSet['category'] = $value2['category'];
-                                    $resultSet['title'] = $value2['title'];
-                                    $resultSet['cod'] = $value2['cod'];
-                                    $resultSet['greutate'] = $value2['greutate'];
-                                    $resultSet['putere'] = $value2['putere'];
-                                    $resultSet['image'] = $value2['image'];
-                                    $resultSet['images'] = $value2['images'];
-                                    $resultSet['descriere'] = $value2['descriere'];
-                                    $resultSet['descriereText'] = $value2['descriereText'];
-                                    $resultSet['meta'] = $value2['meta'];
-                                    return $resultSet;
+                                if ($value2['category'] == 'Banda transportatoare'){
+                                    if ($product == $value2['id']) {
+                                        $resultSet['id'] = $value2['id'];
+                                        $resultSet['category'] = $value2['category'];
+                                        $resultSet['title'] = $value2['title'];
+                                        $resultSet['cod'] = $value2['cod'];
+                                        $resultSet['greutate'] = $value2['greutate'];
+                                        $resultSet['inaltime'] = $value2['inaltime'];
+                                        $resultSet['latime'] = $value2['latime'];
+                                        $resultSet['lungime'] = $value2['lungime'];
+                                        $resultSet['image'] = $value2['image'];
+                                        $resultSet['images'] = $value2['images'];
+                                        $resultSet['descriere'] = $value2['descriere'];
+                                        $resultSet['descriereText'] = $value2['descriereText'];
+                                        $resultSet['meta'] = $value2['meta'];
+                                        return $resultSet;
+                                    }
+                                }else{
+                                    if ($product == $value2['id']) {
+                                        $resultSet['id'] = $value2['id'];
+                                        $resultSet['category'] = $value2['category'];
+                                        $resultSet['title'] = $value2['title'];
+                                        $resultSet['cod'] = $value2['cod'];
+                                        $resultSet['greutate'] = $value2['greutate'];
+                                        $resultSet['putere'] = $value2['putere'];
+                                        $resultSet['image'] = $value2['image'];
+                                        $resultSet['images'] = $value2['images'];
+                                        $resultSet['descriere'] = $value2['descriere'];
+                                        $resultSet['descriereText'] = $value2['descriereText'];
+                                        $resultSet['meta'] = $value2['meta'];
+                                        return $resultSet;
+                                    }
                                 }
                             }
                         }
@@ -124,14 +138,14 @@ function getProductDescriptionById(string $product, $array)
 
 function buildProductByName(array $productArray, array $descriptionArray)
 {
-    if ($productArray['category'] == 'Banda Transportatoare' || $productArray['category'] == 'Malaxor') {
+    if ($productArray['category'] == 'Banda transportatoare' || $productArray['category'] == 'Malaxor') {
         $product = [];
         $file = file_get_contents('assets/html/productBody2.html');
         $descriere = descriere($descriptionArray);
         $images = images($productArray);
         $file = str_replace(
-            ['{{ image }}', '{{ title }}', '{{ cod }}', '{{ greutate }}', '{{ inaltime }}', '{{ latime }}', '{{ lugime }}', '{{ descriere }}', '{{ descriereText }}', '{{ images }}'],
-            [$productArray['image'], $productArray['title'], $productArray['cod'], $productArray['greutate'], $productArray['inaltime'], $productArray['latime'], $productArray['lugime'], $productArray['descriere'], $descriere, $images], $file);
+            ['{{ image }}', '{{ title }}', '{{ cod }}', '{{ greutate }}', '{{ inaltime }}', '{{ latime }}', '{{ lungime }}', '{{ descriere }}', '{{ descriereText }}', '{{ images }}'],
+            [$productArray['image'], $productArray['title'], $productArray['cod'], $productArray['greutate'], $productArray['inaltime'], $productArray['latime'], $productArray['lungime'], $productArray['descriere'], $descriere, $images], $file);
         $product[] = $file;
         return implode('', $product);
     }

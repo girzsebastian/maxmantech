@@ -43,7 +43,7 @@ return [
                 'description' => 'Buldoexcavatoare, MAXMANTECH va ofera buldoexcavatoare noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
             ]
         ],
-        'Generatoare' => [
+        'Masini-de-gaurit' => [
             'Buldoexcavator CUKUROVA 888' => [
                 'id' => '20100',
                 'category' => 'Buldoexcavatoare',
@@ -84,7 +84,7 @@ return [
                 'description' => 'Buldoexcavatoare, MAXMANTECH va ofera buldoexcavatoare noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
             ]
         ],
-        'Generatoare' => [
+        'Picamare' => [
             'Buldoexcavator CUKUROVA 888' => [
                 'id' => '20100',
                 'category' => 'Buldoexcavatoare',
@@ -125,7 +125,7 @@ return [
                 'description' => 'Buldoexcavatoare, MAXMANTECH va ofera buldoexcavatoare noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
             ]
         ],
-        'Generatoare' => [
+        'Betoniere' => [
             'Buldoexcavator CUKUROVA 888' => [
                 'id' => '20100',
                 'category' => 'Buldoexcavatoare',

@@ -10,6 +10,7 @@
     $aboutSection = file_get_contents('assets/html/aboutSection.html');
     $hero = file_get_contents('assets/html/hero.html');
     $serviceSection = file_get_contents('assets/html/serviceSection.html');
+    $contact = file_get_contents('assets/html/formContact.html');
 
 
     $html = str_replace("{{ topBar }}", $topBar, $html);
@@ -19,6 +20,7 @@
     $html = str_replace('{{ about }}', $aboutSection, $html);
     $html = str_replace("{{ testimonials }}", $testimonials, $html);
     $html = str_replace("{{ clients }}", $clients, $html);
+    $html = str_replace("{{ contact }}", $contact, $html);
     $html = str_replace("{{ footer }}", $footer, $html);
 
 

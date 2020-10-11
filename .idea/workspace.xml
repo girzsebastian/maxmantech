@@ -22,6 +22,9 @@
     <list default="true" id="40917f06-c353-4fcb-8bc0-8fd23f27752c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/html/formContact.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/html/formContact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/html/productBody3.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/html/productBody3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/php/arrayEchipamente.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/php/arrayEchipamente.php" afterDir="false" />
     </list>
@@ -43,7 +46,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -82,7 +85,7 @@
       <recent name="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare" />
     </key>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -108,12 +111,14 @@
       <workItem from="1602341865529" duration="105000" />
       <workItem from="1602342229460" duration="267000" />
       <workItem from="1602274298204" duration="10057000" />
+      <workItem from="1602406637878" duration="24670000" />
+      <workItem from="1602437271522" duration="5281000" />
       <workItem from="1602406637878" duration="29839000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">

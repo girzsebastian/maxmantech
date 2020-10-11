@@ -1215,3 +1215,15 @@ section {
   width: auto;
   height: 100px;
 }
+
+/*--------------------------------------------------------------
+#  Prestari servicii
+--------------------------------------------------------------*/
+.image-service{
+  width: 500px;
+}
+.image-service img{
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: fill;
+}

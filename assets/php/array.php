@@ -477,6 +477,45 @@ return [
                 'url' => 'https://maxmantech.ro/category.php?category=Miniexcavatore',
                 'description' => 'Miniexcavatore, MAXMANTECH va ofera miniexcavatore noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
             ]
+        ],
+        'Banda-transportatoare' => [
+            'Banda Transportoare cu racleti 5m' => [
+                'id' => '20400',
+                'category' => 'Banda Transportatoare',
+                'title' => 'Banda Transportoare cu racleti 5m',
+                'cod' => '#150028',
+                'greutate' => '50   kg',
+                'putere' => '31   CP',
+                'image' => 'assets/img/products/Miniexcavatoare/Miniexcavator-5.jpg',
+                'images' => [
+                    'assets/img/products/Miniexcavatoare/Miniexcavator-5-0.jpg',
+                    'assets/img/products/Miniexcavatoare/Miniexcavator-5-1.jpg',
+                    'assets/img/products/Miniexcavatoare/Miniexcavator-5-2.jpg',
+                    'assets/img/products/Miniexcavatoare/Miniexcavator-5-3.jpg',
+                    'assets/img/products/Miniexcavatoare/Miniexcavator-5-4.jpg',
+                    'assets/img/products/Miniexcavatoare/Miniexcavator-5-5.jpg',
+                    'assets/img/products/Miniexcavatoare/Miniexcavator-5-6.jpg',
+                    'assets/img/products/Miniexcavatoare/Miniexcavator-5-7.jpg'
+                ],
+                'descriere' => '
+                ',
+                'descriereText' => [
+                    'Fiabilitate ridicata si un motor puternic' => 'Motorul Kubota si sistemul hidraulic reprezinta avantajele care ajuta excavatoarele compacte Sunward sa fie foarte cautate de catre clienti.',
+                    'Aer conditionat' => 'Standard cu aer conditionat, sistem de racire sau incalzire puternic in jurul operatorului oferind un confort total.',
+                    'Usor de intretinut' => 'Spatiu de intretinere mare, convenabil pentru intretinerea periodica a diferitelor componente.',
+                    'Design Deosebit' => 'Design optimizat, linii clare, aspect neted si frumos.'
+                ],
+                'meta' => [
+                    'title' => 'Miniexcavator Sunward SWE 40UB | MAXMANTECH',
+                    'url' => 'https://maxmantech.ro/viewProduct.php?product=20304',
+                    'description' => 'Miniexcavatoare, MAXMANTECH va ofera miniexcavatoare noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
+                ]
+            ],
+            'meta' => [
+                'title' => 'Banda transportatoare | MAXMANTECH',
+                'url' => 'https://maxmantech.ro/category.php?category=Banda-transportatoare',
+                'description' => 'Banda transportatoare, MAXMANTECH va ofera banda transportatoare noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
+            ]
         ]
     ]
 ];

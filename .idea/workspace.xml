@@ -20,9 +20,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40917f06-c353-4fcb-8bc0-8fd23f27752c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/img/slide/Utilaje-constructii.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/slide/intretinere-spatii-verzi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/slide/pregatirea-terenului.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/slide/utilaj-dezapezire.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/php/arrayEchipamente.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/html/aboutSection.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/html/aboutSection.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/html/clients.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/html/clients.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/html/hero.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/html/hero.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/html/serviceSection.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/html/serviceSection.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/html/testimonials.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/html/testimonials.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/slide/slide-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/slide/slide-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/slide/slide-3.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/php/array.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/php/array.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/php/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/php/functions.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,15 +82,16 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img/slide" />
       <recent name="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare/buldoexcavatoare" />
       <recent name="$PROJECT_DIR$/html" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img/products/Buldoexcavatoare" />
+    </key>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="false" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -104,6 +117,7 @@
       <workItem from="1602341865529" duration="105000" />
       <workItem from="1602342229460" duration="267000" />
       <workItem from="1602274298204" duration="10057000" />
+      <workItem from="1602406637878" duration="7047000" />
     </task>
     <servers />
   </component>

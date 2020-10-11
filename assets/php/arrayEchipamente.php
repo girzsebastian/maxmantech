@@ -24,7 +24,7 @@ return [
                 ],
                 'meta' => [
                     'title' => 'Generator de curent Panzer SPG1500, 3 CP | MAXMANTECH',
-                    'url' => 'https://maxmantech.ro/viewProduct.php?product=30100',
+                    'url' => 'https://maxmantech.ro/productView.php?product=30100',
                     'description' => 'Generatoare, MAXMANTECH va ofera generatoare noi cu garantie.',
                 ]
             ],
@@ -51,7 +51,7 @@ return [
                 ],
                 'meta' => [
                     'title' => 'Generator de curent Panzer SPG2500, 5.5 CP | MAXMANTECH',
-                    'url' => 'https://maxmantech.ro/viewProduct.php?product=30200',
+                    'url' => 'https://maxmantech.ro/productView.php?product=30200',
                     'description' => 'Generatoare, MAXMANTECH va ofera generatoare noi cu garantie.',
                 ]
             ],
@@ -63,23 +63,23 @@ return [
                 'price' => '1,802.90 lei',
                 'images' => [
                     'assets/img/products/Generatoare/Generator-3-0.jpg',
-                    'descriere' => '
+                ],
+                'descriere' => '
                 <table class="table-specification"><tbody><tr><td class="semibold">Brand</td><td><div>Stanley</div></td></tr><tr><td class="semibold">Garantie Persoana Fizica (luni)</td><td><div>24</div></td></tr><tr><td class="semibold">Garantie Persoana Juridica (luni)</td><td><div>12</div></td></tr><tr><td class="semibold">Model</td><td><div>SG3100</div></td></tr><tr><td class="semibold">Tip</td><td><div>monofazic</div></td></tr><tr><td class="semibold">Putere maxima (W)</td><td><div>3100</div></td></tr><tr><td class="semibold">Tip motor</td><td><div>benzina</div></td></tr><tr><td class="semibold">Nivel de zgomot maxim (dB)</td><td><div>96</div></td></tr><tr><td class="semibold">Sistem de racire motor</td><td><div>racire fortata pe aer</div></td></tr><tr><td class="semibold">Capacitate rezervor (l)</td><td><div>15</div></td></tr></tbody></table>
                 ',
-                    'descriereText' => [
-                        '' => 'Generatorul de curent Stanley SG3100 poate fi o sursa independenta de alimentare cu energie electrica (portabila sau fixa) pe care sa o folositi ca sursa primara de energie oriunde aceasta nu este disponibila (exemplu: santiere, evenimente speciale, interventii in caz de calamitate) sau ca sursa secundara (la intreruprea energiei in reteaua furnizorului de baza).',
-                    ],
-                    'meta' => [
-                        'title' => 'Generator de curent, Stanley SG 3100, monofazic, 2.9 kW| MAXMANTECH',
-                        'url' => 'https://maxmantech.ro/viewProduct.php?product=30300',
-                        'description' => 'Generatoare, MAXMANTECH va ofera generatoare noi cu garantie.',
-                    ]
+                'descriereText' => [
+                    '0' => 'Generatorul de curent Stanley SG3100 poate fi o sursa independenta de alimentare cu energie electrica (portabila sau fixa) pe care sa o folositi ca sursa primara de energie oriunde aceasta nu este disponibila (exemplu: santiere, evenimente speciale, interventii in caz de calamitate) sau ca sursa secundara (la intreruprea energiei in reteaua furnizorului de baza).',
                 ],
                 'meta' => [
-                    'title' => 'Generatoare | MAXMANTECH',
-                    'url' => 'https://maxmantech.ro/category.php?category=Generatoare',
+                    'title' => 'Generator de curent, Stanley SG 3100, monofazic, 2.9 kW| MAXMANTECH',
+                    'url' => 'https://maxmantech.ro/productView.php?product=30300',
                     'description' => 'Generatoare, MAXMANTECH va ofera generatoare noi cu garantie.',
                 ]
+            ],
+            'meta' => [
+                'title' => 'Generatoare | MAXMANTECH',
+                'url' => 'https://maxmantech.ro/categoryEchipamente.php?category=Generatoare',
+                'description' => 'Generatoare, MAXMANTECH va ofera generatoare noi cu garantie.',
             ]
         ],
         'Masini-de-gaurit' => [
@@ -101,7 +101,7 @@ return [
                 ],
                 'meta' => [
                     'title' => 'Masina de gaurit / insurubat Panzer CD-1213-U1 | MAXMANTECH',
-                    'url' => 'https://maxmantech.ro/viewProduct.php?product=40100',
+                    'url' => 'https://maxmantech.ro/productView.php?product=40100',
                     'description' => 'Masini de gaurit, MAXMANTECH va ofera masini de gaurit noi cu garantie.',
                 ]
             ],
@@ -122,7 +122,7 @@ return [
                 ],
                 'meta' => [
                     'title' => 'Masina de gaurit / insurubat Bosch EasyDrill 1200 | MAXMANTECH',
-                    'url' => 'https://maxmantech.ro/viewProduct.php?product=40200',
+                    'url' => 'https://maxmantech.ro/productView.php?product=40200',
                     'description' => 'Masini de gaurit, MAXMANTECH va ofera masini de gaurit noi cu garantie.',
                 ]
             ],
@@ -135,7 +135,6 @@ return [
                 'images' => [
                     'assets/img/products/Masini-de-gaurit/Masina-de-gaurit-3-0.jpg',
                     'assets/img/products/Masini-de-gaurit/Masina-de-gaurit-3-1.jpg',
-                    'assets/img/products/Masini-de-gaurit/Masina-de-gaurit-3-2.jpg',
                 ],
                 'descriere' => '<table class="table-specification"><tbody><tr><td class="semibold">Brand</td><td><div>Black&amp;Decker</div></td></tr><tr><td class="semibold">Garantie Persoana Fizica (luni)</td><td><div>24</div></td></tr><tr><td class="semibold">Garantie Persoana Juridica (luni)</td><td><div>12</div></td></tr><tr><td class="semibold">Destinatie recomandata </td><td><div>hobby</div></td></tr><tr><td class="semibold">Tensiune alimentare (V)</td><td><div>18</div></td></tr><tr><td class="semibold">Capacitate (Ah)</td><td><div>1.5</div></td></tr><tr><td class="semibold">Turatia nominala (rot/min)</td><td><div>650</div></td></tr><tr><td class="semibold">Model</td><td><div>BDCDC 18</div></td></tr><tr><td class="semibold">Acumulator tip</td><td><div>Li - Ion</div></td></tr><tr><td class="semibold">Tipul mandrinei</td><td><div>rapida</div></td></tr></tbody></table>',
                 'descriereText' => [
@@ -144,13 +143,13 @@ return [
             ],
             'meta' => [
                 'title' => 'Masina de gaurit / insurubat Black&Decker BDCDC 18 | MAXMANTECH',
-                'url' => 'https://maxmantech.ro/viewProduct.php?product=40300',
+                'url' => 'https://maxmantech.ro/productView.php?product=40300',
                 'description' => 'Masini de gaurit, MAXMANTECH va ofera masini de gaurit noi cu garantie.',
             ]
         ],
         'meta' => [
             'title' => 'Masini de gaurit | MAXMANTECH',
-            'url' => 'https://maxmantech.ro/category.php?category=Masini-de-gaurit',
+            'url' => 'https://maxmantech.ro/categoryEchipamente.php?category=Masini-de-gaurit',
             'description' => 'Masini de gaurit, MAXMANTECH va ofera masini de gaurit noi cu garantie.',
         ],
         'Picamare' => [
@@ -169,7 +168,7 @@ return [
                 ],
                 'meta' => [
                     'title' => 'Ciocan demolator, Hikoki H41MB2, 950 W | MAXMANTECH',
-                    'url' => 'https://maxmantech.ro/viewProduct.php?product=50100',
+                    'url' => 'https://maxmantech.ro/productView.php?product=50100',
                     'description' => 'Picamare, MAXMANTECH va ofera picamare noi cu garantie.',
                 ]
             ],
@@ -189,13 +188,13 @@ return [
                 ],
                 'meta' => [
                     'title' => 'Ciocan demolator Bosch GSH16-28 1750 W | MAXMANTECH',
-                    'url' => 'https://maxmantech.ro/viewProduct.php?product=50200',
+                    'url' => 'https://maxmantech.ro/productView.php?product=50200',
                     'description' => 'Picamare, MAXMANTECH va ofera picamare noi cu garantie.',
                 ]
             ],
             'meta' => [
                 'title' => 'Picamare | MAXMANTECH',
-                'url' => 'https://maxmantech.ro/category.php?category=Picamare',
+                'url' => 'https://maxmantech.ro/categoryEchipamente.php?category=Picamare',
                 'description' => 'Picamare, MAXMANTECH va ofera picamare noi cu garantie.',
             ]
         ],
@@ -204,12 +203,12 @@ return [
                 'id' => '60100',
                 'category' => 'Betoniere',
                 'title' => 'Betoniera Hobbyst 140L 550W',
-                'image' => 'assets/img/products/Betoniere/Betionera-1.jpg',
+                'image' => 'assets/img/products/Betoniere/Betoniera-1.jpg',
                 'price' => '830.90 lei',
                 'images' => [
-                    'assets/img/products/Betoniere/Betionera-1-0.jpg',
-                    'assets/img/products/Betoniere/Betionera-1-1.jpg',
-                    'assets/img/products/Betoniere/Betionera-1-2.jpg',
+                    'assets/img/products/Betoniere/Betoniere-1-0.jpg',
+                    'assets/img/products/Betoniere/Betoniere-1-1.jpg',
+                    'assets/img/products/Betoniere/Betoniere-1-2.jpg',
                 ],
                 'descriere' => '<table class="table-specification"><tbody><tr><td class="semibold">Brand</td><td><div>Hobbyst</div></td></tr><tr><td class="semibold">Garantie Persoana Fizica (luni)</td><td><div>24</div></td></tr><tr><td class="semibold">Garantie Persoana Juridica (luni)</td><td><div>3</div></td></tr><tr><td class="semibold">Capacitate cuva (l)</td><td><div>140</div></td></tr><tr><td class="semibold">Capacitate de lucru (l)</td><td><div>120</div></td></tr><tr><td class="semibold">Material coroana</td><td><div>Fonta</div></td></tr><tr><td class="semibold">Putere motor (W)</td><td><div>550</div></td></tr><tr><td class="semibold">Tensiune alimentare (V)</td><td><div>230</div></td></tr><tr><td class="semibold">Grad de protectie</td><td><div>IP45</div></td></tr><tr><td class="semibold">Greutate (kg)</td><td><div>52.5</div></td></tr></tbody></table> 
                 ',
@@ -222,7 +221,7 @@ return [
                 ],
                 'meta' => [
                     'title' => 'Betoniera Hobbyst 140L 550W | MAXMANTECH',
-                    'url' => 'https://maxmantech.ro/viewProduct.php?product=60100',
+                    'url' => 'https://maxmantech.ro/productView.php?product=60100',
                     'description' => 'Betoniere, MAXMANTECH va ofera betoniere noi cu garantie.',
                 ]
             ],
@@ -231,11 +230,11 @@ return [
                 'category' => 'Betoniere',
                 'title' => 'Betoniera 120L 500W 74512',
                 'price' => '665.90 lei',
-                'image' => 'assets/img/products/Betoniere/Betionera-2.jpg',
+                'image' => 'assets/img/products/Betoniere/Betoniere-2.jpg',
                 'images' => [
-                    'assets/img/products/Betoniere/Betionera-2-0.jpg',
-                    'assets/img/products/Betoniere/Betionera-2-1.jpg',
-                    'assets/img/products/Betoniere/Betionera-2-2.jpg',
+                    'assets/img/products/Betoniere/Betoniere-2-0.jpg',
+                    'assets/img/products/Betoniere/Betoniere-2-1.jpg',
+                    'assets/img/products/Betoniere/Betoniere-2-2.jpg',
                 ],
                 'descriere' => '<table class="table-specification"><tbody><tr><td class="semibold">Garantie Persoana Fizica (luni)</td><td><div>24</div></td></tr><tr><td class="semibold">Garantie Persoana Juridica (luni)</td><td><div>3</div></td></tr><tr><td class="semibold">Capacitate cuva (l)</td><td><div>120</div></td></tr><tr><td class="semibold">Capacitate de lucru (l)</td><td><div>85</div></td></tr><tr><td class="semibold">Material coroana</td><td><div>Fonta</div></td></tr><tr><td class="semibold">Putere motor (W)</td><td><div>500</div></td></tr><tr><td class="semibold">Tensiune alimentare (V)</td><td><div>230</div></td></tr><tr><td class="semibold">Grad de protectie</td><td><div>IP44</div></td></tr><tr><td class="semibold">Greutate (kg)</td><td><div>44</div></td></tr><tr><td class="semibold">Nivelul de zgomot (dB)</td><td><div>105</div></td></tr></tbody></table>
                 ',
@@ -248,7 +247,7 @@ return [
                 ],
                 'meta' => [
                     'title' => 'Betoniera 120L 500W 74512 | MAXMANTECH',
-                    'url' => 'https://maxmantech.ro/viewProduct.php?product=60200',
+                    'url' => 'https://maxmantech.ro/productView.php?product=60200',
                     'description' => 'Betoniere, MAXMANTECH va ofera betoniere noi cu garantie.',
                 ]
             ],
@@ -256,11 +255,11 @@ return [
                 'id' => '60300',
                 'category' => 'Betoniere',
                 'title' => 'Betoniera Evo II 350L 1500W',
-                'image' => 'assets/img/products/Betoniere/Betionera-3.jpg',
+                'image' => 'assets/img/products/Betoniere/Betoniere-3.jpg',
                 'price' => '4564.90 lei',
                 'images' => [
-                    'assets/img/products/Betoniere/Betionera-3-0.jpg',
-                    'assets/img/products/Betoniere/Betionera-3-1.jpg',
+                    'assets/img/products/Betoniere/Betoniere-3-0.jpg',
+                    'assets/img/products/Betoniere/Betoniere-3-1.jpg',
                 ],
                 'descriere' => '
                     <table class="table-specification"><tbody><tr><td class="semibold">Garantie Persoana Fizica (luni)</td><td><div>24</div></td></tr><tr><td class="semibold">Garantie Persoana Juridica (luni)</td><td><div>12</div></td></tr><tr><td class="semibold">Capacitate cuva (l)</td><td><div>350</div></td></tr><tr><td class="semibold">Capacitate de lucru (l)</td><td><div>300</div></td></tr><tr><td class="semibold">Material coroana</td><td><div>Fonta</div></td></tr><tr><td class="semibold">Putere motor (W)</td><td><div>1500</div></td></tr><tr><td class="semibold">Tensiune alimentare (V)</td><td><div>220</div></td></tr><tr><td class="semibold">Grad de protectie</td><td><div>IP55</div></td></tr><tr><td class="semibold">Greutate (kg)</td><td><div>216</div></td></tr><tr><td class="semibold">Nivelul de zgomot (dB)</td><td><div>90</div></td></tr></tbody></table>
@@ -274,13 +273,13 @@ return [
                 ],
                 'meta' => [
                     'title' => 'Betoniera 120L 500W 74512 | MAXMANTECH',
-                    'url' => 'https://maxmantech.ro/viewProduct.php?product=60300',
+                    'url' => 'https://maxmantech.ro/productView.php?product=60300',
                     'description' => 'Betoniere, MAXMANTECH va ofera betoniere noi cu garantie.',
                 ]
             ],
             'meta' => [
                 'title' => 'Betoniere | MAXMANTECH',
-                'url' => 'https://maxmantech.ro/category.php?category=Betoniere',
+                'url' => 'https://maxmantech.ro/categoryEchipamente.php?category=Betoniere',
                 'description' => 'Betoniere, MAXMANTECH va ofera betoniere noi cu garantie.',
             ]
         ]

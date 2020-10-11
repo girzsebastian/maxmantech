@@ -495,10 +495,8 @@ return [
                 'descriere' => '
                 ',
                 'descriereText' => [
-                    'Specificatii tehnice' => 'Benzi transportoare cu racleti pentru transportul de paie, lemn, rumegus, peleti, cereale, concentate etc, lungimi 5m si 7,5m.',
-                    'Eficienta' => 'Motoare cu reductor de 220V, 380V si hidraulice pentru tractor.
+                    '' => 'Benzi transportoare cu racleti pentru transportul de paie, lemn, rumegus, peleti, cereale, concentate etc, lungimi 5m si 7,5m. Motoare cu reductor de 220V, 380V si hidraulice pentru tractor.
                     Latime banda cu racleti 100mm si 200mm, latime totala 420mm.',
-                    'Specificatii' => 'HaBa5TB/1, 380V, 0,37 kW, latime banda 100mm, latime totala 420mm, lungime 5m = 2000 Euro incl. Transport',
                 ],
                 'meta' => [
                     'title' => 'Banda Transportoare cu racleti 5m | MAXMANTECH',
@@ -553,7 +551,10 @@ return [
                 'category' => 'Malaxor beton',
                 'title' => 'Malaxor beton MX 300',
                 'cod' => '#150078',
-                'greutate' => '550 kg',
+                'greutate' => '600kg',
+                'inaltime' => '1685mm',
+                'latime' => '962',
+                'lungime' => '1866mm',
                 'image' => 'assets/img/products/Malaxoare/Malaxor-1.jpg',
                 'images' => [
                     'assets/img/products/Malaxoare/Malaxor-1-0.jpg',
@@ -561,12 +562,11 @@ return [
                 ],
                 'descriere' => 'Malaxoarele cu ax vertical, datorita productivitatii lor si a constructiei robuste, sunt echipamente indispensabile pentru prepararea betonului semiumed necesar productiei de elemente din beton vibropresate! ',
                 'descriereText' => [
-                    '' => 'Cuva captusita cu manta interschimbabila din tabla hardox 4mm',
-                    '' => 'Fundul captusit cu elemente de uzura detasabile (10mm)',
-                    '' => 'Sape malaxare interschimbabile din tabla hardox',
-                    '' => 'Beton fluid 300 litri',
-                    '' => 'Beton semiumed 200 litri',
-                    '' => 'Productivitate 2, 4 mc beton semiumed/ora',
+                    'Cuva captusita cu manta interschimbabila din tabla hardox' => '4mm',
+                    'Fundul captusit cu elemente de uzura detasabile' => '10mm',
+                    'Beton fluid' => '300 litri',
+                    'Beton semiumed ' => '200 litri',
+                    'Productivitate-' => '2, 4 mc beton semiumed/ora',
                     'Masa neta' => '550 kg',
                     'Dimensiuni de gabarit' => '1,40 x 1,40 x 1,40 m',
                     'Motor electric' => '5,5 kW (380V)',
@@ -582,7 +582,10 @@ return [
                 'category' => 'Malaxor beton',
                 'title' => 'Malaxor BP-1G-300',
                 'cod' => '#150079',
-                'greutate' => '550 kg',
+                'greutate' => '600kg',
+                'inaltime' => '1685mm',
+                'latime' => '962',
+                'lungime' => '1866mm',
                 'image' => 'assets/img/products/Malaxoare/Malaxor-2.jpg',
                 'images' => [
                     'assets/img/products/Malaxoare/Malaxor-2-0.jpg',
@@ -593,10 +596,7 @@ return [
                 ],
                 'descriere' => 'Malaxoarele cu ax vertical, datorita productivitatii lor si a constructiei robuste, sunt echipamente indispensabile pentru prepararea betonului semiumed necesar productiei de elemente din beton vibropresate! ',
                 'descriereText' => [
-                    'greutate' => '600kg',
-                    'inaltime' => '1685mm',
-                    'latime' => '962',
-                    'lungime' => '1866mm',
+
                     'Volumul de incarcare' => '300 litri',
                     'Volumul amestecului gata pentru beton' => '200 l',
                     'Volumul lotului finit pentru solutie' => '240 l',

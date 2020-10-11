@@ -25,12 +25,12 @@ function buildCategoryByName(array $categoryArray)
                         array_key_exists("greutate", $value) &&
                         array_key_exists("id", $value)) {
                         if ($value['category'] == 'Banda transportatoare') {
-                                $file = file_get_contents('assets/html/productCard2.html');
-                                $file = str_replace(
-                                    ['{{ image }}', '{{ title }}', '{{ cod }}', '{{ inaltime }}', '{{ lungime }}', '{{ latime }}', '{{ greutate }}', '{{ id }}'],
-                                    [$value['image'], $value['title'], $value['cod'], $value['inaltime'], $value['lungime'], $value['latime'], $value['greutate'], $value['id']], $file);
-                                $category[$key] = $file;
-                        }else{
+                            $file = file_get_contents('assets/html/productCard2.html');
+                            $file = str_replace(
+                                ['{{ image }}', '{{ title }}', '{{ cod }}', '{{ inaltime }}', '{{ lungime }}', '{{ latime }}', '{{ greutate }}', '{{ id }}'],
+                                [$value['image'], $value['title'], $value['cod'], $value['inaltime'], $value['lungime'], $value['latime'], $value['greutate'], $value['id']], $file);
+                            $category[$key] = $file;
+                        } else {
                             $file = file_get_contents('assets/html/productCard.html');
                             $file = str_replace(
                                 ['{{ image }}', '{{ title }}', '{{ cod }}', '{{ putere }}', '{{ greutate }}', '{{ id }}'],
@@ -72,7 +72,7 @@ function getProductById(string $product, array $array)
                                 array_key_exists("category", $value2) &&
                                 array_key_exists("title", $value2) &&
                                 array_key_exists("descriereText", $value2)) {
-                                if ($value2['category'] == 'Banda transportatoare'){
+                                if ($value2['category'] == 'Banda transportatoare' or $value2['category'] == 'Malaxor beton') {
                                     if ($product == $value2['id']) {
                                         $resultSet['id'] = $value2['id'];
                                         $resultSet['category'] = $value2['category'];
@@ -89,7 +89,7 @@ function getProductById(string $product, array $array)
                                         $resultSet['meta'] = $value2['meta'];
                                         return $resultSet;
                                     }
-                                }else{
+                                } else {
                                     if ($product == $value2['id']) {
                                         $resultSet['id'] = $value2['id'];
                                         $resultSet['category'] = $value2['category'];
@@ -138,26 +138,27 @@ function getProductDescriptionById(string $product, $array)
 
 function buildProductByName(array $productArray, array $descriptionArray)
 {
-    if ($productArray['category'] == 'Banda transportatoare' || $productArray['category'] == 'Malaxor') {
+    if ($productArray['category'] == 'Banda transportatoare' or $productArray['category'] == 'Malaxor beton') {
         $product = [];
         $file = file_get_contents('assets/html/productBody2.html');
-        $descriere = descriere($descriptionArray);
+        $descriere2 = descriere2($descriptionArray);
         $images = images($productArray);
         $file = str_replace(
             ['{{ image }}', '{{ title }}', '{{ cod }}', '{{ greutate }}', '{{ inaltime }}', '{{ latime }}', '{{ lungime }}', '{{ descriere }}', '{{ descriereText }}', '{{ images }}'],
-            [$productArray['image'], $productArray['title'], $productArray['cod'], $productArray['greutate'], $productArray['inaltime'], $productArray['latime'], $productArray['lungime'], $productArray['descriere'], $descriere, $images], $file);
+            [$productArray['image'], $productArray['title'], $productArray['cod'], $productArray['greutate'], $productArray['inaltime'], $productArray['latime'], $productArray['lungime'], $productArray['descriere'], $descriere2, $images], $file);
+        $product[] = $file;
+        return implode('', $product);
+    }else{
+        $product = [];
+        $file = file_get_contents('assets/html/productBody.html');
+        $descriere = descriere($descriptionArray);
+        $images = images($productArray);
+        $file = str_replace(
+            ['{{ image }}', '{{ title }}', '{{ cod }}', '{{ putere }}', '{{ greutate }}', '{{ descriere }}', '{{ descriereText }}', '{{ images }}'],
+            [$productArray['image'], $productArray['title'], $productArray['cod'], $productArray['putere'], $productArray['greutate'], $productArray['descriere'], $descriere, $images], $file);
         $product[] = $file;
         return implode('', $product);
     }
-    $product = [];
-    $file = file_get_contents('assets/html/productBody.html');
-    $descriere = descriere($descriptionArray);
-    $images = images($productArray);
-    $file = str_replace(
-        ['{{ image }}', '{{ title }}', '{{ cod }}', '{{ putere }}', '{{ greutate }}', '{{ descriere }}', '{{ descriereText }}', '{{ images }}'],
-        [$productArray['image'], $productArray['title'], $productArray['cod'], $productArray['putere'], $productArray['greutate'], $productArray['descriere'], $descriere, $images], $file);
-    $product[] = $file;
-    return implode('', $product);
 }
 
 function images(array $productArray)
@@ -189,6 +190,24 @@ function descriere(array $descriptionArray)
     }
     return implode('', $descriere);
 }
+
+function descriere2(array $descriptionArray)
+{
+    $descriere = [];
+    if (is_array($descriptionArray) || is_object($descriptionArray)) {
+        foreach ($descriptionArray as $innerArray) {
+            if (is_array($innerArray) || is_object($innerArray)) {
+                foreach ($innerArray as $key => $value) {
+                    $file = file_get_contents('assets/html/descriereProduct2.html');
+                    $file = str_replace(['{{ descriere }}', '{{ key }}'], [$value, $key], $file);
+                    $descriere[$key] = $file;
+                }
+            }
+        }
+    }
+    return implode('', $descriere);
+}
+
 
 function getArrayMetaCategory($categoryArray)
 {

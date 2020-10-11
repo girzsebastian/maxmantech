@@ -230,11 +230,11 @@ return [
                 'category' => 'Betoniere',
                 'title' => 'Betoniera 120L 500W 74512',
                 'price' => '665.90 lei',
-                'image' => 'assets/img/products/Betoniere/Betoniere-2.jpg',
+                'image' => 'assets/img/products/Betoniere/Betoniera-2.jpg.jpg',
                 'images' => [
-                    'assets/img/products/Betoniere/Betoniere-2-0.jpg',
-                    'assets/img/products/Betoniere/Betoniere-2-1.jpg',
-                    'assets/img/products/Betoniere/Betoniere-2-2.jpg',
+                    'assets/img/products/Betoniere/Betoniera-2-0.jpg',
+                    'assets/img/products/Betoniere/Betoniera-2-1.jpg',
+                    'assets/img/products/Betoniere/Betoniera-2-2.jpg',
                 ],
                 'descriere' => '<table class="table-specification"><tbody><tr><td class="semibold">Garantie Persoana Fizica (luni)</td><td><div>24</div></td></tr><tr><td class="semibold">Garantie Persoana Juridica (luni)</td><td><div>3</div></td></tr><tr><td class="semibold">Capacitate cuva (l)</td><td><div>120</div></td></tr><tr><td class="semibold">Capacitate de lucru (l)</td><td><div>85</div></td></tr><tr><td class="semibold">Material coroana</td><td><div>Fonta</div></td></tr><tr><td class="semibold">Putere motor (W)</td><td><div>500</div></td></tr><tr><td class="semibold">Tensiune alimentare (V)</td><td><div>230</div></td></tr><tr><td class="semibold">Grad de protectie</td><td><div>IP44</div></td></tr><tr><td class="semibold">Greutate (kg)</td><td><div>44</div></td></tr><tr><td class="semibold">Nivelul de zgomot (dB)</td><td><div>105</div></td></tr></tbody></table>
                 ',
@@ -255,11 +255,11 @@ return [
                 'id' => '60300',
                 'category' => 'Betoniere',
                 'title' => 'Betoniera Evo II 350L 1500W',
-                'image' => 'assets/img/products/Betoniere/Betoniere-3.jpg',
+                'image' => 'assets/img/products/Betoniere/Betoniera-3.jpg',
                 'price' => '4564.90 lei',
                 'images' => [
-                    'assets/img/products/Betoniere/Betoniere-3-0.jpg',
-                    'assets/img/products/Betoniere/Betoniere-3-1.jpg',
+                    'assets/img/products/Betoniere/Betoniera-3-0.jpg',
+                    'assets/img/products/Betoniere/Betoniera-3-1.jpg',
                 ],
                 'descriere' => '
                     <table class="table-specification"><tbody><tr><td class="semibold">Garantie Persoana Fizica (luni)</td><td><div>24</div></td></tr><tr><td class="semibold">Garantie Persoana Juridica (luni)</td><td><div>12</div></td></tr><tr><td class="semibold">Capacitate cuva (l)</td><td><div>350</div></td></tr><tr><td class="semibold">Capacitate de lucru (l)</td><td><div>300</div></td></tr><tr><td class="semibold">Material coroana</td><td><div>Fonta</div></td></tr><tr><td class="semibold">Putere motor (W)</td><td><div>1500</div></td></tr><tr><td class="semibold">Tensiune alimentare (V)</td><td><div>220</div></td></tr><tr><td class="semibold">Grad de protectie</td><td><div>IP55</div></td></tr><tr><td class="semibold">Greutate (kg)</td><td><div>216</div></td></tr><tr><td class="semibold">Nivelul de zgomot (dB)</td><td><div>90</div></td></tr></tbody></table>

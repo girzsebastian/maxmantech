@@ -618,6 +618,82 @@ return [
                 'url' => 'https://maxmantech.ro/category.php?category=Malaxor',
                 'description' => 'Malaxoare, MAXMANTECH va ofera malaxoare noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
             ]
+        ],
+        'Presa-pavaje' => [
+            'Mașină fixă de fabricare a blocurilor de beton SUMAB E-400' => [
+                'id' => '30401',
+                'category' => 'Presa pavaje',
+                'title' => 'Mașină fixă de fabricare a blocurilor de beton SUMAB E-400',
+                'cod' => '#120055',
+                'greutate' => '1200 kg',
+                'inaltime' => '2100 mm',
+                'latime' => '2600 mm',
+                'lungime' => '5600 mm',
+                'image' => 'assets/img/products/Presa-pavaje/Presa-pavaje-1.jpeg',
+                'images' => [
+                    'assets/img/products/Presa-pavaje/Presa-pavaje-1-0.jpeg',
+                    'assets/img/products/Presa-pavaje/Presa-pavaje-1-1.jpeg',
+                    'assets/img/products/Presa-pavaje/Presa-pavaje-1-2.jpeg'
+                ],
+                'descriere' => 'Cu mașina staționară SUMAB E-400, următoarele produse din beton sunt produse într-un mod eficient: blocuri goale, blocuri izolate, pavaje, pietre și altele. Mașinile de bloc SUMAB sunt o garanție a calității, durabilității și fiabilității. Mașina producătoare de blocuri este produsă pe tehnologie scandinavă, folosind componente de la cei mai importanți producători europeni! ',
+                'descriereText' => [
+
+                    'Înălțimea maximă a produsului' => '330 mm',
+                    'Înălțimea minimă a produsului' => '40 mm',
+                    'Greutatea mașinii cu echipament de amestecare a feței și o matriță' => '5200 kg',
+                    'Putere electrică instalată' => '15 kW',
+                    'Capacitatea principală a buncărului de beton' => '700 l',
+                    'Capacitatea buncărului din beton față' => '300 l',
+                    'Capacitatea de producție în 8h / 100%' => 'Bloc gol: 4 500 bucăți (20x20x40 cm)',
+                    'Tensiunea de alimentare' => '380Hz\50V',
+                    'Puterea totala instalata' => '5.5 kW',
+                ],
+                'meta' => [
+                    'title' => 'Mașină fixă de fabricare a blocurilor de beton SUMAB E-400 | MAXMANTECH',
+                    'url' => 'https://maxmantech.ro/viewProduct.php?product=30401',
+                    'description' => 'Presa pavaje, MAXMANTECH va ofera prese pavaje noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
+                ],
+            ],
+            'Presa ULTRA 3.0+' => [
+                'id' => '30443',
+                'category' => 'Presa pavaje',
+                'title' => 'Presa ULTRA 3.0+',
+                'cod' => '#143279',
+                'greutate' => '2660 kg',
+                'inaltime' => '2100 mm',
+                'latime' => '2600 mm',
+                'lungime' => '6600 mm',
+                'image' => 'assets/img/products/Presa-pavaje/Presa-pavaje-2.jpg',
+                'images' => [
+                    'assets/img/products/Presa-pavaje/Presa-pavaje-2-0.jpg',
+                    'assets/img/products/Presa-pavaje/Presa-pavaje-2-1.jpg',
+                    'assets/img/products/Presa-pavaje/Presa-pavaje-2-2.jpg',
+                    'assets/img/products/Presa-pavaje/Presa-pavaje-2-3.jpg',
+                ],
+                'descriere' => '',
+                'descriereText' => [
+
+                    'Productivitate pentru pietre de perete' => '390x190x188,180 bucati pe ora',
+                    'Productivitate pe placi de pavaj ' => '100x200,600 buc / ora',
+                    'Dimensiunea zonei de formare' => '400 x 600 mm x mm',
+                    'Inaltimea zonei de turnare' => '50 ... 200 mm',
+                    'Ciclul de formare' => '30 ... 60 sec',
+                    'Puterea instalata' => '15 kW',
+                    'Frecventa vibratiilor mesei vibrante' => '45 ... 85 Hz',
+                    'Presiunea sistemului hidraulic' => '6 ... 12 MPa',
+                    'Numar de muluri pe ora' => '60 ... 120 buc',
+                ],
+                'meta' => [
+                    'title' => 'Presa ULTRA 3.0+ | MAXMANTECH',
+                    'url' => 'https://maxmantech.ro/viewProduct.php?product=30443',
+                    'description' => 'Presa pavaje, MAXMANTECH va ofera prese pavaje noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
+                ],
+            ],
+            'meta' => [
+                'title' => 'Presa pavaje | MAXMANTECH',
+                'url' => 'https://maxmantech.ro/category.php?category=Presa-pavaje',
+                'description' => 'Presa pavaje, MAXMANTECH va ofera prese pavaje noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
+            ]
         ]
     ]
 ];

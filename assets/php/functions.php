@@ -24,7 +24,19 @@ function buildCategoryByName(array $categoryArray)
                         array_key_exists("cod", $value) &&
                         array_key_exists("putere", $value) &&
                         array_key_exists("greutate", $value) &&
-                        array_key_exists("id", $value)) {
+                        array_key_exists("id", $value) &&
+                        array_key_exists("category", $value)) {
+                        if ($value['category'] == 'Banda Transportatoare' || $value['category'] == 'Malaxor') {
+                            if (array_key_exists("inaltime", $value) &&
+                                array_key_exists("lungime", $value) &&
+                                array_key_exists("latime", $value)) {
+                                $file = file_get_contents('assets/html/productCard2.html');
+                                $file = str_replace(
+                                    ['{{ image }}', '{{ title }}', '{{ cod }}', '{{ inaltime }}', '{{ lungime }}', '{{ latime }}', '{{ greutate }}', '{{ id }}'],
+                                    [$value['image'], $value['title'], $value['cod'], $value['inaltime'], $value['lungime'], $value['latime'], $value['greutate'], $value['id']], $file);
+                                $category[$key] = $file;
+                            }
+                        }
                         $file = file_get_contents('assets/html/productCard.html');
                         $file = str_replace(
                             ['{{ image }}', '{{ title }}', '{{ cod }}', '{{ putere }}', '{{ greutate }}', '{{ id }}'],
@@ -127,10 +139,10 @@ function images(array $productArray)
 {
     $images = [];
     if (is_array($productArray) || is_object($productArray)) {
-        foreach ($productArray['images'] as $value){
-                $img = file_get_contents('assets/html/image.html');
-                $img = str_replace(['{{ image }}', '{{ title }}'], [$value, $productArray['title']], $img);
-                $images[] = $img;
+        foreach ($productArray['images'] as $value) {
+            $img = file_get_contents('assets/html/image.html');
+            $img = str_replace(['{{ image }}', '{{ title }}'], [$value, $productArray['title']], $img);
+            $images[] = $img;
         }
     }
     return implode('', $images);
@@ -166,7 +178,7 @@ function getArrayMetaCategory($categoryArray)
 
 function buildMeta($productArray)
 {
-    if (array_key_exists("meta", $productArray)){
+    if (array_key_exists("meta", $productArray)) {
         $metaArray = $productArray['meta'];
         $file = file_get_contents('assets/html/meta.html');
         $file = str_replace(['{{ title }}', '{{ url }}', '{{ description }}'], [$metaArray['title'], $metaArray['url'], $metaArray['description']], $file);

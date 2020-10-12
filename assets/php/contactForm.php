@@ -15,16 +15,16 @@ if(isset($_POST['name']) && isset($_POST['email'])) {
     $mail = new PHPMailer();
 
     $mail->isSMTP();
-    $mail->Host = "mail.atp-utilaje.ro";
+    $mail->Host = "mail.maxmantech.ro";
     $mail->SMTPAuth = true;
-    $mail->Username = 'office@atp-utilaje.ro';
-    $mail->Password = '15963Atp.';
+    $mail->Username = 'office@maxmantech.ro';
+    $mail->Password = 'maxman1234567';
     $mail->Port = 465;
     $mail->SMTPSecure = 'ssl';
 
     $mail->isHTML(true);
     $mail->setFrom($email, $name);
-    $mail->addAddress('office@atp-utilaje.ro');
+    $mail->addAddress('office@maxmantech.ro');
     $mail->Subject = $subject;
     $mail->Body = $message;
 

@@ -230,7 +230,7 @@ return [
                 'category' => 'Betoniere',
                 'title' => 'Betoniera 120L 500W 74512',
                 'price' => '665.90 lei',
-                'image' => 'assets/img/products/Betoniere/Betoniera-2.jpg.jpg',
+                'image' => 'assets/img/products/Betoniere/Betoniera-2.jpg',
                 'images' => [
                     'assets/img/products/Betoniere/Betoniera-2-0.jpg',
                     'assets/img/products/Betoniere/Betoniera-2-1.jpg',

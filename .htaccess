@@ -1,0 +1,7 @@
+RewriteEngine On
+RewriteRule ^home index.php [NC,L]
+RewriteRule ^services services.php [NC,L]
+RewriteRule ^contact contact.php [NC,L]
+RewriteRule ^sitemap.xml$ https://www.maxmantech.ro/sitemap.xml [R=301,L]
+
+

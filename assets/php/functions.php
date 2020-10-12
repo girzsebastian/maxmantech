@@ -24,7 +24,7 @@ function buildCategoryByName(array $categoryArray)
                         array_key_exists("cod", $value) &&
                         array_key_exists("greutate", $value) &&
                         array_key_exists("id", $value)) {
-                        if ($value['category'] == 'Banda transportatoare') {
+                        if ($value['category'] == 'Banda transportatoare' or $value['category'] == 'Malaxor beton' or $value['category'] == 'Presa pavaje') {
                             $file = file_get_contents('assets/html/productCard2.html');
                             $file = str_replace(
                                 ['{{ image }}', '{{ title }}', '{{ cod }}', '{{ inaltime }}', '{{ lungime }}', '{{ latime }}', '{{ greutate }}', '{{ id }}'],
@@ -109,7 +109,7 @@ function getProductById(string $product, array $array)
                                 array_key_exists("category", $value2) &&
                                 array_key_exists("title", $value2) &&
                                 array_key_exists("descriereText", $value2)) {
-                                if ($value2['category'] == 'Banda transportatoare' or $value2['category'] == 'Malaxor beton') {
+                                if ($value2['category'] == 'Banda transportatoare' or $value2['category'] == 'Malaxor beton' or $value2['category'] == 'Presa pavaje') {
                                     if ($product == $value2['id']) {
                                         $resultSet['id'] = $value2['id'];
                                         $resultSet['category'] = $value2['category'];
@@ -210,7 +210,7 @@ function getProductDescriptionById(string $product, $array)
 
 function buildProductByName(array $productArray, array $descriptionArray)
 {
-    if ($productArray['category'] == 'Banda transportatoare' or $productArray['category'] == 'Malaxor beton') {
+    if ($productArray['category'] == 'Banda transportatoare' or $productArray['category'] == 'Malaxor beton' or $productArray['category'] == 'Presa pavaje') {
         $product = [];
         $file = file_get_contents('assets/html/productBody2.html');
         $descriere2 = descriere2($descriptionArray);

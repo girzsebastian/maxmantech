@@ -24,6 +24,8 @@
       <change afterPath="$PROJECT_DIR$/assets/img/clients/client-14.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/assets/img/clients/client-15.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/php/contactForm.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/php/contactForm.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/styl.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/html/aboutSection.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/html/aboutSection.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/html/clients.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/html/clients.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/html/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/html/contact.html" afterDir="false" />
@@ -130,6 +132,7 @@
       <workItem from="1602406637878" duration="24670000" />
       <workItem from="1602437271522" duration="5281000" />
       <workItem from="1602406637878" duration="29839000" />
+      <workItem from="1602523219238" duration="3554000" />
       <workItem from="1602519402250" duration="127000" />
       <workItem from="1602520682259" duration="2492000" />
       <workItem from="1602590346634" duration="608000" />

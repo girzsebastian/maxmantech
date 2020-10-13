@@ -57,6 +57,7 @@
 
 <div class="container-fluid">
     <div class="container">
+        <div id="dezapeziri" style="height: 20px"></div>
         <div class="row justify-content-center">
             <div class="section-title">
                 <h2>Dezăpezire</h2>
@@ -73,6 +74,7 @@
                 <img src="https://maxmantech.ro/assets/img/slide/utilaj-dezapezire.jpg" alt="dezapezire">
             </div>
         </div>
+        <div id="intretinere-spatii-verzi" style="height: 20px"></div>
         <div class="row justify-content-center mt-5">
             <div class="section-title">
                 <h2>Întreținere spații verzi</h2>
@@ -88,6 +90,7 @@
                 <button type="button" class="btn btn-warning w-75 mb-3" style="font-weight: bold; color: white; text-shadow: black 0 1px 3px;" onclick="contact()">Solicită ofertă</button>
             </div>
         </div>
+        <div id="lucrari-de-pregatire-a-terenului" style="height: 20px"></div>
         <div class="row justify-content-center mt-5">
             <div class="section-title">
                 <h2>Lucrări de pregatire a terenului</h2>
@@ -125,5 +128,18 @@
 <script src="https://maxmantech.ro/assets/vendor/venobox/venobox.min.js"></script>
 
 <script src="https://maxmantech.ro/assets/js/main.js"></script>
+
+<script>
+
+    // AutoScroll From Read More Button
+
+    const urlParams = new URLSearchParams(window.location.search);
+    const section = urlParams.get('section');
+        $('html,body').animate({
+                scrollTop: $("#"+ section).offset().top},
+            'slow');
+
+</script>
+
 </body>
 </html>

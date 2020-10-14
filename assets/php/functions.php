@@ -96,6 +96,13 @@ function buildEchipamenteProductBreadcrumbs(array $productArray)
     return $file;
 }
 
+function CategoryBreadcrumbs(string $getCategory){
+    $file = file_get_contents('assets/html/breadcrumbs.html');
+    $file = str_replace('{{ name }}', $getCategory, $file);
+    return $file;
+}
+
+
 function getProductById(string $product, array $array)
 {
     $resultSet = [];
@@ -316,7 +323,7 @@ function getArrayMetaCategory($categoryArray)
     $metaArray = [];
     if (is_array($categoryArray) || is_object($categoryArray)) {
         foreach ($categoryArray as $key => $value) {
-            if (array_key_exists("meta", $value)){
+            if (array_key_exists("meta", $value)) {
                 $metaArray = $value['meta'];
             }
         }
@@ -328,6 +335,44 @@ function buildMeta($productArray)
 {
     if (array_key_exists("meta", $productArray)) {
         $metaArray = $productArray['meta'];
+        $file = file_get_contents('assets/html/meta.html');
+        $file = str_replace(['{{ title }}', '{{ url }}', '{{ description }}'], [$metaArray['title'], $metaArray['url'], $metaArray['description']], $file);
+        return $file;
+    }
+    return null;
+}
+
+function getCategory(array $category, string $categoryTitle)
+{
+    $file = file_get_contents('assets/html/echipamente.html');
+    if (is_array($category) || is_object($category)) {
+        foreach ($category as $key => $innerArray) {
+            if (is_array($innerArray) || is_object($innerArray)) {
+                if ($key == $categoryTitle){
+                    foreach ($innerArray as $value){
+                        if (array_key_exists("img", $value) &&
+                            array_key_exists("title", $value) &&
+                            array_key_exists("category", $value)){
+                            $file2 = file_get_contents('assets/html/category-card.html');
+                            $file2 = str_replace(['{{ img }}', '{{ title }}', '{{ category }}'], [$value['img'], $value['title'], $value['category']], $file2);
+                            $categoryArray[] = $file2;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    $categoryArray = implode('', $categoryArray);
+    $file = str_replace('{{ category }}', $categoryArray, $file);
+
+    return $file;
+}
+
+function buildMetaCategory(array $category, string $getCategory)
+{
+    $category = $category[$getCategory];
+    if (array_key_exists("meta", $category)) {
+        $metaArray = $category['meta'];
         $file = file_get_contents('assets/html/meta.html');
         $file = str_replace(['{{ title }}', '{{ url }}', '{{ description }}'], [$metaArray['title'], $metaArray['url'], $metaArray['description']], $file);
         return $file;

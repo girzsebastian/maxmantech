@@ -240,4 +240,13 @@ function suna(item){
         items: 1
     });
 
+    // Porfolio isotope and filter
+    $(window).on('load', function() {
+        const portfolioIsotope = $('.portfolio-container').isotope({
+            itemSelector: '.portfolio-item',
+            layoutMode: 'fitRows'
+        });
+
+    });
+
 })(jQuery);

@@ -5,22 +5,22 @@
        'Generatoare' => [
            'title' => 'Generatoare',
            'img' => 'Generator.jpg',
-           'category' => 'Generatoare'
+           'category' => 'categoryEchipamente.php?category=Generatoare'
        ],
        'Masini-de-gaurit' => [
            'title' => 'Masini de gaurit',
            'img' => 'Masina-de-gaurit.jpg',
-           'category' => 'Masini-de-gaurit'
+           'category' => 'categoryEchipamente.php?category=Masini-de-gaurit'
        ],
        'Picamere' => [
            'title' => 'Picamere',
            'img' => 'Picamar.jpg',
-           'category' => 'Picamere'
+           'category' => 'categoryEchipamente.php?category=Picamere'
        ],
        'Betoniere' => [
            'title' => 'Betoniere',
            'img' => 'Betoniera.jpg',
-           'category' => 'Betoniere'
+           'category' => 'categoryEchipamente.php?category=Betoniere'
        ],
        'meta' => [
            'title' => 'Echipamente | MAXMANTECH',
@@ -32,37 +32,37 @@
        'Buldoexcavatoare' => [
            'title' => 'Buldoexcavatoare',
            'img' => 'Buldoexcavatoare.jpg',
-           'category' => 'Buldoexcavatoare'
+           'category' => 'category.php?category=Buldoexcavatoare'
        ],
        'Miniexcavatoare' => [
            'title' => 'Miniexcavator',
            'img' => 'Miniexcavator.jpg',
-           'category' => 'Miniexcavatoare'
+           'category' => 'category.php?category=Miniexcavatoare'
        ],
        'Excavatoare' => [
            'title' => 'Excavator',
            'img' => 'Excavator.jpg',
-           'category' => 'Excavatoare'
+           'category' => 'category.php?category=Excavatoare'
        ],
        'Statie-de-beton' => [
            'title' => 'Statie de beton',
            'img' => 'Statie-de-beton.jpg',
-           'category' => 'Statie-de-beton'
+           'category' => 'category.php?category=Statie-de-beton'
        ],
        'Presa-pavaje' => [
            'title' => 'Presa pavaje',
            'img' => 'Presa-pavaje.jpg',
-           'category' => 'Presa-pavaje'
+           'category' => 'category.php?category=Presa-pavaje'
        ],
        'Malaxor-beton' => [
            'title' => 'Malaxor beton',
            'img' => 'Malaxor.jpg',
-           'category' => 'Malaxor-beton'
+           'category' => 'category.php?category=Malaxor-beton'
        ],
        'Banda-transportatoare' => [
            'title' => 'Banda transportatoare',
            'img' => 'Banda-transportatoare.jpg',
-           'category' => 'Banda-transportatoare'
+           'category' => 'category.php?category=Banda-transportatoare'
        ],
        'meta' => [
            'title' => 'Utilaje | MAXMANTECH',

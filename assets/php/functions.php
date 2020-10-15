@@ -331,10 +331,10 @@ function getArrayMetaCategory($categoryArray)
     return $metaArray;
 }
 
-function buildMeta($productArray)
+function buildMeta($metaArray)
 {
-    if (array_key_exists("meta", $productArray)) {
-        $metaArray = $productArray['meta'];
+    if (is_array($metaArray) || is_object($metaArray)) {
+        $metaArray = $metaArray['meta'];
         $file = file_get_contents('assets/html/meta.html');
         $file = str_replace(['{{ title }}', '{{ url }}', '{{ description }}'], [$metaArray['title'], $metaArray['url'], $metaArray['description']], $file);
         return $file;
@@ -378,4 +378,10 @@ function buildMetaCategory(array $category, string $getCategory)
         return $file;
     }
     return null;
+}
+
+function buildMetaCategories($metaArray){
+    $file = file_get_contents('assets/html/meta.html');
+    $file = str_replace(['{{ title }}', '{{ url }}', '{{ description }}'], [$metaArray['title'], $metaArray['url'], $metaArray['description']], $file);
+    return $file;
 }

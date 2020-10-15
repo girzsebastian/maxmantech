@@ -20,30 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40917f06-c353-4fcb-8bc0-8fd23f27752c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/html/breadcrumbs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/html/category-card.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/html/echipamente.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/categories/Banda-transportatoare.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/categories/Betoniera.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/categories/Buldoexcavatoare.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/categories/Excavator.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/categories/Generator.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/categories/Malaxor.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/categories/Masina-de-gaurit.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/categories/Miniexcavator.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/categories/Picamar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/categories/Presa-pavaje.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/php/echipamenteCategory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/echipamente.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utilaje.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/html/category.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/html/category.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/html/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/html/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/html/hero.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/html/hero.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/html/serviceSection.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/html/serviceSection.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/php/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/php/functions.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +116,7 @@
       <workItem from="1602520682259" duration="2492000" />
       <workItem from="1602590346634" duration="608000" />
       <workItem from="1602608450803" duration="3222000" />
-      <workItem from="1602669608490" duration="21567000" />
+      <workItem from="1602669608490" duration="22306000" />
     </task>
     <servers />
   </component>

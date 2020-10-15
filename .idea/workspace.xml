@@ -21,6 +21,20 @@
   <component name="ChangeListManager">
     <list default="true" id="40917f06-c353-4fcb-8bc0-8fd23f27752c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/html/category-card.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/html/category-card.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/html/category.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/html/category.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/html/formContact.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/html/formContact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/html/productCard.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/html/productCard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/html/productCard2.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/html/productCard2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/html/productCard3.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/html/productCard3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/php/contactForm.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/php/contactForm.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/php/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/php/functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/category.php" beforeDir="false" afterPath="$PROJECT_DIR$/category.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categoryEchipamente.php" beforeDir="false" afterPath="$PROJECT_DIR$/categoryEchipamente.php" afterDir="false" />
+>>>>>>> master
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +96,7 @@
       <recent name="$PROJECT_DIR$/html" />
     </key>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="false" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -185,9 +199,10 @@
     </state>
     <state x="146" y="106" width="1645" height="614" key="dock-window-1/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602692567886" />
     <state x="-144" y="0" width="1530" height="1009" maximized="true" key="dock-window-1/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1602350947344" />
-    <state x="2571" y="292" width="618" height="522" key="find.popup" timestamp="1602333879198">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state x="651" y="312" width="618" height="522" key="find.popup" timestamp="1602703776132">
+      <screen x="0" y="27" width="1920" height="1053" />
     </state>
+    <state x="651" y="312" width="618" height="522" key="find.popup/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1602703776131" />
     <state x="2571" y="292" width="618" height="522" key="find.popup/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1602333879198" />
     <state x="2660" y="233" key="git4idea.branch.GitSmartOperationDialog" timestamp="1602669840181">
       <screen x="1920" y="0" width="1920" height="1040" />

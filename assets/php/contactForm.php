@@ -1,7 +1,7 @@
 <?php
 
 use PHPMailer\PHPMailer\PHPMailer;
-
+var_dump('heloo');exit();
 if(isset($_POST['name']) && isset($_POST['email'])) {
     $name = $_POST['name'];
     $email = $_POST['email'];
@@ -28,17 +28,6 @@ if(isset($_POST['name']) && isset($_POST['email'])) {
     $mail->Subject = $subject;
     $mail->Body = $message;
 
-    if (!$mail->send()) {
-        echo "Message has been sent";
-        echo ("<script>
-    window.alert('Mesajul tau nu s-a putut inregistra, incearca mai tarziu!');
-    </script>");
-        exit;
-    }
-
-    echo ("<script>
-    window.alert('Mesajul tau a fost trimis!');
-    </script>");
 }
 ?>
 

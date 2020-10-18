@@ -25,8 +25,6 @@ function suna(item){
     }
 }
 !(function($) {
-    "use strict";
-
     // Smooth scroll for the navigation menu and links with .scrollto classes
     var scrolltoOffset = $('#header').outerHeight() - 1;
     $(document).on('click', '.nav-menu a, .mobile-nav a, .scrollto', function(e) {
@@ -195,20 +193,15 @@ function suna(item){
         }
     });
 
-    // jQuery counterUp
-    $('[data-toggle="counter-up"]').counterUp({
-        delay: 10,
-        time: 1000
-    });
 
-    // Skills section
-    $('.skills-content').waypoint(function() {
-        $('.progress .progress-bar').each(function() {
-            $(this).css("width", $(this).attr("aria-valuenow") + '%');
-        });
-    }, {
-        offset: '80%'
-    });
+    // // Skills section
+    // $('.skills-content').waypoint(function() {
+    //     $('.progress .progress-bar').each(function() {
+    //         $(this).css("width", $(this).attr("aria-valuenow") + '%');
+    //     });
+    // }, {
+    //     offset: '80%'
+    // });
 
     // Porfolio isotope and filter
     $(window).on('load', function() {

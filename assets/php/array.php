@@ -812,46 +812,10 @@ return [
                     'description' => 'Statie de betion, MAXMANTECH va ofera statie de betion noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
                 ],
             ],
-            'Vibropress ULTRA Mini' => [
-                'id' => '30454',
-                'category' => 'Presa pavaje',
-                'title' => 'Vibropress ULTRA Mini',
-                'cod' => '#133232',
-                'greutate' => '1260 kg',
-                'inaltime' => '2080 mm',
-                'latime' => '2200 mm',
-                'lungime' => '1400 mm',
-                'image' => 'assets/img/products/Presa-pavaje/Presa-pavaje-3.jpg',
-                'images' => [
-                    'assets/img/products/Presa-pavaje/Presa-pavaje-3-0.jpg',
-                    'assets/img/products/Presa-pavaje/Presa-pavaje-3-1.jpg',
-                    'assets/img/products/Presa-pavaje/Presa-pavaje-3-2.jpg',
-                    'assets/img/products/Presa-pavaje/Presa-pavaje-3-3.jpg',
-                ],
-                'descriere' => 'Funcționarea vibropresului ULTRA-Mini începe cu instalarea unui palet tehnologic direct pe o masă vibrantă, cu o putere de 4 kW cu un convertor de frecvență Schneider Electric. Apoi, umplem matricea vibropresului cu un amestec de beton gata preparat. Apoi pumnul este coborât și are loc procesul de vibrocompresie. După aceea, produsele modelate sunt îndepărtate din pin.',
-                'descriereText' => [
-
-                    'Productivitate pentru pietre de perete' => '390x190x188, bucăți pe oră: 135',
-                    'Productivitate pe placi de pavaj ' => '100x200, bucăți pe oră: 450',
-                    'Dimensiunea zonei de formare' => '400 x 600 mm x mm',
-                    'Inaltimea zonei de turnare' => '50 ... 200 mm',
-                    'Ciclul de formare' => '30 ... 80 sec',
-                    'Puterea instalata' => '8 kW',
-                    'Frecventa vibratiilor mesei vibrante' => '45 ... 85 Hz',
-                    'Presiunea sistemului hidraulic' => '6 ... 12 MPa',
-                    'Numar de muluri pe ora' => '45 ... 120 buc',
-                    'Tensiunea de alimentare' => '380/50 V/Hz'
-                ],
-                'meta' => [
-                    'title' => 'Vibropress ULTRA Mini | MAXMANTECH',
-                    'url' => 'https://maxmantech.ro/viewProduct.php?product=30454',
-                    'description' => 'Presa pavaje, MAXMANTECH va ofera prese pavaje noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
-                ],
-            ],
             'meta' => [
-                'title' => 'Presa pavaje | MAXMANTECH',
-                'url' => 'https://maxmantech.ro/category.php?category=Presa-pavaje',
-                'description' => 'Presa pavaje, MAXMANTECH va ofera prese pavaje noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
+                'title' => 'Stati de beton | MAXMANTECH',
+                'url' => 'https://maxmantech.ro/category.php?category=Stati-de-beton',
+                'description' => 'Stati de beton, MAXMANTECH va ofera stati de beton noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
             ]
         ]
     ]

@@ -1,4 +1,4 @@
-User-agent: Googlebot
-Disallow: /
-
-Sitemap: https://www.maxmantech.ro/sitemap.xml
+Sitemap: https://maxmantech.ro/sitemap.xml
+User-agent: *
+Allow: /
+Allow: /sitemap.htm

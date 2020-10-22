@@ -1,232 +1,226 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://maxmantech.ro/</loc>
-  <lastmod>2020-10-11T19:09:09+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://maxmantech.ro/contact.php</loc>
-  <lastmod>2020-10-11T19:09:09+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://maxmantech.ro/categoryEchipamente.php?category=Generatoare</loc>
-  <lastmod>2020-10-11T19:09:09+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://maxmantech.ro/categoryEchipamente.php?category=Masini-de-gaurit</loc>
-  <lastmod>2020-10-11T19:09:09+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://maxmantech.ro/categoryEchipamente.php?category=Picamare</loc>
-  <lastmod>2020-10-11T19:09:09+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://maxmantech.ro/categoryEchipamente.php?category=Betoniere</loc>
-  <lastmod>2020-10-11T19:09:09+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://maxmantech.ro/category.php?category=Buldoexcavatoare</loc>
-  <lastmod>2020-10-11T19:09:09+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://maxmantech.ro/category.php?category=Miniexcavatoare</loc>
-  <lastmod>2020-10-11T19:09:09+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://maxmantech.ro/category.php?category=Excavatoare</loc>
-  <lastmod>2020-10-11T19:09:09+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://maxmantech.ro/category.php?category=Statie-de-beton</loc>
-  <lastmod>2020-10-11T19:09:09+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://maxmantech.ro/category.php?category=Presa-pavaje</loc>
-  <lastmod>2020-10-11T19:09:09+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://maxmantech.ro/category.php?category=Malaxor-beton</loc>
-  <lastmod>2020-10-11T19:09:09+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://maxmantech.ro/category.php?category=Banda-transportatoare</loc>
-  <lastmod>2020-10-11T19:09:09+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://maxmantech.ro/services.php</loc>
-  <lastmod>2020-10-11T19:09:09+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://maxmantech.ro/productView.php?product=30100</loc>
-  <lastmod>2020-10-11T19:09:09+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://maxmantech.ro/productView.php?product=30200</loc>
-  <lastmod>2020-10-11T19:09:09+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://maxmantech.ro/productView.php?product=30300</loc>
-  <lastmod>2020-10-11T19:09:09+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://maxmantech.ro/productView.php?product=40100</loc>
-  <lastmod>2020-10-11T19:09:09+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://maxmantech.ro/productView.php?product=40200</loc>
-  <lastmod>2020-10-11T19:09:09+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://maxmantech.ro/productView.php?product=40300</loc>
-  <lastmod>2020-10-11T19:09:09+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://maxmantech.ro/productView.php?product=50100</loc>
-  <lastmod>2020-10-11T19:09:09+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://maxmantech.ro/productView.php?product=50200</loc>
-  <lastmod>2020-10-11T19:09:09+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://maxmantech.ro/productView.php?product=60100</loc>
-  <lastmod>2020-10-11T19:09:09+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://maxmantech.ro/productView.php?product=60200</loc>
-  <lastmod>2020-10-11T19:09:09+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://maxmantech.ro/productView.php?product=60300</loc>
-  <lastmod>2020-10-11T19:09:09+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://maxmantech.ro/viewProduct.php?product=20100</loc>
-  <lastmod>2020-10-11T19:09:09+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://maxmantech.ro/viewProduct.php?product=20101</loc>
-  <lastmod>2020-10-11T19:09:09+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://maxmantech.ro/viewProduct.php?product=20102</loc>
-  <lastmod>2020-10-11T19:09:09+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://maxmantech.ro/viewProduct.php?product=20103</loc>
-  <lastmod>2020-10-11T19:09:09+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://maxmantech.ro/viewProduct.php?product=20104</loc>
-  <lastmod>2020-10-11T19:09:09+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://maxmantech.ro/viewProduct.php?product=20300</loc>
-  <lastmod>2020-10-11T19:09:09+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://maxmantech.ro/viewProduct.php?product=20301</loc>
-  <lastmod>2020-10-11T19:09:09+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://maxmantech.ro/viewProduct.php?product=20302</loc>
-  <lastmod>2020-10-11T19:09:09+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://maxmantech.ro/viewProduct.php?product=20303</loc>
-  <lastmod>2020-10-11T19:09:09+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://maxmantech.ro/viewProduct.php?product=20304</loc>
-  <lastmod>2020-10-11T19:09:09+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://maxmantech.ro/viewProduct.php?product=20200</loc>
-  <lastmod>2020-10-11T19:09:09+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://maxmantech.ro/viewProduct.php?product=20201</loc>
-  <lastmod>2020-10-11T19:09:09+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://maxmantech.ro/viewProduct.php?product=20202</loc>
-  <lastmod>2020-10-11T19:09:09+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://maxmantech.ro/viewProduct.php?product=20203</loc>
-  <lastmod>2020-10-11T19:09:09+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://maxmantech.ro/viewProduct.php?product=20204</loc>
-  <lastmod>2020-10-11T19:09:09+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://maxmantech.ro/viewProduct.php?product=20500</loc>
-  <lastmod>2020-10-11T19:09:09+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://maxmantech.ro/viewProduct.php?product=20501</loc>
-  <lastmod>2020-10-11T19:09:09+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://maxmantech.ro/viewProduct.php?product=20400</loc>
-  <lastmod>2020-10-11T19:09:09+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://maxmantech.ro/viewProduct.php?product=20401</loc>
-  <lastmod>2020-10-11T19:09:09+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-
-
+<?xml version="1.0" encoding="utf-8"?>
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>https://maxmantech.ro</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/services.php?section=intretinere-spatii-verzi</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/category.php?category=Presa-pavaje</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/category.php?category=Miniexcavatoare</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/categoryEchipamente.php?category=Betoniere</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/categoryEchipamente.php?category=Generatoare</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/contact.php</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/viewProduct.php?product=30454</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/viewProduct.php?product=30443</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/services.php</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/services.php?section=lucrari-de-pregatire-a-terenului</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/productView.php?product=30300</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/category.php?category=Malaxor-beton</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/productView.php?product=30200</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/category.php?category=Banda-transportatoare</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/productView.php?product=30100</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/category.php?category=Excavatoare</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/category.php?category=Statie-de-beton</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/productView.php?product=60200</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/utilaje.php</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/category.php?category=Buldoexcavatoare</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/viewProduct.php?product=20303</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/categoryEchipamente.php?category=Masini-de-gaurit</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/categoryEchipamente.php?category=Picamare</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/viewProduct.php?product=20300</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/echipamente.php</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/viewProduct.php?product=20501</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/productView.php?product=60300</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/viewProduct.php?product=30401</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/viewProduct.php?product=20500</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/viewProduct.php?product=20304</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/productView.php?product=60100</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/viewProduct.php?product=20400</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/viewProduct.php?product=20301</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/viewProduct.php?product=20302</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/viewProduct.php?product=20401</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/viewProduct.php?product=20201</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/viewProduct.php?product=20200</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/viewProduct.php?product=20202</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/viewProduct.php?product=20204</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/viewProduct.php?product=20203</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/viewProduct.php?product=50400</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/viewProduct.php?product=20100</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/viewProduct.php?product=50401</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/viewProduct.php?product=20101</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/viewProduct.php?product=20103</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/viewProduct.php?product=20102</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/viewProduct.php?product=20104</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/productView.php?product=40200</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/productView.php?product=40100</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/productView.php?product=40300</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/categoryEchipamente.php?category=Picamere</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/productView.php?product=50100</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxmantech.ro/productView.php?product=50200</loc>
+    <changefreq>always</changefreq>
+  </url>
 </urlset>
+<!--<guid value="80284051-f5fe-4b4b-9875-eddf8e1783dc" />-->
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->

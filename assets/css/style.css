@@ -1142,10 +1142,9 @@ section {
 # Testimonials
 --------------------------------------------------------------*/
 .testimonials .testimonial-item {
-  height: 60%;
   box-sizing: content-box;
-  padding: 40px;
   box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.08);
+  padding: 30px;
   position: relative;
   background: #fff;
 }

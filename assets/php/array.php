@@ -486,6 +486,7 @@ return [
                 'cod' => '#150028',
                 'greutate' => '100 kg',
                 'inaltime' => '2000mm',
+                'price' => 'PRET LA CERERE',
                 'latime' => '420mm',
                 'lungime' => '7,5m',
                 'image' => 'assets/img/products/Banda-transportatoare/Banda-transportatoare-1.jpg',
@@ -504,12 +505,13 @@ return [
                     'description' => 'Banda transportatoare, MAXMANTECH va ofera benzi transportatoare noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
                 ]
             ],
-            'Banda transportatoare LK 5-0,5' => [
+            'Banda transportatoare cu banda LK 5-0,5' => [
                 'id' => '20401',
                 'category' => 'Banda transportatoare',
-                'title' => 'Banda transportatoare LK 5-0,5',
+                'title' => 'Banda transportatoare cu banda LK 5-0,5',
                 'cod' => '#150029',
                 'greutate' => '370 kg',
+                'price' => '4.600 EUR',
                 'inaltime' => '2000m',
                 'latime' => '919mm',
                 'lungime' => '4872mm',
@@ -534,7 +536,7 @@ return [
                     'Tensiunea de alimentare' => '50V\380Hz',
                 ],
                 'meta' => [
-                    'title' => 'Banda transportatoare LK 5-0,5 | MAXMANTECH',
+                    'title' => 'Banda transportatoare cu banda LK 5-0,5 | MAXMANTECH',
                     'url' => 'https://maxmantech.ro/viewProduct.php?product=20401',
                     'description' => 'Banda transportatoare, MAXMANTECH va ofera benzi transportatoare noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
                 ]
@@ -546,12 +548,13 @@ return [
             ]
         ],
         'Malaxor-beton' => [
-            'Malaxor beton MX 300' => [
+            'Malaxor mixuri si beton MX 300' => [
                 'id' => '20500',
                 'category' => 'Malaxor beton',
-                'title' => 'Malaxor beton MX 300',
+                'title' => 'Malaxor mixuri si beton MX 300',
                 'cod' => '#150078',
                 'greutate' => '600kg',
+                'price' => 'PRET LA CERERE',
                 'inaltime' => '1685mm',
                 'latime' => '962',
                 'lungime' => '1866mm',
@@ -572,16 +575,17 @@ return [
                     'Motor electric' => '5,5 kW (380V)',
                 ],
                 'meta' => [
-                    'title' => 'Malaxor beton MX 300 | MAXMANTECH',
+                    'title' => 'Malaxor mixuri si beton MX 300 | MAXMANTECH',
                     'url' => 'https://maxmantech.ro/viewProduct.php?product=20500',
                     'description' => 'Malaxor, MAXMANTECH va ofera malaxoare noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
                 ],
             ],
-            'Malaxor BP-1G-300' => [
+            'Malaxor BP 300 mixturi si beton' => [
                 'id' => '20501',
                 'category' => 'Malaxor beton',
-                'title' => 'Malaxor BP-1G-300',
+                'title' => 'Malaxor BP 300 mixturi si beton',
                 'cod' => '#150079',
+                'price' => 'PRET LA CERERE',
                 'greutate' => '600kg',
                 'inaltime' => '1685mm',
                 'latime' => '962',
@@ -608,7 +612,7 @@ return [
                     'Puterea totala instalata' => '5.5 kW',
                 ],
                 'meta' => [
-                    'title' => 'Malaxor BP-1G-300 | MAXMANTECH',
+                    'title' => 'Malaxor BP 300 mixturi si beton | MAXMANTECH',
                     'url' => 'https://maxmantech.ro/viewProduct.php?product=20501',
                     'description' => 'Malaxor, MAXMANTECH va ofera malaxoare noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
                 ],
@@ -620,14 +624,15 @@ return [
             ]
         ],
         'Presa-pavaje' => [
-            'Mașină fixă de fabricare a blocurilor de beton SUMAB E-400' => [
+            'Mașină fixă de fabricare a blocurilor de beton E-400' => [
                 'id' => '30401',
                 'category' => 'Presa pavaje',
-                'title' => 'Mașină fixă de fabricare a blocurilor de beton SUMAB E-400',
+                'title' => 'Mașină fixă de fabricare a blocurilor de beton E-400',
                 'cod' => '#120055',
                 'greutate' => '1200 kg',
                 'inaltime' => '2100 mm',
                 'latime' => '2600 mm',
+                'price' => 'PRET LA CERERE',
                 'lungime' => '5600 mm',
                 'image' => 'assets/img/products/Presa-pavaje/Presa-pavaje-1.jpeg',
                 'images' => [
@@ -635,7 +640,7 @@ return [
                     'assets/img/products/Presa-pavaje/Presa-pavaje-1-1.jpeg',
                     'assets/img/products/Presa-pavaje/Presa-pavaje-1-2.jpeg'
                 ],
-                'descriere' => 'Cu mașina staționară SUMAB E-400, următoarele produse din beton sunt produse într-un mod eficient: blocuri goale, blocuri izolate, pavaje, pietre și altele. Mașinile de bloc SUMAB sunt o garanție a calității, durabilității și fiabilității. Mașina producătoare de blocuri este produsă pe tehnologie scandinavă, folosind componente de la cei mai importanți producători europeni! ',
+                'descriere' => 'Cu mașina staționară E-400, următoarele produse din beton sunt produse într-un mod eficient: blocuri goale, blocuri izolate, pavaje, pietre și altele. Mașinile de bloc sunt o garanție a calității, durabilității și fiabilității. Mașina producătoare de blocuri este produsă pe tehnologie scandinavă, folosind componente de la cei mai importanți producători europeni! ',
                 'descriereText' => [
 
                     'Înălțimea maximă a produsului' => '330 mm',
@@ -649,17 +654,18 @@ return [
                     'Puterea totala instalata' => '5.5 kW',
                 ],
                 'meta' => [
-                    'title' => 'Mașină fixă de fabricare a blocurilor de beton SUMAB E-400 | MAXMANTECH',
+                    'title' => 'Mașină fixă de fabricare a blocurilor de beton E-400 | MAXMANTECH',
                     'url' => 'https://maxmantech.ro/viewProduct.php?product=30401',
                     'description' => 'Presa pavaje, MAXMANTECH va ofera prese pavaje noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
                 ],
             ],
-            'Presa ULTRA 3.0+' => [
+            'Presa pavaje si blocuri din beton ULTRA 3.0+' => [
                 'id' => '30443',
                 'category' => 'Presa pavaje',
-                'title' => 'Presa ULTRA 3.0+',
+                'title' => 'Presa pavaje si blocuri din beton ULTRA 3.0+',
                 'cod' => '#143279',
                 'greutate' => '2660 kg',
+                'price' => '50.500 EUR',
                 'inaltime' => '2100 mm',
                 'latime' => '2600 mm',
                 'lungime' => '6600 mm',
@@ -684,17 +690,18 @@ return [
                     'Numar de muluri pe ora' => '60 ... 120 buc',
                 ],
                 'meta' => [
-                    'title' => 'Presa ULTRA 3.0+ | MAXMANTECH',
+                    'title' => 'Presa pavaje si blocuri din beton ULTRA 3.0+ | MAXMANTECH',
                     'url' => 'https://maxmantech.ro/viewProduct.php?product=30443',
                     'description' => 'Presa pavaje, MAXMANTECH va ofera prese pavaje noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
                 ],
             ],
-            'Vibropress ULTRA Mini' => [
+            'Presa pavaje si blocuri din beton ULTRA' => [
                 'id' => '30454',
                 'category' => 'Presa pavaje',
-                'title' => 'Vibropress ULTRA Mini',
+                'title' => 'Presa pavaje si blocuri din beton ULTRA',
                 'cod' => '#133232',
                 'greutate' => '1260 kg',
+                'price' => 'PRET LA CERERE',
                 'inaltime' => '2080 mm',
                 'latime' => '2200 mm',
                 'lungime' => '1400 mm',
@@ -720,7 +727,7 @@ return [
                     'Tensiunea de alimentare' => '380/50 V/Hz'
                 ],
                 'meta' => [
-                    'title' => 'Vibropress ULTRA Mini | MAXMANTECH',
+                    'title' => 'Presa pavaje si blocuri din beton ULTRA | MAXMANTECH',
                     'url' => 'https://maxmantech.ro/viewProduct.php?product=30454',
                     'description' => 'Presa pavaje, MAXMANTECH va ofera prese pavaje noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
                 ],
@@ -738,6 +745,7 @@ return [
                 'title' => 'Uzină de beton LENTA-144',
                 'cod' => '#331232',
                 'greutate' => '25000 kg',
+                'price' => 'PRET LA CERERE',
                 'inaltime' => '9600 mm',
                 'latime' => '3700 mm',
                 'lungime' => '29800 mm',
@@ -780,6 +788,7 @@ return [
                 'greutate' => '25000 kg',
                 'inaltime' => '8650 mm',
                 'latime' => '3550 mm',
+                'price' => 'PRET LA CERERE',
                 'lungime' => '17550 mm',
                 'image' => 'assets/img/products/Statie-de-beton/Statie-de-beton-2.jpg',
                 'images' => [
@@ -817,6 +826,79 @@ return [
                 'url' => 'https://maxmantech.ro/category.php?category=Stati-de-beton',
                 'description' => 'Stati de beton, MAXMANTECH va ofera stati de beton noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
             ]
-        ]
+        ],
+        'Electrostivuitoare' => [
+            'Stivuitor cu trei roți 1,0 - 1,5t EFG 110-115' => [
+                'id' => '63100',
+                'category' => 'Electrostivuitoare',
+                'title' => 'Stivuitor cu trei roți 1,0 - 1,5t EFG 110-115',
+                'cod' => '#122255',
+                '' =>'',
+
+                'price' => 'PRET LA CERERE',
+                'image' => 'assets/img/products/Electrostivuitoare/Electrostivuitoare-1.png',
+                'images' => [
+                    'assets/img/products/Electrostivuitoare/Electrostivuitoare-1-0.png',
+                    'assets/img/products/Electrostivuitoare/Electrostivuitoare-1-1.png'
+                ],
+                'descriere' => 'Electrostivuitoarele din seria constructivă 1, cu contragreutate, sunt extrem de compacte şi manevrabile. Reprezintă soluţia economică pentru transferul rapid al mărfurilor, atât în interiorul, cât şi în exteriorul clădirilor. Acestea combină eficienţa şi flexibilitatea ridicată, cu cea mai mare siguranţă posibilă. Construcţia compactă şi tracţiunea pe spate cu 1 motor permit rotirea pe loc cu 180°, pentru manevrabilitate maximă. Devine astfel posibilă manevrarea rapidă şi precisă - pentru performanţă maximă chiar şi în condiţii de spaţiu restrâns, în special la încărcarea și descărcarea autocamioanelor. În plus, bateriile noastre cu plumb-acid de cea mai buna calitate recunoscută, garantează caracteristici de performanţă şi rezistenţă ridicate.Motoarele de deplasare şi ridicare sunt trifazice, fără necesar de întreţinere şi cabina ergonomică cu vizibilitate în toate direcțiile asigură un comportament de deplasare sigur şi condiţii de lucru optime. Posibilităţile de ajustare individuală în funcţie de deservent, constituie baza pentru desfăşurarea ergonomică a lucrului cu eficienţă ridicată, în orice spaţiu al depozitului.',
+                'descriereText' => [
+
+                    'Înălțimea maximă a produsului' => '330 mm',
+                    'Înălțimea minimă a produsului' => '40 mm',
+                    'Greutatea mașinii cu echipament de amestecare a feței și o matriță' => '5200 kg',
+                    'Putere electrică instalată' => '15 kW',
+                    'Capacitatea principală a buncărului de beton' => '700 l',
+                    'Capacitatea buncărului din beton față' => '300 l',
+                    'Capacitatea de producție în 8h / 100%' => 'Bloc gol: 4 500 bucăți (20x20x40 cm)',
+                    'Tensiunea de alimentare' => '380Hz\50V',
+                    'Puterea totala instalata' => '5.5 kW',
+                ],
+                'meta' => [
+                    'title' => 'Stivuitor cu trei roți 1,0 - 1,5t EFG 110-115 | MAXMANTECH',
+                    'url' => 'https://maxmantech.ro/viewProduct.php?product=63100',
+                    'description' => 'Electrostivuitoare, MAXMANTECH va ofera electrostivuitoare noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
+                ],
+            ],
+            'Presa pavaje si blocuri din beton ULTRA' => [
+                'id' => '30454',
+                'category' => 'Presa pavaje',
+                'title' => 'Presa pavaje si blocuri din beton ULTRA',
+                'cod' => '#113998',
+                'greutate' => '17500  kg',
+                'putere' => '119  CP',
+                'image' => 'assets/img/products/Presa-pavaje/Presa-pavaje-3.jpg',
+                'images' => [
+                    'assets/img/products/Presa-pavaje/Presa-pavaje-3-0.jpg',
+                    'assets/img/products/Presa-pavaje/Presa-pavaje-3-1.jpg',
+                    'assets/img/products/Presa-pavaje/Presa-pavaje-3-2.jpg',
+                    'assets/img/products/Presa-pavaje/Presa-pavaje-3-3.jpg',
+                ],
+                'descriere' => 'Funcționarea vibropresului ULTRA-Mini începe cu instalarea unui palet tehnologic direct pe o masă vibrantă, cu o putere de 4 kW cu un convertor de frecvență Schneider Electric. Apoi, umplem matricea vibropresului cu un amestec de beton gata preparat. Apoi pumnul este coborât și are loc procesul de vibrocompresie. După aceea, produsele modelate sunt îndepărtate din pin.',
+                'descriereText' => [
+
+                    'Productivitate pentru pietre de perete' => '390x190x188, bucăți pe oră: 135',
+                    'Productivitate pe placi de pavaj ' => '100x200, bucăți pe oră: 450',
+                    'Dimensiunea zonei de formare' => '400 x 600 mm x mm',
+                    'Inaltimea zonei de turnare' => '50 ... 200 mm',
+                    'Ciclul de formare' => '30 ... 80 sec',
+                    'Puterea instalata' => '8 kW',
+                    'Frecventa vibratiilor mesei vibrante' => '45 ... 85 Hz',
+                    'Presiunea sistemului hidraulic' => '6 ... 12 MPa',
+                    'Numar de muluri pe ora' => '45 ... 120 buc',
+                    'Tensiunea de alimentare' => '380/50 V/Hz'
+                ],
+                'meta' => [
+                    'title' => 'Presa pavaje si blocuri din beton ULTRA | MAXMANTECH',
+                    'url' => 'https://maxmantech.ro/viewProduct.php?product=30454',
+                    'description' => 'Presa pavaje, MAXMANTECH va ofera prese pavaje noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
+                ],
+            ],
+            'meta' => [
+                'title' => 'Presa pavaje | MAXMANTECH',
+                'url' => 'https://maxmantech.ro/category.php?category=Presa-pavaje',
+                'description' => 'Presa pavaje, MAXMANTECH va ofera prese pavaje noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
+            ]
+        ],
     ]
 ];

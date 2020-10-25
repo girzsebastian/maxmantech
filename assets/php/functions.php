@@ -27,8 +27,8 @@ function buildCategoryByName(array $categoryArray)
                         if ($value['category'] == 'Banda transportatoare' or $value['category'] == 'Malaxor beton' or $value['category'] == 'Presa pavaje' or $value['category'] == 'Statie de beton') {
                             $file = file_get_contents('assets/html/productCard2.html');
                             $file = str_replace(
-                                ['{{ image }}', '{{ title }}', '{{ cod }}', '{{ inaltime }}', '{{ lungime }}', '{{ latime }}', '{{ greutate }}', '{{ id }}'],
-                                [$value['image'], $value['title'], $value['cod'], $value['inaltime'], $value['lungime'], $value['latime'], $value['greutate'], $value['id']], $file);
+                                ['{{ image }}', '{{ title }}', '{{ cod }}', '{{ inaltime }}', '{{ lungime }}', '{{ latime }}', '{{ greutate }}', '{{ id }}', '{{ price }}'],
+                                [$value['image'], $value['title'], $value['cod'], $value['inaltime'], $value['lungime'], $value['latime'], $value['greutate'], $value['id'], $value['price']], $file);
                             $category[$key] = $file;
                         } else {
                             $file = file_get_contents('assets/html/productCard.html');

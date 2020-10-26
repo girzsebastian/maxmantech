@@ -22,12 +22,6 @@ function buildCategoryByName(array $categoryArray)
                    if (array_key_exists("image", $value) &&
                         array_key_exists("title", $value) &&
                         array_key_exists("cod", $value) &&
-//                        array_key_exists("greutate", $value) &&
-//                        array_key_exists("capacitate", $value) &&
-//                       array_key_exists("cursa", $value) &&
-//                       array_key_exists("viteza", $value) &&
-//                       array_key_exists("lungime", $value) &&
-//                       array_key_exists("tensiune", $value) &&
                         array_key_exists("id", $value)) {
                         if ($value['category'] == 'Banda transportatoare' or $value['category'] == 'Malaxor beton' or $value['category'] == 'Presa pavaje' or $value['category'] == 'Statie de beton') {
                             $file = file_get_contents('assets/html/productCard2.html');
@@ -44,11 +38,13 @@ function buildCategoryByName(array $categoryArray)
                             $category[$key] = $file;
                         }
                         else {
-                            $file = file_get_contents('assets/html/productCard.html');
-                            $file = str_replace(
-                                ['{{ image }}', '{{ title }}', '{{ cod }}', '{{ putere }}', '{{ greutate }}', '{{ id }}'],
-                                [$value['image'], $value['title'], $value['cod'], $value['putere'], $value['greutate'], $value['id']], $file);
-                            $category[$key] = $file;
+                            if (array_key_exists("putere", $value)) {
+                                $file = file_get_contents('assets/html/productCard.html');
+                                $file = str_replace(
+                                    ['{{ image }}', '{{ title }}', '{{ cod }}', '{{ putere }}', '{{ greutate }}', '{{ id }}'],
+                                    [$value['image'], $value['title'], $value['cod'], $value['putere'], $value['greutate'], $value['id']], $file);
+                                $category[$key] = $file;
+                            }
                         }
                     }
                 }
@@ -140,6 +136,7 @@ function getProductById(string $product, array $array)
                                         $resultSet['latime'] = $value2['latime'];
                                         $resultSet['lungime'] = $value2['lungime'];
                                         $resultSet['image'] = $value2['image'];
+                                        $resultSet['price'] = $value2['price'];
                                         $resultSet['images'] = $value2['images'];
                                         $resultSet['descriere'] = $value2['descriere'];
                                         $resultSet['descriereText'] = $value2['descriereText'];
@@ -174,6 +171,7 @@ function getProductById(string $product, array $array)
                                         $resultSet['cod'] = $value2['cod'];
                                         $resultSet['greutate'] = $value2['greutate'];
                                         $resultSet['putere'] = $value2['putere'];
+                                        $resultSet['price'] = $value2['price'];
                                         $resultSet['image'] = $value2['image'];
                                         $resultSet['images'] = $value2['images'];
                                         $resultSet['descriere'] = $value2['descriere'];
@@ -256,8 +254,8 @@ function buildProductByName(array $productArray, array $descriptionArray)
         $descriere2 = descriere2($descriptionArray);
         $images = images($productArray);
         $file = str_replace(
-            ['{{ image }}', '{{ title }}', '{{ cod }}', '{{ greutate }}', '{{ inaltime }}', '{{ latime }}', '{{ lungime }}', '{{ descriere }}', '{{ descriereText }}', '{{ images }}'],
-            [$productArray['image'], $productArray['title'], $productArray['cod'], $productArray['greutate'], $productArray['inaltime'], $productArray['latime'], $productArray['lungime'], $productArray['descriere'], $descriere2, $images], $file);
+            ['{{ image }}', '{{ title }}', '{{ cod }}', '{{ greutate }}', '{{ inaltime }}', '{{ latime }}', '{{ lungime }}', '{{ descriere }}', '{{ descriereText }}', '{{ images }}', '{{ price }}'],
+            [$productArray['image'], $productArray['title'], $productArray['cod'], $productArray['greutate'], $productArray['inaltime'], $productArray['latime'], $productArray['lungime'], $productArray['descriere'], $descriere2, $images, $productArray['price']], $file);
         $product[] = $file;
         return implode('', $product);
     }

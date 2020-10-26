@@ -16,7 +16,7 @@ function suna(item){
     let text = parent.children[0].textContent;
     let id = item.getAttribute('id');
     if (id === '0'){
-        parent.children[0].textContent = '+40 771 466 ' +
+        parent.children[0].textContent = '+40 757 643 019' +
             '461';
         item.setAttribute('id', '1');
     }else{

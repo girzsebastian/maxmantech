@@ -30,34 +30,39 @@
             </div>
         </div>
         <div class="col-lg-6 col-md-12 col-sm-12">
-            <div class="row pl-4">
+            <div class="row pl-4 mb-5">
                 <h1>{{ title }}</h1>
             </div>
+
             <div class="row m-2">
                 <div class="col-lg-4 col-md-6 col-sm-6">Cod:</div>
                 <div class="col-lg-4 col-md-6 col-sm-6 text-right">{{ cod }}</div>
             </div>
             <div class="row m-2">
-                <div class="col-lg-4 col-md-6 col-sm-6">Greutate:</div>
-                <div class="col-lg-4 col-md-6 col-sm-6 text-right">{{ greutate }}</div>
+                <div class="col-lg-4 col-md-6 col-sm-6">Capacitate portanta maxima:</div>
+                <div class="col-lg-4 col-md-6 col-sm-6 text-right">{{ capacitate }}</div>
             </div>
             <div class="row m-2">
-                <div class="col-lg-4 col-md-6 col-sm-6">Inaltime:</div>
-                <div class="col-lg-4 col-md-6 col-sm-6 text-right">{{ inaltime }}</div>
+                <div class="col-lg-4 col-md-6 col-sm-6">Cursa maxima (h3):</div>
+                <div class="col-lg-4 col-md-6 col-sm-6 text-right">{{ cursa }}</div>
             </div>
             <div class="row m-2">
-                <div class="col-lg-4 col-md-6 col-sm-6">Latime:</div>
-                <div class="col-lg-4 col-md-6 col-sm-6 text-right">{{ latime }}</div>
+                <div class="col-lg-4 col-md-6 col-sm-6">Viteza de deplasare:</div>
+                <div class="col-lg-4 col-md-6 col-sm-6 text-right">{{ viteza }}</div>
             </div>
             <div class="row m-2">
-                <div class="col-lg-4 col-md-6 col-sm-6">Lungime:</div>
+                <div class="col-lg-4 col-md-6 col-sm-6">Lungime totala:</div>
                 <div class="col-lg-4 col-md-6 col-sm-6 text-right">{{ lungime }}</div>
+            </div>
+            <div class="row m-2">
+                <div class="col-lg-4 col-md-6 col-sm-6">Tensiune baterie:</div>
+                <div class="col-lg-4 col-md-6 col-sm-6 text-right">{{ tensiune }}</div>
             </div>
             <div class="row w-75 mt-5 justify-content-center m-auto">
                 <p style="font-weight: bold; font-size: 32px">{{ price }}</p>
             </div>
             <div class="row justify-content-center mr-5 ml-5">
-                <button type="button" class="btn btn-warning w-75" style="font-weight: bold; color: white; text-shadow: black 0 1px 3px;" onclick="contact()">VREAU OFERTA</button>
+                <button type="button" class="btn btn-warning w-75" style="font-weight: bold; color: white; text-shadow: black 0 1px 3px;" onclick="contact()">COMANDA ACUM</button>
             </div>
             <div class="row justify-content-center m-5">
                 <button type="button" class="btn btn-success w-50" id="0" onclick="suna(this)">Suna-ne</button>
@@ -68,9 +73,9 @@
 
 <div class="container-fluid col-lg-8 col-md-8 col-sm-10 p-0 mt-5 mb-5">
         <div class="col-lg-12 col-md-10 col-sm-10">
-             <h3 class="mb-4">Specificatii Tehnice</h3>
+             <h3 class="mb-4">Detalii</h3>
                {{ descriereText }}
-            <div class="row justify-content-center mt-5">
+            <div class="row mt-5">
                 {{ descriere }}
             </div>
         </div>

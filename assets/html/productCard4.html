@@ -1,0 +1,54 @@
+<div class="container-fluid col-lg-8 col-md-8 col-sm-10 p-0 mb-5 product-grid">
+    <div class="row">
+        <div class="col-lg-3 col-md-12 co-sm-12 container-img-product">
+            <a href="https://maxmantech.ro/productView.php?product={{ id }}">
+                <img src="https://maxmantech.ro/{{ image }}" alt="{{ title }}" class="img-fluid">
+            </a>
+        </div>
+        <div class="col-lg-9 col-md-12 col-sm-12 d-flex container-product-info">
+            <div class="col-lg-8 col-md-8 col-sm-8 p-0">
+                <div class="row">
+                    <div class="product-title-div">
+                        <h3 class="product-title">{{ title }}</h3>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-8 col-md-8 col-sm-12">
+                        <div class="row border-bottom m-2">
+                            <div class="col-lg-6 col-md-6 col-sm-6">Cod:</div>
+                            <div class="col-lg-6 col-md-6 col-sm-6 text-right">{{ cod }}</div>
+                        </div>
+                        <div class="row border-bottom m-2">
+                            <div class="col-lg-6 col-md-6 col-sm-6">Capacitate portanta maxima:</div>
+                            <div class="col-lg-6 col-md-6 col-sm-6 text-right">{{ capacitate }}</div>
+                        </div>
+                        <div class="row border-bottom m-2">
+                            <div class="col-lg-6 col-md-6 col-sm-6">Cursa maxima (h3):</div>
+                            <div class="col-lg-6 col-md-6 col-sm-6 text-right">{{ cursa }}</div>
+                        </div>
+                        <div class="row border-bottom m-2">
+                            <div class="col-lg-6 col-md-6 col-sm-6">Viteza de deplasare:</div>
+                            <div class="col-lg-6 col-md-6 col-sm-6 text-right">{{ viteza }}</div>
+                        </div>
+                        <div class="row border-bottom m-2">
+                            <div class="col-lg-6 col-md-6 col-sm-6">Lungime totala:</div>
+                            <div class="col-lg-6 col-md-6 col-sm-6 text-right">{{ lungime }}</div>
+                        </div>
+                        <div class="row border-bottom m-2">
+                            <div class="col-lg-6 col-md-6 col-sm-6">Tensiune baterie:</div>
+                            <div class="col-lg-6 col-md-6 col-sm-6 text-right">{{ tensiune }}</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-4">
+                <div class="row justify-content-center price">
+                    <h4 class="price-text">{{ price }}</h4>
+                </div>
+                <div class="row justify-content-center price-grid">
+                    <a class="product-link-button" href="https://maxmantech.ro/viewProduct.php?product={{ id }}">Vezi Detalii</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

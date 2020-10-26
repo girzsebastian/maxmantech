@@ -64,6 +64,11 @@
            'img' => 'Banda-transportatoare.jpg',
            'category' => 'category.php?category=Banda-transportatoare'
        ],
+       'Electrostivuitoare' => [
+           'title' => 'Electrostivuitoare',
+           'img' => 'Electrostivuitoare.jpg',
+           'category' => 'category.php?category=Electrostivuitoare.jpg'
+       ],
        'meta' => [
            'title' => 'Utilaje | MAXMANTECH',
            'url' => 'https://maxmantech.ro/utilaje.php',

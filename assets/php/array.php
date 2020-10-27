@@ -891,8 +891,6 @@ return [
                 'tensiune' => '80 V',
                 'image' => 'assets/img/products/Electrostivuitoare/Electrostivuitoare-3.png',
                 'images' => [
-                    'assets/img/products/Electrostivuitoare/Electrostivuitoare-3-0.png',
-                    'assets/img/products/Electrostivuitoare/Electrostivuitoare-3-1.png'
                 ],
                 'descriere' => '<table><tbody><tr><td colspan="1" rowspan="1"><strong>Model</strong></td><td colspan="1" rowspan="1"><strong>Capacitate portantă maximă</strong></td><td colspan="1" rowspan="1"><strong>Cursa maximă (h3)</strong></td><td colspan="1" rowspan="1"><strong>Viteza de <br>deplasare</strong></td><td colspan="1" rowspan="1"><strong>Lungime <br>totală</strong></td><td colspan="1" rowspan="1"><br><strong>Tensiune <br>baterie</strong><br>&nbsp;</td></tr><tr><td colspan="1" rowspan="1">EFG 425k</td><td colspan="1" rowspan="1">2500 kg</td><td colspan="1" rowspan="1">7500 mm</td><td colspan="1" rowspan="1">20 km/h</td><td colspan="1" rowspan="1">3446 mm</td><td colspan="1" rowspan="1"><br>80 V<br>&nbsp;</td></tr><tr><td colspan="1" rowspan="1">EFG 425</td><td colspan="1" rowspan="1">2500 kg</td><td colspan="1" rowspan="1">7500 mm</td><td colspan="1" rowspan="1">20 km/h</td><td colspan="1" rowspan="1">3591 mm</td><td colspan="1" rowspan="1"><br>80 V<br>&nbsp;</td></tr><tr><td colspan="1" rowspan="1">EFG 430k</td><td colspan="1" rowspan="1">3000 kg</td><td colspan="1" rowspan="1">7500 mm</td><td colspan="1" rowspan="1">20 km/h</td><td colspan="1" rowspan="1">3467 mm</td><td colspan="1" rowspan="1"><br>80 V<br>&nbsp;</td></tr><tr><td colspan="1" rowspan="1">EFG 430</td><td colspan="1" rowspan="1">3000 kg</td><td colspan="1" rowspan="1">7500 mm</td><td colspan="1" rowspan="1">20 km/h</td><td colspan="1" rowspan="1">3612 mm</td><td colspan="1" rowspan="1"><br>80 V<br>&nbsp;</td></tr><tr><td colspan="1" rowspan="1">EFG S30</td><td colspan="1" rowspan="1">3000 kg</td><td colspan="1" rowspan="1">7500 mm</td><td colspan="1" rowspan="1">20 km/h</td><td colspan="1" rowspan="1">3617 mm</td><td colspan="1" rowspan="1"><br>80 V<br>&nbsp;</td></tr></tbody></table>',
                 'descriereText' => [
@@ -901,6 +899,31 @@ return [
                 'meta' => [
                     'title' => 'Electrostivuitor 1.2t | MAXMANTECH',
                     'url' => 'https://maxmantech.ro/viewProduct.php?product=63104',
+                    'description' => 'Electrostivuitoare, MAXMANTECH va ofera electrostivuitoare noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
+                ],
+            ],
+            'Stivuitor electric tip "Rider"' => [
+                'id' => '63106',
+                'category' => 'Electrostivuitoare',
+                'title' => 'Stivuitor electric tip "Rider"',
+                'cod' => '#223145',
+                'viteza' => '20 km/h',
+                'lungime' => '3446 - 3617 mm',
+                'capacitate' => '2500 - 3000 kg',
+                'cursa' => '7500 mm',
+                'price' => '7930 euro +TVA',
+                'tensiune' => '80 V',
+                'image' => 'assets/img/products/Electrostivuitoare/Electrostivuitoare-4.png',
+                'images' => [
+                    'assets/img/products/Electrostivuitoare/Electrostivuitoare-4-0.png',
+                ],
+                'descriere' => '<table><tbody><tr><td colspan="1" rowspan="1"><strong>Model</strong></td><td colspan="1" rowspan="1"><strong>Capacitate portantă maximă</strong></td><td colspan="1" rowspan="1"><strong>Cursa maximă (h3)</strong></td><td colspan="1" rowspan="1"><strong>Viteza de <br>deplasare</strong></td><td colspan="1" rowspan="1"><strong>Lungime <br>totală</strong></td><td colspan="1" rowspan="1"><br><strong>Tensiune <br>baterie</strong><br>&nbsp;</td></tr><tr><td colspan="1" rowspan="1">EFG 425k</td><td colspan="1" rowspan="1">2500 kg</td><td colspan="1" rowspan="1">7500 mm</td><td colspan="1" rowspan="1">20 km/h</td><td colspan="1" rowspan="1">3446 mm</td><td colspan="1" rowspan="1"><br>80 V<br>&nbsp;</td></tr><tr><td colspan="1" rowspan="1">EFG 425</td><td colspan="1" rowspan="1">2500 kg</td><td colspan="1" rowspan="1">7500 mm</td><td colspan="1" rowspan="1">20 km/h</td><td colspan="1" rowspan="1">3591 mm</td><td colspan="1" rowspan="1"><br>80 V<br>&nbsp;</td></tr><tr><td colspan="1" rowspan="1">EFG 430k</td><td colspan="1" rowspan="1">3000 kg</td><td colspan="1" rowspan="1">7500 mm</td><td colspan="1" rowspan="1">20 km/h</td><td colspan="1" rowspan="1">3467 mm</td><td colspan="1" rowspan="1"><br>80 V<br>&nbsp;</td></tr><tr><td colspan="1" rowspan="1">EFG 430</td><td colspan="1" rowspan="1">3000 kg</td><td colspan="1" rowspan="1">7500 mm</td><td colspan="1" rowspan="1">20 km/h</td><td colspan="1" rowspan="1">3612 mm</td><td colspan="1" rowspan="1"><br>80 V<br>&nbsp;</td></tr><tr><td colspan="1" rowspan="1">EFG S30</td><td colspan="1" rowspan="1">3000 kg</td><td colspan="1" rowspan="1">7500 mm</td><td colspan="1" rowspan="1">20 km/h</td><td colspan="1" rowspan="1">3617 mm</td><td colspan="1" rowspan="1"><br>80 V<br>&nbsp;</td></tr></tbody></table>',
+                'descriereText' => [
+                    'Stivuitoarele noastre electrice cu patru roţi din seria constructivă 4, versatile şi eficiente, sunt adecvate pentru utilizări variate la interior şi la exterior - de la aplicaţii specifice anumitor branşe cu dispozitive ataşate personalizate, până la transferul rapid al unor sarcini înalte. Conceptul PureEnergy reduce în mod semnificativ consumul şi garantează eficienţă maximă, prin tehnologia trifazică avansată în combinaţie cu sistemul hidraulic şi de comandă compact. Măsurători conform ciclului VDI: la capacitate maximă de transfer, consumul de energie al stivuitoarelor noastre EFG din seria constructivă 4 este cu până la 10% mai redus decât cel al modelelor comparabile ale concurenţei.Catargul de ridicare compact, cu câmp vizual extins, asigură operatorului cea mai bună vizibilitate existentă pe piaţă. Flexibilitatea şi siguranţa sunt asigurate de elemente de operare suplimentare, reglabile individual. Cu elemente de ergonomie sofisticate şi operare intuitivă, utilajele EFG din seria constructivă 4 reprezintă adevărate pachete de forţă cu utilitate universală pentru cerinţe ridicate.' => '',
+                ],
+                'meta' => [
+                    'title' => 'Stivuitor electric tip "Rider" | MAXMANTECH',
+                    'url' => 'https://maxmantech.ro/viewProduct.php?product=63106',
                     'description' => 'Electrostivuitoare, MAXMANTECH va ofera electrostivuitoare noi cu garantie, transport si service (inclusiv piese) chiar si dupa livrarea acestora.',
                 ],
             ],

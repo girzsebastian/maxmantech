@@ -66,8 +66,8 @@
        ],
        'Electrostivuitoare' => [
            'title' => 'Electrostivuitoare',
-           'img' => 'Electrostivuitoare.jpg',
-           'category' => 'category.php?category=Electrostivuitoare.jpg'
+           'img' => 'Electrostivuitoare.png',
+           'category' => 'category.php?category=Electrostivuitoare'
        ],
        'meta' => [
            'title' => 'Utilaje | MAXMANTECH',
